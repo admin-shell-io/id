@@ -13,7 +13,8 @@ The subnamespace AAS and its identifiers have been accepted by the Coordination 
 ## AssetAdministrationShell
 The Asset Administration Shell class. Inherits from HasDataSpecification and Identifiable.
 
-[https://admin-shell.io/AAS/AssetAdministrationShell/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/2/0/) The Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+[https://admin-shell.io/AAS/AssetAdministrationShell/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/2/0/) - The Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+[https://admin-shell.io/AAS/AssetAdministrationShell/1/0/](https://admin-shell.io/AAS/AssetAdministrationShell/1/0/) - The Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 1.0'.
 
 
 ## AssetAdministrationShell/asset

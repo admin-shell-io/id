@@ -1,45 +1,37 @@
-# Asset Administration Shell Identifiers
+# Template
 
-The Asset Administration Shell itself only defines the structure and syntax of the Industry 4.0 Component. Content, its features, attributes and values need to be semantically defined. It is not in scope of the Platform Industry 4.0 to define and/or maintain such domain-specific entities itself. Therefore, definitions and terms from external vocabulary providers are recommended, for instance [eCl@ss]() or [IEC CDD](). 
+This document serves as a template for your identifiers. Copy it into your desired subnamespace folder, and replace the sections accordingly. The more detailled information you can provide, the faster your request can be processed. Please note that all explanations have to be in English only.
 
-While many attributes, properties and values are defined in such vocabularies, there is a significant chance that some necessary entities are still missing. The 'Asset Administration Shell Identifiers' is preliminary approach to provide a first, lightweight location to register new identifiers. This is done by relying on the [admin-shell.io](http://admin-shell.io) domain as a common namespace.
+## Introduction
 
-The Coordination Board of the Plattform Industry 4.0 is maintaining the Asset Administration Shell Identifiers and ensures the contiuity and stability of the identifiers. As such, it is in the authority of the Coordination Board to accept, revise, adjust or decline requested identifiers. 
-
-
-## Identifier Scheme and Description
-
-The identifiers are encoded as URIs, in the HTTP scheme. The following pattern is used:
-
-http(s)://admin-shell.io/'<subnamespace>'/'<ShortId>'/'<version>'/'<revision>'/
-
-It is recommended to use the qualified names for the subnamespace and the ShortId. Especially should the subnamespace indicate the domain or use case it is intended to be used. Exisiting 
+Give some information on the background of the subnamespace. Explain why it is relevant for Industry 4.0 and what you want to accomplish.
 
 
+## Identifier 1 (ShortId)
 
-## Registering Process
+Add the ShortId in the headline. We recommend using [Camel Case](https://en.wikipedia.org/wiki/Camel_case) Notation. Properties, attributes or in general any SubmodelElements start with a lower case, while classes or named entities have a capital first letter. Please arrange the words alphabetically, so start with 'a' and end with 'z'. No numbers or special characters are allowed at the first position.
 
-There are two possible processes to request identifiers:
-
-1. Work with the Github
-- Fork the [GitHub Repo](https://github.com/sebbader/id/)
-- Add a new folder with the subnamespace as its name
-- Create a README following the template in https://github.com/sebbader/id/template/README.txt
-- Create a Pull Request from your forked repository to the original
-
-2. Contact the [Coordination Board for Submodels](mailto:coordination-board@admin-shell.io)
-- Explain the purpose of the new identifier(s)
-- Attach the filled [template](https://github.com/sebbader/id/template/README.txt)
-
-The request will be processed as soon as possible. However, no guaranteed process time can be given. 
+[https://admin-shell.io/template/ShortId/version/revision](https://admin-shell.io/template/ShortId/version/revision) (Add the complete URI of your identifier here. Start with the latest version and revision.) Description: explain what your identifier means and why it is necessary. Give as much information as possiblebut not much more than one paragraph each.
 
 
-## Guidelines
+[https://admin-shell.io/template/ShortId/oldVersion/oldRevision](https://admin-shell.io/template/ShortId/oldVersion/oldRevision) (list all old versions/revisions under the currently valid one.) Description: Explain their meaning and add at least one sentence why you needed to deprecate the identifier.
 
-Only organizations can suggest Asset Administration Shell Identifiers, requests from individuals cannot be regarded. Please take care that your organization is there for the next years. 
+[https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision](https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision) (see above)
 
-Add contact information. Only requests with at least two valid and responding email addresses will be regarded. In case the contact person changes, please update the according information in the repsective README or inform the Coordination Board. 
 
-Use Asset Administration Shell Identifiers only for Industry 4.0 related topics. This offer is not intended for any identifiers but has a strong focus on Industry 4.0 and the Asset Administration Shell.
+## Identifier 2 (ShortId)
 
-Asset Administration Shell Identifiers are intended to stay. Please think about really necessary terms and entities and restrict them to a minimal set.
+The next identifier of the subnamespace. And so on.
+
+...
+
+## Identifier n (ShortId)
+
+The last identifier of the subnamespace.
+
+
+## Contact
+
+Name and describe the organization which suggested these identifiers. If possible, add a [website](https://example.org/).
+
+State who can be contacted for questions. Please name at least two contact [persons](mailto:contact@example.org) with emails. You may also add a email list as long as you can be reached reliably other the next years.

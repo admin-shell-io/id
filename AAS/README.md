@@ -1,37 +1,51 @@
-# Template
+# AAS (Asset Administration Shell)
 
-This document serves as a template for your identifiers. Copy it into your desired subnamespace folder, and replace the sections accordingly. The more detailled information you can provide, the faster your request can be processed. Please note that all explanations have to be in English only.
+This is the subnamespace resevered for the Asset Administration Shell Metamodel. 
 
 ## Introduction
 
-Give some information on the background of the subnamespace. Explain why it is relevant for Industry 4.0 and what you want to accomplish.
+The Metamodel itself is defined in the 'Details of the Asset Administration Shell - Part 1'. Only classes, attributes and named entities used in this model are allowed in this subnamespace. The Metamodel is the core resource for the structure of the Asset Administration Shell and provides the frame for all further specifications. The following entities are defined in the Metamodel but also serve as an example how to use the 'Asset Administration Shell Identifiers' in general.
 
 
-## Identifier 1 (ShortId)
+## AssetAdministrationShell
+The Asset Administration Shell class. Inherits from HasDataSpecification and Identifiable.
 
-Add the ShortId in the headline. We recommend using [Camel Case](https://en.wikipedia.org/wiki/Camel_case) Notation. Properties, attributes or in general any SubmodelElements start with a lower case, while classes or named entities have a capital first letter. Please arrange the words alphabetically, so start with 'a' and end with 'z'. No numbers or special characters are allowed at the first position.
-
-[https://admin-shell.io/template/ShortId/version/revision](https://admin-shell.io/template/ShortId/version/revision) (Add the complete URI of your identifier here. Start with the latest version and revision.) Description: explain what your identifier means and why it is necessary. Give as much information as possiblebut not much more than one paragraph each.
-
-
-[https://admin-shell.io/template/ShortId/oldVersion/oldRevision](https://admin-shell.io/template/ShortId/oldVersion/oldRevision) (list all old versions/revisions under the currently valid one.) Description: Explain their meaning and add at least one sentence why you needed to deprecate the identifier.
-
-[https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision](https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision) (see above)
+[https://admin-shell.io/AAS/AssetAdministrationShell/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/2/0/) The Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 
-## Identifier 2 (ShortId)
+## AssetAdministrationShell/asset
+The reference to the AAS the AAS was derived from. Links to an Asset Reference and is mandatory for every AssetAdministrationShell instance.
 
-The next identifier of the subnamespace. And so on.
+[https://admin-shell.io/AAS/AssetAdministrationShell/asset/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/asset/2/0/) The attribute 'asset' of the Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
-...
+## AssetAdministrationShell/conceptDictionary
+An AAS max have one or more concept dictionaries assigned to it. The concept dictionaries typically contain only descriptions for elements that are also used within the AAS (via HasSemantics). Optional attribute linking to a ConceptDictionary.
 
-## Identifier n (ShortId)
+[https://admin-shell.io/AAS/AssetAdministrationShell/conceptDictionary/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/conceptDictionary/2/0/) The attribute 'conceptDictionary' of the Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
-The last identifier of the subnamespace.
+## AssetAdministrationShell/derivedFrom
+The reference to the AAS the AAS was derived from. Optional (max 1) attribute linking to an AssetAdministrationShell reference.
+
+[https://admin-shell.io/AAS/AssetAdministrationShell/derivedFrom/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/derivedFrom/2/0/) The attribute 'derivedFrom' of the Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+## AssetAdministrationShell/security
+Definition of the security relevant aspects of the AAS. Optional (max 1) attribute linking to an Security object.
+
+[https://admin-shell.io/AAS/AssetAdministrationShell/security/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/security/2/0/) The attribute 'security' of the Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+## AssetAdministrationShell/submodel
+The asset of an AAS is typically described by one or more submodels. Temporarily no submodel might be assigned to the AAS. Links to an Submodel Reference.
+
+[https://admin-shell.io/AAS/AssetAdministrationShell/submodel/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/submodel/2/0/) The attribute 'submodel' of the Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+## AssetAdministrationShell/view
+If needed stakeholder specific views can be defined on the elements of the AAS. Optional attribute which links to a View.
+
+[https://admin-shell.io/AAS/AssetAdministrationShell/view/2/0/](https://admin-shell.io/AAS/AssetAdministrationShell/view/2/0/) The attribute 'view' of the Asset Administration Shell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+
 
 
 ## Contact
 
-Name and describe the organization which suggested these identifiers. If possible, add a [website](https://example.org/).
-
-State who can be contacted for questions. Please name at least two contact [persons](mailto:contact@example.org) with emails. You may also add a email list as long as you can be reached reliably other the next years.
+This subnamespace was created by the [Plattform Industrie 4.0](https://www.plattform-i40.de/). The [Coordination Board Submodels](mailto:coordination-board@admin-shell.io) maintains these identifiers.

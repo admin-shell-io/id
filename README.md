@@ -11,7 +11,7 @@ The Coordination Board of the Plattform Industry 4.0 is maintaining the Asset Ad
 
 The identifiers are encoded as URIs, in the HTTP scheme. The following pattern is used:
 
-http(s)://admin-shell.io/'<subnamespace>'/'<ShortId>'/'<version>'/'<revision>'/
+http(s)://admin-shell.io/`<subnamespace>`/`<ShortId>`/`<version>`/`<revision>`/
 
 It is recommended to use the qualified names for the subnamespace and the ShortId. Especially should the subnamespace indicate the domain or use case it is intended to be used. Exisiting 
 

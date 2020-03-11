@@ -13,7 +13,7 @@ The identifiers are encoded as URIs, in the HTTP scheme. The following pattern i
 
 http(s)://admin-shell.io/`<subnamespace>`/`<ShortId>`/`<version>`/`<revision>`/
 
-It is recommended to use the qualified names for the subnamespace and the ShortId. Especially should the subnamespace indicate the domain or use case it is intended to be used. Exisiting 
+It is recommended to use the qualified names for the subnamespace and the ShortId. Especially should the subnamespace indicate the domain or use case it is intended to be used. Exisiting subnamespace can only be extended by the organization which originally suggested it, or with their consent, or through the Coordination Board.
 
 
 
@@ -24,12 +24,12 @@ There are two possible processes to request identifiers:
 1. Work with the Github
 - Fork the [GitHub Repo](https://github.com/sebbader/id/)
 - Add a new folder with the subnamespace as its name
-- Create a README following the template in https://github.com/sebbader/id/template/README.txt
+- Create a README following the template in https://github.com/sebbader/id/template/README.md
 - Create a Pull Request from your forked repository to the original
 
 2. Contact the [Coordination Board for Submodels](mailto:coordination-board@admin-shell.io)
 - Explain the purpose of the new identifier(s)
-- Attach the filled [template](https://github.com/sebbader/id/template/README.txt)
+- Attach the filled [template](https://github.com/sebbader/id/template/README.md)
 
 The request will be processed as soon as possible. However, no guaranteed process time can be given. 
 

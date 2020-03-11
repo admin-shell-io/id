@@ -6,6 +6,10 @@ This document serves as a template for your identifiers. Copy it into your desir
 
 Give some information on the background of the subnamespace. Explain why it is relevant for Industry 4.0 and what you want to accomplish.
 
+## Status: `<status>`
+The status of this subnamespace. It can be `Submitted`, `Under Review`, `Refinement Required`, `Accepted`, `Revoked` or `Not Accepted`. The requester can only set the status `Submitted`, all others are managed by the Coordination Board.
+
+
 
 ## Identifier 1 (ShortId)
 
@@ -17,6 +21,9 @@ Add the ShortId in the headline. We recommend using [Camel Case](https://en.wiki
 [https://admin-shell.io/template/ShortId/oldVersion/oldRevision](https://admin-shell.io/template/ShortId/oldVersion/oldRevision) (list all old versions/revisions under the currently valid one.) Description: Explain their meaning and add at least one sentence why you needed to deprecate the identifier.
 
 [https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision](https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision) (see above)
+
+### Status: `<status>`
+The status of this identifier. It can be `Submitted`, `Under Review`, `Refinement Required`, `Accepted`, `Revoked` or `Not Accepted`. The requester can only set the status `Submitted`, all others are managed by the Coordination Board. Default is the status of the subnamespace.
 
 
 ## Identifier 2 (ShortId)

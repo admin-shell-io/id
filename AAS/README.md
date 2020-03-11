@@ -6,6 +6,9 @@ This is the subnamespace resevered for the Asset Administration Shell Metamodel.
 
 The Metamodel itself is defined in the 'Details of the Asset Administration Shell - Part 1'. Only classes, attributes and named entities used in this model are allowed in this subnamespace. The Metamodel is the core resource for the structure of the Asset Administration Shell and provides the frame for all further specifications. The following entities are defined in the Metamodel but also serve as an example how to use the 'Asset Administration Shell Identifiers' in general.
 
+## Status: `Accepted`
+The subnamespace AAS and its identifiers have been accepted by the Coordination Board.
+
 
 ## AssetAdministrationShell
 The Asset Administration Shell class. Inherits from HasDataSpecification and Identifiable.

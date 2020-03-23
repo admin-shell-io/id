@@ -34,6 +34,11 @@ There are two possible processes to request identifiers:
 The request will be processed as soon as possible. However, no guaranteed process time can be given. 
 
 
+## Self-Registering 
+
+In order to speed up the declarations even further, the [tmp](tmp/) sub-namespace serves as a quick approach to self-assign preliminary identifiers. Pull Requests to this directory will be accepted without any in depth evaluation and as quick as possible. Note that identifiers in this sub-namespace might change/be erased without further notification.
+
+
 ## Guidelines
 
 Only organizations can suggest Asset Administration Shell Identifiers, requests from individuals cannot be regarded. Please take care that your organization is there for the next years. 

@@ -1,0 +1,25 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+##TODO: correct!!!!!!!!!
+@prefix idsm:  <https://w3id.org/idsa/metamodel/> .
+@prefix opcua: <http://opc#> .
+@prefix di:    <http://opc/di> .
+
+@prefix opcua: <http://opcfoundation.org/UA/> .
+@prefix di:    <http://opcfoundation.org/UA/DI/> .
+
+
+di:DeviceSet
+    a                opcua:BaseObjectType ;
+    rdfs:label       "DeviceSet"@en ;
+    rdfs:comment     "Contains all instances of devices"@en ;
+##
+    opcua:IsAbstract true ;
+    opcua:NodeId     "di:i=5001"^^xsd:string ;
+#    opcua:OrganizedBy     "i=85"^^xsd:string ;
+    ## ??? : how to resolve these reversed predicates
+    ## TODO : opcua:OrganizedBy     <./objects/> ;
+.

@@ -1,0 +1,81 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+
+@prefix opcua: <http://opcfoundation.org/UA/> .
+@prefix di:    <http://opcfoundation.org/UA/DI/> .
+
+
+##region OPCUA #########################################################################################################
+
+
+opcua:NodeId
+    a            owl:DatatypeProperty ;
+    rdfs:label   "NodeId"@en ;
+    rdfs:domain  opcua:Node ;
+    rdfs:range   xsd:string ;
+    rdfs:comment "TODO."@en .
+
+opcua:IsAbstract
+    a            owl:DatatypeProperty ;
+    rdfs:label   "IsAbstract"@en ;
+    rdfs:domain  opcua:Node ;
+    rdfs:range   xsd:boolean ;
+    rdfs:comment "TODO."@en .
+
+
+opcua:Node
+    a                owl:Class ;
+    rdfs:label       "BaseObjectType"@en ;
+    rdfs:comment     ""@en ;
+##
+    opcua:IsAbstract true ;
+    opcua:NodeId     "opcua:i=1"^^xsd:string ;
+.
+
+opcua:BaseObjectType
+    a                owl:Class ;
+    rdfs:subClassOf  opcua:Node ;
+    rdfs:label       "TopologyElementType"@en ;
+    rdfs:comment     "TODO"@en ;
+##
+    opcua:IsAbstract true ;
+    opcua:NodeId     "opcua:i=58"^^xsd:string ;
+.
+
+opcua:FolderType
+    a                owl:Class ;
+    rdfs:subClassOf  opcua:BaseObjectType ;
+    rdfs:label       "FolderType"@en ;
+    rdfs:comment     "TODO"@en ;
+##
+    opcua:IsAbstract true ;
+    opcua:NodeId     "opcua:i=58"^^xsd:string ;
+.
+
+##endregion OPCUA ######################################################################################################
+
+##region DI ############################################################################################################
+
+di:TopologyElementType
+    a                owl:Class ;
+    rdfs:subClassOf  opcua:BaseObjectType ;
+    rdfs:label       "TopologyElementType"@en ;
+    rdfs:comment     "Defines the basic information components for all configurable elements in a device topology"@en ;
+##
+    opcua:IsAbstract true ;
+    opcua:NodeId     "di:i=1001"^^xsd:string ;
+.
+
+di:DeviceType
+    a                owl:Class ;
+    rdfs:subClassOf  di:TopologyElementType ;
+    rdfs:label       "DeviceType"@en ;
+    rdfs:comment     "Defines the basic information components for all configurable elements in a device topology"@en ;
+##
+    opcua:IsAbstract true ;
+    opcua:NodeId     "di:i=1002"^^xsd:string ;
+.
+##endregion DI #########################################################################################################

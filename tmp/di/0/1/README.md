@@ -1,6 +1,6 @@
-# Version 1
+# Version 0.1.1
 
-Version 1 of `Device Integration` (`di`) extension to Asset Administration Shell (aas)
+Version 0.1.1 of `Device Integration` (`di`) extension to Asset Administration Shell (aas)
 
 ## Status: `<Submitted>`
 

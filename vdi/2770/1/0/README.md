@@ -31,7 +31,7 @@ Identification of the Document within a given domain, e.g. the providing organis
 
 
 
-## Document/isPrimary (Property)
+## DocumentId/isPrimary (Property)
 
 True, if the DocumentId is the primary document id of the document.
 

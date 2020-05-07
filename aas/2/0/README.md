@@ -554,24 +554,24 @@ todo
  [http://admin-shell.io/aas/2/0/Operation](http://admin-shell.io/aas/2/0/Operation) The Operation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Operation/inoutputVariable
- Parameter that is input and output of the operation.
+Parameter that is input and output of the operation.
 
- [http://admin-shell.io/aas/2/0/Operation/inoutputVariable](http://admin-shell.io/aas/2/0/Operation/inoutputVariable) The attribute inoutputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+[http://admin-shell.io/aas/2/0/Operation/inoutputVariable](http://admin-shell.io/aas/2/0/Operation/inoutputVariable) The attribute inoutputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Operation/inputVariable
- Input parameter of the operation.
+Input parameter of the operation.
 
- [http://admin-shell.io/aas/2/0/Operation/inputVariable](http://admin-shell.io/aas/2/0/Operation/inputVariable) The attribute inputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+[http://admin-shell.io/aas/2/0/Operation/inputVariable](http://admin-shell.io/aas/2/0/Operation/inputVariable) The attribute inputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Operation/outputVariable
- Output parameter of the operation.
+Output parameter of the operation.
 
- [http://admin-shell.io/aas/2/0/Operation/outputVariable](http://admin-shell.io/aas/2/0/Operation/outputVariable) The attribute outputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+[http://admin-shell.io/aas/2/0/Operation/outputVariable](http://admin-shell.io/aas/2/0/Operation/outputVariable) The attribute outputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## OperationVariable
- 
+An operation variable is a submodel element that is used as input or output variable of an operation.
 
- [http://admin-shell.io/aas/2/0/OperationVariable](http://admin-shell.io/aas/2/0/OperationVariable) The OperationVariable class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+[http://admin-shell.io/aas/2/0/OperationVariable](http://admin-shell.io/aas/2/0/OperationVariable) The OperationVariable class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Permission
  Description of a single permission.
@@ -653,18 +653,18 @@ todo
 
  [http://admin-shell.io/aas/2/0/PolicyDecisionPoint](http://admin-shell.io/aas/2/0/PolicyDecisionPoint) The PolicyDecisionPoint class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
+## PolicyDecisionPoint/externalPolicyDecisionPoint
+ If externalPolicyDecisionPoints True then Endpoints to external available decision points taking into consideration for access control for the AAS need to be configured.
+
+ [http://admin-shell.io/aas/2/0/PolicyDecisionPointPoint/externalPolicyDecisionPoint](http://admin-shell.io/aas/2/0/PolicyDecisionPoint/externalPolicyDecisionPoint) The attribute externalPolicyDecisionPoint of the PolicyDecisionPoint class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
 ## PolicyEnforcementPoint
  Defines the security policy enforcement points (PEP).
 
  [http://admin-shell.io/aas/2/0/PolicyEnforcementPoint](http://admin-shell.io/aas/2/0/PolicyEnforcementPoint) The PolicyEnforcementPoint class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
-## PolicyEnforcementPoint/externalPolicyDecisionPoint
- If externalPolicyDecisionPoints True then Endpoints to external available decision points taking into consideration for access control for the AAS need to be configured.
-
- [http://admin-shell.io/aas/2/0/PolicyEnforcementPoint/externalPolicyDecisionPoint](http://admin-shell.io/aas/2/0/PolicyEnforcementPoint/externalPolicyDecisionPoint) The attribute externalPolicyDecisionPoint of the PolicyEnforcementPoint class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
-
 ## PolicyEnforcementPoint/externalPolicyEnforcementPoint
- If externalPolicyEnforcementPoint True then an Endpoint to external available enforcement point taking needs to be configured for the AAS.
+ If externalPolicyDecisionPoints True then Endpoints to external available decision points taking into consideration for access control for the AAS need to be configured.
 
  [http://admin-shell.io/aas/2/0/PolicyEnforcementPoint/externalPolicyEnforcementPoint](http://admin-shell.io/aas/2/0/PolicyEnforcementPoint/externalPolicyEnforcementPoint) The attribute externalPolicyEnforcementPoint of the PolicyEnforcementPoint class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -688,10 +688,23 @@ todo
 
  [http://admin-shell.io/aas/2/0/Property](http://admin-shell.io/aas/2/0/Property) The Property class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
-## Property/propertyValueId
+## Property/category
+The following categories are defined for properties and multi-language properties: CONSTANT, PARAMETER, and VARIABLE.
+
+[http://admin-shell.io/aas/2/0/Property/category](http://admin-shell.io/aas/2/0/Property/category) The attribute category of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+
+
+## Property/value
+The value of the property instance.
+
+ [http://admin-shell.io/aas/2/0/Property/value](http://admin-shell.io/aas/2/0/Property/value) The attribute value of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+
+## Property/valueId
  Reference to the global unqiue id of a coded value.
 
- [http://admin-shell.io/aas/2/0/Property/propertyValueId](http://admin-shell.io/aas/2/0/Property/propertyValueId) The attribute propertyValueId of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+ [http://admin-shell.io/aas/2/0/Property/valueId](http://admin-shell.io/aas/2/0/Property/valueId) The attribute valueId of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Qualifiable
  Additional qualification of a qualifiable element.
@@ -863,25 +876,36 @@ todo
 
  [http://admin-shell.io/aas/2/0/Reference](http://admin-shell.io/aas/2/0/Reference) The Reference class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
+## Reference/key
+Unique reference in its name space.
+
+[http://admin-shell.io/aas/2/0/Reference/key](http://admin-shell.io/aas/2/0/Reference/key) The key attribute of the Reference class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+
 ## ReferenceElement
  A reference element is a data element that defines a logical reference to another element within the same or another AAS or a reference to an external object or entity.
 
  [http://admin-shell.io/aas/2/0/ReferenceElement](http://admin-shell.io/aas/2/0/ReferenceElement) The ReferenceElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+
+## ReferenceElement/value
+Reference to any other referable element of the same of any other AAS or a reference to an external object or entity.
+
+[http://admin-shell.io/aas/2/0/ReferenceElement/value](http://admin-shell.io/aas/2/0/ReferenceElement/value) The value attribute of the ReferenceElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+
 
 ## RelationshipElement
  
 
  [http://admin-shell.io/aas/2/0/RelationshipElement](http://admin-shell.io/aas/2/0/RelationshipElement) The RelationshipElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
-## RelationshipElement/relationshipFirst
- First element in the relationship taking the role of the subject.
+## RelationshipElement/first
+First element in the relationship taking the role of the subject.
 
- [http://admin-shell.io/aas/2/0/RelationshipElement/relationshipFirst](http://admin-shell.io/aas/2/0/RelationshipElement/relationshipFirst) The attribute relationshipFirst of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+[http://admin-shell.io/aas/2/0/RelationshipElement/first](http://admin-shell.io/aas/2/0/RelationshipElement/first) The attribute first of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
-## RelationshipElement/relationshipSecond
+## RelationshipElement/second
  Second element in the relationship taking the role of the object.
 
- [http://admin-shell.io/aas/2/0/RelationshipElement/relationshipSecond](http://admin-shell.io/aas/2/0/RelationshipElement/relationshipSecond) The attribute relationshipSecond of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+[http://admin-shell.io/aas/2/0/RelationshipElement/second](http://admin-shell.io/aas/2/0/RelationshipElement/second) The attribute second of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Security
  Container for security relevant information of the AAS.
@@ -918,10 +942,6 @@ todo
 
  [http://admin-shell.io/aas/2/0/Submodel](http://admin-shell.io/aas/2/0/Submodel) The Submodel class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
-## Submodel/inAccordanceWith
- The Submodel is in accordance with a given standard specified in the STO ontology
-
- [http://admin-shell.io/aas/2/0/Submodel/inAccordanceWith](http://admin-shell.io/aas/2/0/Submodel/inAccordanceWith) The attribute inAccordanceWith of the Submodel class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Submodel/submodelElement
  A submodel consists of zero or more submodel elements.
@@ -949,7 +969,8 @@ todo
  [http://admin-shell.io/aas/2/0/SubmodelElementCollection/ordered](http://admin-shell.io/aas/2/0/SubmodelElementCollection/ordered) The attribute ordered of the SubmodelElementCollection class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## View
- Different views associated to the Administration Shell via the Submodels
+A view is a collection of referable elements w.r.t. to a specific viewpoint of one or more
+stakeholders.
 
  [http://admin-shell.io/aas/2/0/View](http://admin-shell.io/aas/2/0/View) The View class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 

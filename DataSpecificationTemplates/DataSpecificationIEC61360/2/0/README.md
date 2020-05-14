@@ -163,6 +163,22 @@ Conformant to the rules in Clause 5.2.2 the following data specification templat
 
  [http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/RATIONAL_MEASURE](http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/RATIONAL_MEASURE) The DataTypeIEC61360 RATIONAL_MEASURE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
+
+## DataTypeIEC61360/INTEGER_COUNT
+ 
+
+[http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/INTEGER_COUNT](http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/INTEGER_COUNT) The DataTypeIEC61360 INTEGER_COUNT of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+## DataTypeIEC61360/INTEGER_CURRENCY
+
+
+[http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/INTEGER_CURRENCY](http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/INTEGER_CURRENCY) The DataTypeIEC61360 INTEGER_CURRENCY of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+## DataTypeIEC61360/INTEGER_MEASURE
+
+[http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/INTEGER_MEASURE](http://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/2/0/DataTypeIEC61360/INTEGER_MEASURE) The DataTypeIEC61360 INTEGER_MEASURE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
+
 ## DataTypeIEC61360/REAL_COUNT
  
 

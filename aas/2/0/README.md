@@ -238,6 +238,11 @@ A basic event.
 
  [http://admin-shell.io/aas/2/0/ConceptDescription](http://admin-shell.io/aas/2/0/ConceptDescription) The ConceptDescription class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
+## ConceptDescription/content
+
+
+[http://admin-shell.io/aas/2/0/ConceptDescription/content](http://admin-shell.io/aas/2/0/ConceptDescription/content) The attribute content of the ConceptDescription class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
+
 ## ConceptDescription/isCaseOf
  Global reference to an external definition the concept is compatible to or was derived from.
 

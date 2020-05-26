@@ -36,6 +36,7 @@ Identification of the Document within a given domain, e.g. the providing organis
 True, if the DocumentId is the primary document id of the document.
 
 [http://admin-shell.io/vdi/2770/1/0/DocumentId/Id](http://admin-shell.io/vdi/2770/1/0/DocumentId/Id)
+
 `intended for eCl@ss`
 
 
@@ -44,6 +45,7 @@ True, if the DocumentId is the primary document id of the document.
 Unique ID of the class of the Document within the ClassficationSystem of VDI2770:2018.
 
 [http://admin-shell.io/vdi/2770/1/0/DocumentClassification/ClassId](http://admin-shell.io/vdi/2770/1/0/DocumentClassification/ClassId)
+
 `represented by eCl@ss`: 0173-1#02-ABxxx#001
 
 

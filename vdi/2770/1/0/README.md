@@ -31,19 +31,41 @@ Identification of the Document within a given domain, e.g. the providing organis
 
 
 
-## DocumentId/isPrimary (Property)
+## ManufacturerOrderCode (Property)
 
-True, if the DocumentId is the primary document id of the document.
+Unique product identifier of the manufacturer sufficient to order the exact same product.
 
-[http://admin-shell.io/vdi/2770/1/0/DocumentId/Id](http://admin-shell.io/vdi/2770/1/0/DocumentId/Id)
+[http://admin-shell.io/SG2/TechnicalData/1/0/ManufacturerOrderCode](http://admin-shell.io/vdi/2770/1/0/DocumentId/Id)
+
+`intended for IEC CDD`
 
 
-## DocumentClassification/ClassId (Property)
+## ManufacturerOrderCode (Property)
 
-Unique ID of the class of the Document within the ClassficationSystem of VDI2770:2018.
+Unique product identifier of the manufacturer sufficient to order the exact same product.
 
-[http://admin-shell.io/vdi/2770/1/0/DocumentClassification/ClassId](http://admin-shell.io/vdi/2770/1/0/DocumentClassification/ClassId)
+[http://admin-shell.io/SG2/TechnicalData/1/0/ManufacturerOrderCode](http://admin-shell.io/sandbox/SG2/TechnicalData/1/0/ManufacturerOrderCode)
 
+`represented in IEC CDD`: [0112/2///61987#ABXXXX#001](https://)
+
+
+
+## ManufacturerOrderCode (Property)
+
+Unique product identifier of the manufacturer sufficient to order the exact same product.
+
+[http://admin-shell.io/SG2/TechnicalData/1/0/ManufacturerOrderCode](http://admin-shell.io/vdi/2770/1/0/DocumentId/Id)
+
+`intended for eCl@ss`
+
+
+## ManufacturerOrderCode (Property)
+
+Unique product identifier of the manufacturer sufficient to order the exact same product.
+
+[http://admin-shell.io/SG2/TechnicalData/1/0/ManufacturerOrderCode](http://admin-shell.io/sandbox/SG2/TechnicalData/1/0/ManufacturerOrderCode)
+
+`represented in eCl@ss`: [0173-1#02-ABXXX#001](https://)
 
 ## DocumentClassification/ClassName (Property)
 

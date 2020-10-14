@@ -15,9 +15,9 @@ The sub-namespace Nameplate and its identifiers have not yet been finalized.
 ## Nameplate (Submodel)
 Contains the nameplate information attached to the product.
 
-[http://admin-shell.io/zvei/nameplate/0/1/Nameplate](http://admin-shell.io/zvei/nameplate/0/1/Nameplate) The Nameplate class as defined in Details of the 'Submodel Spec DigitalTypeplate'.
+[https://admin-shell.io/sandbox/zvei/nameplate/0/1/Nameplate](https://admin-shell.io/sandbox/zvei/nameplate/0/1/Nameplate) The Nameplate class as defined in Details of the 'Submodel Spec DigitalTypeplate'.
 
 ## Nameplate/Markings (SubmodelElementCollection)
 Contains information about the marking labelled on the device
 
-[http://admin-shell.io/zvei/nameplate/0/1/Nameplate/Markings](http://admin-shell.io/zvei/nameplate/0/1/Nameplate/Markings) The Markings SubmodelElementCollection as defined in Details of the 'Submodel Spec DigitalTypeplate'.
+[https://admin-shell.io/zvei/sandbox/nameplate/0/1/Nameplate/Markings](https://admin-shell.io/sandbox/zvei/nameplate/0/1/Nameplate/Markings) The Markings SubmodelElementCollection as defined in Details of the 'Submodel Spec DigitalTypeplate'.

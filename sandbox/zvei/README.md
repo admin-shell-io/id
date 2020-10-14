@@ -3,6 +3,7 @@
 This subnamespace collects all identifier defined by activities related to the
 [ZVEI](https://www.zvei.org/).
 
+The following subnamespace points to this location: [https://admin-shell.io/sandbox/zvei/*](https://admin-shell.io/sandbox/zvei/*)
 
 ## Contact
 

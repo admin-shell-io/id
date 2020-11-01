@@ -1,6 +1,6 @@
 # AAS (Asset Administration Shell)
 
-This is the sub-namespace resevered for the Asset Administration Shell Metamodel. 
+This is the sub-namespace resevered for the Asset Administration Shell Metamodel Version 2.0. 
 
 ## Introduction
 
@@ -187,7 +187,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/AssetKind/ASSET_TYPE](http://admin-shell.io/aas/2/0/AssetKind/ASSET_TYPE) The NamedIndividual ASSET_TYPE of the AssetKind class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## BasicEvent
- 
+
 
  [http://admin-shell.io/aas/2/0/BasicEvent](http://admin-shell.io/aas/2/0/BasicEvent) The BasicEvent class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -287,22 +287,22 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/DataSpecification](http://admin-shell.io/aas/2/0/DataSpecification) The DataSpecification class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## DataSpecification/content
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecification/content](http://admin-shell.io/aas/2/0/DataSpecification/content) The attribute content of the DataSpecification class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationContent
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationContent](http://admin-shell.io/aas/2/0/DataSpecificationContent) The DataSpecificationContent class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## DataSpecificationContent/definition
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationContent/definition](http://admin-shell.io/aas/2/0/DataSpecificationContent/definition) The attribute definition of the DataSpecificationContent class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationContent/sourceOfDefinition
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationContent/sourceOfDefinition](http://admin-shell.io/aas/2/0/DataSpecificationContent/sourceOfDefinition) The attribute sourceOfDefinition of the DataSpecificationContent class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -312,37 +312,37 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360) The DataSpecificationIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## DataSpecificationIEC61360/datatype
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/datatype](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/datatype) The attribute datatype of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationIEC61360/preferedName
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/preferedName](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/preferedName) The attribute preferedName of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationIEC61360/shortName
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/shortName](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/shortName) The attribute shortName of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationIEC61360/symbol
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/symbol](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/symbol) The attribute symbol of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationIEC61360/unit
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unit](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unit) The attribute unit of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationIEC61360/unitId
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unitId](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unitId) The attribute unitId of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationIEC61360/valueFormat
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/valueFormat](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/valueFormat) The attribute valueFormat of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -357,57 +357,57 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit) The DataSpecificationPhysicalUnit class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## DataSpecificationPhysicalUnit/conversionFactor
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/conversionFactor](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/conversionFactor) The attribute conversionFactor of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/dinNotation
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/dinNotation](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/dinNotation) The attribute dinNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/eceCode
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceCode](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceCode) The attribute eceCode of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/eceName
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceName) The attribute eceName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/nistName
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/nistName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/nistName) The attribute nistName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/registrationAuthority
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/registrationAuthority](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/registrationAuthority) The attribute registrationAuthority of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/siName
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siName) The attribute siName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/siNotation
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siNotation](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siNotation) The attribute siNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/supplier
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/supplier](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/supplier) The attribute supplier of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/unitName
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitName) The attribute unitName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataSpecificationPhysicalUnit/unitSymbol
- 
+
 
  [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitSymbol](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitSymbol) The attribute unitSymbol of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -417,62 +417,62 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360](http://admin-shell.io/aas/2/0/DataTypeIEC61360) The DataTypeIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE) The DataTypeIEC61360 BOOLEAN_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/DATE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/DATE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/DATE_IEC6360_DATATYPE) The DataTypeIEC61360 DATE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_COUNT_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_CURRENCY_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/STRING_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_TRANSLATABLE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE) The DataTypeIEC61360 TIMESTAMP_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/TIME_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIME_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIME_IEC6360_DATATYPE) The DataTypeIEC61360 TIME_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## DataTypeIEC61360/URL_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/2/0/DataTypeIEC61360/URL_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/URL_IEC6360_DATATYPE) The DataTypeIEC61360 URL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -507,7 +507,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/EntityType/SELF_MANAGED_ENTITY](http://admin-shell.io/aas/2/0/EntityType/SELF_MANAGED_ENTITY) The NamedIndividual SELF_MANAGED_ENTITY of the EntityType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## Event
- 
+
 
  [http://admin-shell.io/aas/2/0/Event](http://admin-shell.io/aas/2/0/Event) The Event class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -527,7 +527,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/File](http://admin-shell.io/aas/2/0/File) The File class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## Formula
- 
+
 
  [http://admin-shell.io/aas/2/0/Formula](http://admin-shell.io/aas/2/0/Formula) The Formula class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -587,22 +587,22 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/IdentifiableElement](http://admin-shell.io/aas/2/0/IdentifiableElement) The IdentifiableElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## IdentifiableElement/ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/IdentifiableElement/ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/2/0/IdentifiableElement/ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT) The IdentifiableElement ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/2/0/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT) The IdentifiableElement ASSET_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## IdentifiableElement/CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/IdentifiableElement/CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/2/0/IdentifiableElement/CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT) The IdentifiableElement CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## IdentifiableElement/SUBMODEL_IDENTIFIABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/IdentifiableElement/SUBMODEL_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/2/0/IdentifiableElement/SUBMODEL_IDENTIFIABLE_ELEMENT) The IdentifiableElement SUBMODEL_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -652,7 +652,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/Key/index](http://admin-shell.io/aas/2/0/Key/index) The attribute index of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## Key/keyElement
- 
+
 
  [http://admin-shell.io/aas/2/0/Key/keyElement](http://admin-shell.io/aas/2/0/Key/keyElement) The attribute keyElement of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -667,7 +667,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/KeyElement](http://admin-shell.io/aas/2/0/KeyElement) The KeyElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## KeyElement/FRAGMENT_REFERENCE_KEY_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/KeyElement/FRAGMENT_REFERENCE_KEY_ELEMENT](http://admin-shell.io/aas/2/0/KeyElement/FRAGMENT_REFERENCE_KEY_ELEMENT) The KeyElement FRAGMENT_REFERENCE_KEY_ELEMENT of the KeyElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -747,7 +747,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/Operation/outputVariable](http://admin-shell.io/aas/2/0/Operation/outputVariable) The attribute outputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## OperationVariable
- 
+
 
  [http://admin-shell.io/aas/2/0/OperationVariable](http://admin-shell.io/aas/2/0/OperationVariable) The OperationVariable class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -827,7 +827,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/PolicyAdministrationPoint/localAccessControl](http://admin-shell.io/aas/2/0/PolicyAdministrationPoint/localAccessControl) The attribute localAccessControl of the PolicyAdministrationPoint class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## PolicyDecisionPoint
- Defines the security policy decision points (PDP). 
+ Defines the security policy decision points (PDP).
 
  [http://admin-shell.io/aas/2/0/PolicyDecisionPoint](http://admin-shell.io/aas/2/0/PolicyDecisionPoint) The PolicyDecisionPoint class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -947,47 +947,47 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/ReferableElement](http://admin-shell.io/aas/2/0/ReferableElement) The ReferableElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## ReferableElement/ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT) The ReferableElement ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT) The ReferableElement ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/BASIC_EVENT_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/BASIC_EVENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/BASIC_EVENT_REFERABLE_ELEMENT) The ReferableElement BASIC_EVENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/BLOB_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/BLOB_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/BLOB_REFERABLE_ELEMENT) The ReferableElement BLOB_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/CAPABILITY_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/CAPABILITY_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/CAPABILITY_REFERABLE_ELEMENT) The ReferableElement CAPABILITY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/CONCEPT_DICTIONARY_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/CONCEPT_DICTIONARY_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/CONCEPT_DICTIONARY_REFERABLE_ELEMENT) The ReferableElement CONCEPT_DICTIONARY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/DATA_ELEMENT_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/DATA_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/DATA_ELEMENT_REFERABLE_ELEMENT) The ReferableElement DATA_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/ENTITY_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/ENTITY_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/ENTITY_REFERABLE_ELEMENT) The ReferableElement ENTITY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/EVENT_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/EVENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/EVENT_REFERABLE_ELEMENT) The ReferableElement EVENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -997,27 +997,27 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/ReferableElement/MULTI_LANGUAGE_PROPERTY_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/MULTI_LANGUAGE_PROPERTY_REFERABLE_ELEMENT) The ReferableElement MULTI_LANGUAGE_PROPERTY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/OPERATION_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/OPERATION_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/OPERATION_REFERABLE_ELEMENT) The ReferableElement OPERATION_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/PROPERTY_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/PROPERTY_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/PROPERTY_REFERABLE_ELEMENT) The ReferableElement PROPERTY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/RANGE_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/RANGE_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/RANGE_REFERABLE_ELEMENT) The ReferableElement RANGE_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/REFERENCE_ELEMENT_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/REFERENCE_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/REFERENCE_ELEMENT_REFERABLE_ELEMENT) The ReferableElement REFERENCE_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT) The ReferableElement RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -1027,12 +1027,12 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/ReferableElement/SUBMODEL_ELEMENT_COLLECTION_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/SUBMODEL_ELEMENT_COLLECTION_REFERABLE_ELEMENT) The ReferableElement SUBMODEL_ELEMENT_COLLECTION_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/SUBMODEL_ELEMENT_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/SUBMODEL_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/SUBMODEL_ELEMENT_REFERABLE_ELEMENT) The ReferableElement SUBMODEL_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## ReferableElement/VIEW_REFERABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/2/0/ReferableElement/VIEW_REFERABLE_ELEMENT](http://admin-shell.io/aas/2/0/ReferableElement/VIEW_REFERABLE_ELEMENT) The ReferableElement VIEW_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
@@ -1047,7 +1047,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  [http://admin-shell.io/aas/2/0/ReferenceElement](http://admin-shell.io/aas/2/0/ReferenceElement) The ReferenceElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## RelationshipElement
- 
+
 
  [http://admin-shell.io/aas/2/0/RelationshipElement](http://admin-shell.io/aas/2/0/RelationshipElement) The RelationshipElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 

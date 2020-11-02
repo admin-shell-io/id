@@ -24,12 +24,12 @@ There are two possible processes to request identifiers:
 1. Work with the GitHub Repository
 - Fork the [GitHub Repo](https://github.com/admin-shell-io/id/)
 - Add a new folder with the sub-namespace as its name
-- Create a README following the template in https://github.com/admin-shell-io/id/templates/README.md
+- Create a README following the template in https://github.com/admin-shell-io/id/blob/master/templates/README.md
 - Create a Pull Request from your forked repository to the original
 
 2. Contact the [Coordination Board for Submodels](mailto:coordination-board@admin-shell.io)
 - Explain the purpose of the new identifier(s)
-- Attach the filled [template](https://github.com/admin-shell-io/id/templates/README.md)
+- Attach the filled [template](https://github.com/admin-shell-io/id/blob/master/templates/README.md)
 
 The request will be processed as soon as possible. However, no guaranteed process time can be given.
 

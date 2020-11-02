@@ -13,7 +13,7 @@ their relations and communication methods
 As of November 2020, two major versions of Part 1 have been published:
 - [Release 1](/aas/1/0/README.md) from 2018 [1]
 - [Release 2](/aas/2/0/README.md) from 2019 [2]
-- [Revision 2.0.1](/aas/2/0/1/README.md) from 2019 [3]
+- [Revision 2.0.1](/aas/2/0/1/README.md) from May 2020 [3]
 - [Candidate Release of version 3.0](./3/0/RC01/README.md) 2020 (planned)
 
 Furthermore, also state of November 2020, Part 2 will be released in [Version 1](./API/1/0/README.md) before the end of 2020.

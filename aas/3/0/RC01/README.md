@@ -746,6 +746,31 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/KeyType](http://admin-shell.io/aas/3/0/RC01/KeyType) The KeyType class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
+## LevelType
+ Enumeration of different level types within a DataSpecificationIEC61360. Contains Min, Max, Nom, and Typ.
+
+ [https://admin-shell.io/aas/3/0/RC01/LevelType](https://admin-shell.io/aas/3/0/RC01/LevelType) The LevelType class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
+## LevelType/MIN
+ MIN according to IEC 61360 as an Identifier scheme for minimal levels.
+
+ [https://admin-shell.io/aas/3/0/RC01/LevelType/MIN](https://admin-shell.io/aas/3/0/RC01/LevelType/MIN) The MIN of the LevelType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## LevelType/MAX
+ MAX according to IEC 61360 as an Identifier scheme for maximal levels.
+
+ [https://admin-shell.io/aas/3/0/RC01/LevelType/MAX](https://admin-shell.io/aas/3/0/RC01/LevelType/MAX) The MAX of the LevelType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## LevelType/NOM
+ NOM according to IEC 61360 as an Identifier scheme for nominal levels.
+
+ [https://admin-shell.io/aas/3/0/RC01/LevelType/NOM](https://admin-shell.io/aas/3/0/RC01/LevelType/NOM) The NOM of the LevelType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## LevelType/TYP
+ TYP according to IEC 61360 as an Identifier scheme for typical levels.
+
+ [https://admin-shell.io/aas/3/0/RC01/LevelType/TYP](https://admin-shell.io/aas/3/0/RC01/LevelType/TYP) The TYP of the LevelType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
 ## LocalKeyType
  Enumeration of different key value types within a key.
 

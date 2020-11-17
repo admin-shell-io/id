@@ -731,15 +731,15 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/KeyElement](http://admin-shell.io/aas/3/0/RC01/KeyElement) The KeyElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## KeyElement/FRAGMENT_REFERENCE_KEY_ELEMENT
+## KeyElement/FRAGMENT_REFERENCE
  
 
- [http://admin-shell.io/aas/3/0/RC01/KeyElement/FRAGMENT_REFERENCE_KEY_ELEMENT](http://admin-shell.io/aas/3/0/RC01/KeyElement/FRAGMENT_REFERENCE_KEY_ELEMENT) The KeyElement FRAGMENT_REFERENCE_KEY_ELEMENT of the KeyElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/KeyElement/FRAGMENT_REFERENCE](http://admin-shell.io/aas/3/0/RC01/KeyElement/FRAGMENT_REFERENCE) The KeyElement FRAGMENT_REFERENCET of the KeyElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## KeyElement/GLOBAL_REFERENCE_KEY_ELEMENT
+## KeyElement/GLOBAL_REFERENCE
  reference to an element not belonging to an asset administration shell
 
- [http://admin-shell.io/aas/3/0/RC01/KeyElement/GLOBAL_REFERENCE_KEY_ELEMENT](http://admin-shell.io/aas/3/0/RC01/KeyElement/GLOBAL_REFERENCE_KEY_ELEMENT) The KeyElement GLOBAL_REFERENCE_KEY_ELEMENT of the KeyElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/KeyElement/GLOBAL_REFERENCE](http://admin-shell.io/aas/3/0/RC01/KeyElement/GLOBAL_REFERENCE) The KeyElement GLOBAL_REFERENCE of the KeyElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## KeyType
  Enumeration of different key value types within a key. Contains IdentifierType and LocalKeyType.

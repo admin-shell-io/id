@@ -581,6 +581,16 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/Formula/dependsOn](http://admin-shell.io/aas/3/0/RC01/Formula/dependsOn) The attribute dependsOn of the Formula class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
+## HasExtensions
+ Element that can be extended by proprietary extensions.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/HasExtensions](https://admin-shell.io/aas/3/0/RC01/HasExtensions) The HasExtensions class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'. 
+ 
+## HasExtensions/extension
+ An extension of the element.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/HasExtensions/extension](https://admin-shell.io/aas/3/0/RC01/HasExtensions/extension) The attribute extension of the HasExtensions class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+ 
 ## HasDataSpecification
  Element that can have be extended by using data specification templates. A data specification template defines the additional attributes an element may or shall have. The data specifications used are explicitly specified with their id.
 

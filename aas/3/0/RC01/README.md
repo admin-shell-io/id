@@ -561,6 +561,16 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/File](http://admin-shell.io/aas/3/0/RC01/File) The File class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
+## File/mimeType
+ Mime type of the content of the File.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/File/mimeType](https://admin-shell.io/aas/3/0/RC01/File/mimeType) The attribute mimeType of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01 
+
+## File/value
+ Path and name of the referenced file (with file extension). The path can be absolute or relative.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/File/value](https://admin-shell.io/aas/3/0/RC01/File/value) The attribute value of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01 
+
 ## Formula
  
 

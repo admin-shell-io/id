@@ -540,6 +540,28 @@ Access permission rules of the AAS describing the rights assigned to (already au
  Self-Managed Entities have their own AAS but can be part of the bill of material of a composite self-managed entity. The asset of an I4.0 Component is a self-managed entity per definition.
 
  [http://admin-shell.io/aas/3/0/RC01/EntityType/SELF_MANAGED_ENTITY](http://admin-shell.io/aas/3/0/RC01/EntityType/SELF_MANAGED_ENTITY) The NamedIndividual SELF_MANAGED_ENTITY of the EntityType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+## Extension
+ Single extension of an element.
+
+ [https://admin-shell.io/aas/3/0/RC01/Extension](https://admin-shell.io/aas/3/0/RC01/Extension) The Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+## Extension/name
+ An extension of the element.
+
+ [https://admin-shell.io/aas/3/0/RC01/Extension/name](https://admin-shell.io/aas/3/0/RC01/Extension/name) The attribute name of the Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
+## Extension/valueType
+ Type of the value of the extension.
+
+ [https://admin-shell.io/aas/3/0/RC01/Extension/valueType](https://admin-shell.io/aas/3/0/RC01/Extension/valueType) The attribute valueType of the Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+## Extension/value
+ Value of the extension.
+
+ [https://admin-shell.io/aas/3/0/RC01/Extension/value](https://admin-shell.io/aas/3/0/RC01/Extension/value) The attibute value of the Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
+## Extension/refersTo
+ Reference to an element the extension refers to.
+
+ [https://admin-shell.io/aas/3/0/RC01/Extension/refersTo](https://admin-shell.io/aas/3/0/RC01/Extension/refersTo) The attribute refersTo Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## Event
  

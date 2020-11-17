@@ -851,6 +851,11 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/OperationVariable](http://admin-shell.io/aas/3/0/RC01/OperationVariable) The OperationVariable class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
+## OperationVariable/value
+ Describes the needed argument for an operation via a submodel element of kind=Template.
+
+ [http://admin-shell.io/aas/3/0/RC01/OperationVariable/value](http://admin-shell.io/aas/3/0/RC01/OperationVariable/value) The attribute value of the OperationVariable class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
 ## Permission
  Description of a single permission.
 

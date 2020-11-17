@@ -631,25 +631,25 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement) The IdentifiableElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## IdentifiableElement/ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT
+## IdentifiableElement/ASSET
  
 
- [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT) The IdentifiableElement ASSET_ADMINISTRATION_SHELL_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET) The IdentifiableElement ASSET of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT
  
 
  [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT) The IdentifiableElement ASSET_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## IdentifiableElement/CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT
+## IdentifiableElement/CONCEPT_DESCRIPTION
  
 
- [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT) The IdentifiableElement CONCEPT_DESCRIPTION_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/CONCEPT_DESCRIPTION](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/CONCEPT_DESCRIPTION) The IdentifiableElement CONCEPT_DESCRIPTION of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## IdentifiableElement/SUBMODEL_IDENTIFIABLE_ELEMENT
+## IdentifiableElement/SUBMODEL
  
 
- [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/SUBMODEL_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/SUBMODEL_IDENTIFIABLE_ELEMENT) The IdentifiableElement SUBMODEL_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/SUBMODEL](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/SUBMODEL) The IdentifiableElement SUBMODEL of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## Identifier
  Used to uniquely identify an entity by using an identifier.

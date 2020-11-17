@@ -683,28 +683,48 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## IdentifierType/IRI
  IRI. Should only be used if unicode symbols are used that are not allowed in URI.
-
+ 
  [http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI](http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI) The IdentifierType IRI of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## IdentifierKeyValuePair
+ An IdentifierKeyValuePair describes a generic identifier as key-value pair.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair) The IdentifierKeyValuePair class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
+## IdentifierKeyValuePair/key
+ Key of the identifier.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/key](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/key) The key attribute of the IdentifierKeyValuePair as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## IdentifierKeyValuePair/value
+ The value of the identifier with the corresponding key.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/value](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/value) The value attribute of the IdentifierKeyValuePair as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## IdentifierKeyValuePair/externalSubjectId
+ The (external) subject the key belongs to or has meaning to.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/externalSubjectId](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/externalSubjectId) The externalSubjectId attribute of the IdentifierKeyValuePair as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## Key
  A key is a reference to an element by its id.
 
  [http://admin-shell.io/aas/3/0/RC01/Key](http://admin-shell.io/aas/3/0/RC01/Key) The Key class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## Key/index
- The index attribute states the position of each key instance in the sequence of all other related keys.
+## Key/idType
+ Type of the key value. In case of idType = idShort local shall be true. In case type=GlobalReference idType shall not be IdShort.
 
- [http://admin-shell.io/aas/3/0/RC01/Key/index](http://admin-shell.io/aas/3/0/RC01/Key/index) The attribute index of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/Key/idType](http://admin-shell.io/aas/3/0/RC01/Key/idType) The attribute idType of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## Key/keyElement
- 
+## Key/type
+ Denote which kind of entity is referenced. In case type = GlobalReference then the element is a global unique id. In all other cases the key references a model element of the same or of another AAS. The name of the model element is explicitly listed.
 
- [http://admin-shell.io/aas/3/0/RC01/Key/keyElement](http://admin-shell.io/aas/3/0/RC01/Key/keyElement) The attribute keyElement of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/Key/type](http://admin-shell.io/aas/3/0/RC01/Key/type) The attribute type of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## Key/local
- Denotes if the key references a model element of the same AAS (=true) or not (=false). In case of local = false the key may reference a model element of another AAS or an entity outside any AAS that has a global unique id.
+## Key/value
+ The key value, for example an IRDI if the idType=IRDI.
 
- [http://admin-shell.io/aas/3/0/RC01/Key/local](http://admin-shell.io/aas/3/0/RC01/Key/local) The attribute local of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/Key/value](http://admin-shell.io/aas/3/0/RC01/Key/value) The attribute value of the Key class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## KeyElement
  Enumeration of different key value types within a key. Contains KeyElements, ReferableElements, and IdentifiableElements.

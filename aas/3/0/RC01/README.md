@@ -1001,20 +1001,20 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/Qualifier](http://admin-shell.io/aas/3/0/RC01/Qualifier) The Qualifier class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## Qualifier/qualifierType
+## Qualifier/type
  The qualifier type describes the type of the qualifier that is applied to the element.
 
- [http://admin-shell.io/aas/3/0/RC01/Qualifier/qualifierType](http://admin-shell.io/aas/3/0/RC01/Qualifier/qualifierType) The attribute qualifierType of the Qualifier class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/Qualifier/type](http://admin-shell.io/aas/3/0/RC01/Qualifier/type) The attribute type of the Qualifier class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## Qualifier/qualifierValue
+## Qualifier/value
  The qualifier value is the value of the qualifier.
 
- [http://admin-shell.io/aas/3/0/RC01/Qualifier/qualifierValue](http://admin-shell.io/aas/3/0/RC01/Qualifier/qualifierValue) The attribute qualifierValue of the Qualifier class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/Qualifier/value](http://admin-shell.io/aas/3/0/RC01/Qualifier/value) The attribute value of the Qualifier class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## Qualifier/qualifierValueId
+## Qualifier/valueId
  Reference to the global unqiue id of a coded value.
 
- [http://admin-shell.io/aas/3/0/RC01/Qualifier/qualifierValueId](http://admin-shell.io/aas/3/0/RC01/Qualifier/qualifierValueId) The attribute qualifierValueId of the Qualifier class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/Qualifier/valueId](http://admin-shell.io/aas/3/0/RC01/Qualifier/valueId) The attribute valueId of the Qualifier class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## Range
  An element that is referable by its idShort. This id is not globally unique. This id is unique within the name space of the element.

@@ -776,15 +776,15 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/LocalKeyType](http://admin-shell.io/aas/3/0/RC01/LocalKeyType) The LocalKeyType class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## LocalKeyType/FRAGMENT_ID_LOCAL_KEY_TYPE
+## LocalKeyType/FRAGMENT_ID
  Identifier of a fragment within a file
 
- [http://admin-shell.io/aas/3/0/RC01/LocalKeyType/FRAGMENT_ID_LOCAL_KEY_TYPE](http://admin-shell.io/aas/3/0/RC01/LocalKeyType/FRAGMENT_ID_LOCAL_KEY_TYPE) The LocalKeyType FRAGMENT_ID_LOCAL_KEY_TYPE of the LocalKeyType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/LocalKeyType/FRAGMENT_ID](http://admin-shell.io/aas/3/0/RC01/LocalKeyType/FRAGMENT_ID) The LocalKeyType FRAGMENT_ID of the LocalKeyType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## LocalKeyType/IDSHORT_LOCAL_KEY_TYPE
+## LocalKeyType/IDSHORT
  idShort of a referable element
 
- [http://admin-shell.io/aas/3/0/RC01/LocalKeyType/IDSHORT_LOCAL_KEY_TYPE](http://admin-shell.io/aas/3/0/RC01/LocalKeyType/IDSHORT_LOCAL_KEY_TYPE) The LocalKeyType IDSHORT_LOCAL_KEY_TYPE of the LocalKeyType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/LocalKeyType/IDSHORT](http://admin-shell.io/aas/3/0/RC01/LocalKeyType/IDSHORT) The LocalKeyType IDSHORT of the LocalKeyType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## ModelingKind
  Enumeration for denoting whether an element is a type or an instance.

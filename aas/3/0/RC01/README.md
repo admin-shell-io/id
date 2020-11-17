@@ -14,7 +14,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
 Access Control defines the local access control policy administration point. Access Control has the major task to define the access permission rules.
 
-[https://admin-shell.io/aas/3/0/RC01/AccessControl] The AccessControl class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.'.
+[https://admin-shell.io/aas/3/0/RC01/AccessControl] The AccessControl class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## AccessControl/accessPermissionRule
 

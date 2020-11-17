@@ -14,7 +14,7 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
 Access Control defines the local access control policy administration point. Access Control has the major task to define the access permission rules.
 
-[https://admin-shell.io/aas/3/0/RC01/AccessControl] The AccessControl class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+ [https://admin-shell.io/aas/3/0/RC01/AccessControl] The AccessControl class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## AccessControl/accessPermissionRule
 
@@ -339,7 +339,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 ## DataSpecificationIEC61360/sourceOfDefinition
 
 
- [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/sourceOfDefinition])(https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/sourceOfDefinition) The attribute sourceOfDefinition of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/sourceOfDefinition](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/sourceOfDefinition) The attribute sourceOfDefinition of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/symbol
  

@@ -1207,15 +1207,15 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/RelationshipElement](http://admin-shell.io/aas/3/0/RC01/RelationshipElement) The RelationshipElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## RelationshipElement/relationshipFirst
+## RelationshipElement/first
  First element in the relationship taking the role of the subject.
 
- [http://admin-shell.io/aas/3/0/RC01/RelationshipElement/relationshipFirst](http://admin-shell.io/aas/3/0/RC01/RelationshipElement/relationshipFirst) The attribute relationshipFirst of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/RelationshipElement/first](http://admin-shell.io/aas/3/0/RC01/RelationshipElement/first) The attribute first of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## RelationshipElement/relationshipSecond
+## RelationshipElement/second
  Second element in the relationship taking the role of the object.
 
- [http://admin-shell.io/aas/3/0/RC01/RelationshipElement/relationshipSecond](http://admin-shell.io/aas/3/0/RC01/RelationshipElement/relationshipSecond) The attribute relationshipSecond of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/RelationshipElement/second](http://admin-shell.io/aas/3/0/RC01/RelationshipElement/second) The attribute second of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## Security
  Container for security relevant information of the AAS.
@@ -1252,11 +1252,6 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/Submodel](http://admin-shell.io/aas/3/0/RC01/Submodel) The Submodel class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## Submodel/inAccordanceWith
- The Submodel is in accordance with a given standard specified in the STO ontology
-
- [http://admin-shell.io/aas/3/0/RC01/Submodel/inAccordanceWith](http://admin-shell.io/aas/3/0/RC01/Submodel/inAccordanceWith) The attribute inAccordanceWith of the Submodel class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
-
 ## Submodel/submodelElement
  A submodel consists of zero or more submodel elements.
 
@@ -1281,6 +1276,11 @@ Access permission rules of the AAS describing the rights assigned to (already au
  If ordered=false then the elements in the property collection are not ordered. If ordered=true then the elements in the collection are ordered. Default = false
 
  [http://admin-shell.io/aas/3/0/RC01/SubmodelElementCollection/ordered](http://admin-shell.io/aas/3/0/RC01/SubmodelElementCollection/ordered) The attribute ordered of the SubmodelElementCollection class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## SubmodelElementCollection/value
+ Submodel element contained in the collection.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/SubmodelElementCollection/value](https://admin-shell.io/aas/3/0/RC01/SubmodelElementCollection/value)The attribute value of the SubmodelElementCollection class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## View
  Different views associated to the Administration Shell via the Submodels

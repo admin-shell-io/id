@@ -671,20 +671,20 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/IdentifierType](http://admin-shell.io/aas/3/0/RC01/IdentifierType) The IdentifierType class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## IdentifierType/CUSTOM_IDENTIFIER_TYPE
+## IdentifierType/CUSTOM
  Custom identifiers like GUIDs (globally unique Identifiers)
 
- [http://admin-shell.io/aas/3/0/RC01/IdentifierType/CUSTOM_IDENTIFIER_TYPE](http://admin-shell.io/aas/3/0/RC01/IdentifierType/CUSTOM_IDENTIFIER_TYPE) The IdentifierType CUSTOM_IDENTIFIER_TYPE of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/IdentifierType/CUSTOM](http://admin-shell.io/aas/3/0/RC01/IdentifierType/CUSTOM) The IdentifierType CUSTOM of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## IdentifierType/IRDI_IDENTIFIER_TYPE
+## IdentifierType/IRDI
  IRDI according to ISO29002-5 as an Identifier scheme for properties and classifications.
 
- [http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRDI_IDENTIFIER_TYPE](http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRDI_IDENTIFIER_TYPE) The IdentifierType IRDI_IDENTIFIER_TYPE of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRDI](http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRDI) The IdentifierType IRDI of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## IdentifierType/IRI_IDENTIFIER_TYPE
+## IdentifierType/IRI
  IRI. Should only be used if unicode symbols are used that are not allowed in URI.
 
- [http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI_IDENTIFIER_TYPE](http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI_IDENTIFIER_TYPE) The IdentifierType IRI_IDENTIFIER_TYPE of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI](http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI) The IdentifierType IRI of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## Key
  A key is a reference to an element by its id.

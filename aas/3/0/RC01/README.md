@@ -386,60 +386,60 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/conversionFactor](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/conversionFactor) The attribute conversionFactor of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## DataSpecificationPhysicalUnit/dinNotation
+## DataSpecificationPhysicalUnit/definition
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/dinNotation](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/dinNotation) The attribute dinNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/definition](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/definition) The attribute definition of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## DataSpecificationPhysicalUnit/dinNotation
+
+ 
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/dinNotation](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/dinNotation) The attribute dinNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/eceCode
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/eceCode](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/eceCode) The attribute eceCode of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceCode](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceCode) The attribute eceCode of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/eceName
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/eceName](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/eceName) The attribute eceName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceName) The attribute eceName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/nistName
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/nistName](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/nistName) The attribute nistName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
-
-## DataSpecificationPhysicalUnit/registrationAuthority
- 
-
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/registrationAuthority](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/registrationAuthority) The attribute registrationAuthority of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/nistName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/nistName) The attribute nistName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/siName
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/siName](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/siName) The attribute siName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siName) The attribute siName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/siNotation
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/siNotation](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/siNotation) The attribute siNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siNotation](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siNotation) The attribute siNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/supplier
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/supplier](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/supplier) The attribute supplier of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/supplier](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/supplier) The attribute supplier of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/unitName
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/unitName](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/unitName) The attribute unitName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitName) The attribute unitName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataSpecificationPhysicalUnit/unitSymbol
  
 
- [http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/unitSymbol](http://admin-shell.io/aas/3/0/RC01/DataSpecificationPhysicalUnit/unitSymbol) The attribute unitSymbol of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitSymbol](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitSymbol) The attribute unitSymbol of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## DataTypeIEC61360
  Enumeration of all IEC 61360 defined data types.
 
- [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360) The DataTypeIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataTypeIEC61360](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataTypeIEC61360) The DataTypeIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE
  

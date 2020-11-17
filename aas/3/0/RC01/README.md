@@ -806,6 +806,16 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty](http://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty) The MultiLanguageProperty class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
+## MultiLanguageProperty/value
+ The value of the property instance.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/value](https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/value) The attribute value of the MultiLanguageProperty class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## MultiLanguageProperty/valueId
+ Reference to the global unqiue id of a coded value.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/valueId](https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/valueId) The attribute valueId of the MultiLanguageProperty class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
 ## ObjectAttributes
  A set of data elements that describe object attributes. These attributes need to refer to a data element within an existing submodel.
 

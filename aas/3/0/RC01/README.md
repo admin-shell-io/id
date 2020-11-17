@@ -906,10 +906,10 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/PermissionsPerObject/object](http://admin-shell.io/aas/3/0/RC01/PermissionsPerObject/object) The attribute object of the PermissionsPerObject class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## PermissionsPerObject/objectPermission
+## PermissionsPerObject/Permission
  Permissions assigned to the object. The permissions hold for all subjects as specified in the access permission rule.
 
- [http://admin-shell.io/aas/3/0/RC01/PermissionsPerObject/objectPermission](http://admin-shell.io/aas/3/0/RC01/PermissionsPerObject/objectPermission) The attribute objectPermission of the PermissionsPerObject class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/PermissionsPerObject/Permission](http://admin-shell.io/aas/3/0/RC01/PermissionsPerObject/Permission) The attribute Permission of the PermissionsPerObject class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## PermissionsPerObject/targetObjectAttributes
  Target object attributes that need to be fulfilled so that the access permissions apply to the accessing subject.
@@ -970,6 +970,16 @@ Access permission rules of the AAS describing the rights assigned to (already au
  A property is a data element that has a single value.
 
  [http://admin-shell.io/aas/3/0/RC01/Property](http://admin-shell.io/aas/3/0/RC01/Property) The Property class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
+## Property/category
+ The following categories are defined for properties and multi-language properties: CONSTANT, PARAMETER, and VARIABLE.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/Property/category](https://admin-shell.io/aas/3/0/RC01/Property/category) The attribute category of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## Property/value
+ The value of the property instance.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/Property/value](https://admin-shell.io/aas/3/0/RC01/Property/value) The attribute value of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## Property/propertyValueId
  Reference to the global unqiue id of a coded value.

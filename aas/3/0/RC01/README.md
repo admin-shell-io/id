@@ -1192,6 +1192,11 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/Reference](http://admin-shell.io/aas/3/0/RC01/Reference) The Reference class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
+## Reference/key
+ Unique reference in its name space.
+ 
+ [https://admin-shell.io/aas/3/0/RC01/Reference/key](https://admin-shell.io/aas/3/0/RC01/Reference/key) The attribute key of the Reference class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
 ## ReferenceElement
  A reference element is a data element that defines a logical reference to another element within the same or another AAS or a reference to an external object or entity.
 

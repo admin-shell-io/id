@@ -1078,6 +1078,11 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/Referable/description](http://admin-shell.io/aas/3/0/RC01/Referable/description) The attribute description of the Referable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
+## Referable/displayName
+ Display name. Can be provided in several languages.
+
+[https://admin-shell.io/aas/3/0/RC01/Referable/displayName](https://admin-shell.io/aas/3/0/RC01/Referable/displayName) The attribute displayName of the Referable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
 ## Referable/idShort
  Identifying string of the element within its name space.
 
@@ -1088,100 +1093,99 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
  [http://admin-shell.io/aas/3/0/RC01/Referable/parent](http://admin-shell.io/aas/3/0/RC01/Referable/parent) The attribute parent of the Referable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement
+## ReferableElements
  Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement](http://admin-shell.io/aas/3/0/RC01/ReferableElement) The ReferableElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements](http://admin-shell.io/aas/3/0/RC01/ReferableElements) The ReferableElements class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
-## ReferableElement/ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT
+## ReferableElements/ACCESS_PERMISSION_RULE
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT) The ReferableElement ACCESS_PERMISSION_RULE_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/ACCESS_PERMISSION_RULE](http://admin-shell.io/aas/3/0/RC01/ReferableElements/ACCESS_PERMISSION_RULE) The ReferableElements ACCESS_PERMISSION_RULE of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT
+## ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT) The ReferableElement ANNOTATED_RELATIONSHIP_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT) The ReferableElements ANNOTATED_RELATIONSHIP_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/BASIC_EVENT_REFERABLE_ELEMENT
+## ReferableElements/BASIC_EVENT
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/BASIC_EVENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/BASIC_EVENT_REFERABLE_ELEMENT) The ReferableElement BASIC_EVENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/BASIC_EVENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/BASIC_EVENT) The ReferableElements BASIC_EVENTT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/BLOB_REFERABLE_ELEMENT
+## ReferableElements/BLOB
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/BLOB_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/BLOB_REFERABLE_ELEMENT) The ReferableElement BLOB_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/BLOB](http://admin-shell.io/aas/3/0/RC01/ReferableElements/BLOB) The ReferableElements BLOB of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/CAPABILITY_REFERABLE_ELEMENT
+## ReferableElements/CAPABILITY
+
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/CAPABILITY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/CAPABILITY) The ReferableElements CAPABILITY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+
+## ReferableElements/CONCEPT_DICTIONARY
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/CAPABILITY_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/CAPABILITY_REFERABLE_ELEMENT) The ReferableElement CAPABILITY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/CONCEPT_DICTIONARY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/CONCEPT_DICTIONARY) The ReferableElements CONCEPT_DICTIONARY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/CONCEPT_DICTIONARY_REFERABLE_ELEMENT
+## ReferableElements/DATA_ELEMENT
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/CONCEPT_DICTIONARY_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/CONCEPT_DICTIONARY_REFERABLE_ELEMENT) The ReferableElement CONCEPT_DICTIONARY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/DATA_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/DATA_ELEMENT) The ReferableElements DATA_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/DATA_ELEMENT_REFERABLE_ELEMENT
+## ReferableElements/ENTITY
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/DATA_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/DATA_ELEMENT_REFERABLE_ELEMENT) The ReferableElement DATA_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/ENTITY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/ENTITY) The ReferableElements ENTITY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/ENTITY_REFERABLE_ELEMENT
+## ReferableElements/EVENT
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/ENTITY_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/ENTITY_REFERABLE_ELEMENT) The ReferableElement ENTITY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/EVENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/EVENT) The ReferableElements EVENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/EVENT_REFERABLE_ELEMENT
- 
-
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/EVENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/EVENT_REFERABLE_ELEMENT) The ReferableElement EVENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
-
-## ReferableElement/MULTI_LANGUAGE_PROPERTY_REFERABLE_ELEMENT
+## ReferableElement/MULTI_LANGUAGE_PROPERTY
  Property with a value that can be provided in multiple languages.
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/MULTI_LANGUAGE_PROPERTY_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/MULTI_LANGUAGE_PROPERTY_REFERABLE_ELEMENT) The ReferableElement MULTI_LANGUAGE_PROPERTY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/MULTI_LANGUAGE_PROPERTY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/MULTI_LANGUAGE_PROPERTY) The ReferableElements MULTI_LANGUAGE_PROPERTY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/OPERATION_REFERABLE_ELEMENT
+## ReferableElements/OPERATION
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/OPERATION_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/OPERATION_REFERABLE_ELEMENT) The ReferableElement OPERATION_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/OPERATION](http://admin-shell.io/aas/3/0/RC01/ReferableElements/OPERATION) The ReferableElements OPERATION of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/PROPERTY_REFERABLE_ELEMENT
+## ReferableElements/PROPERTY
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/PROPERTY_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/PROPERTY_REFERABLE_ELEMENT) The ReferableElement PROPERTY_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/PROPERTY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/PROPERTY) The ReferableElements PROPERTY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/RANGE_REFERABLE_ELEMENT
+## ReferableElements/RANGE
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/RANGE_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/RANGE_REFERABLE_ELEMENT) The ReferableElement RANGE_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/RANGE](http://admin-shell.io/aas/3/0/RC01/ReferableElements/RANGE) The ReferableElements RANGE of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/REFERENCE_ELEMENT_REFERABLE_ELEMENT
+## ReferableElements/REFERENCE_ELEMENT
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/REFERENCE_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/REFERENCE_ELEMENT_REFERABLE_ELEMENT) The ReferableElement REFERENCE_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/REFERENCE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/REFERENCE_ELEMENT) The ReferableElements REFERENCE_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT
+## ReferableElements/RELATIONSHIPT_ELEMENT
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT) The ReferableElement RELATIONSHIPT_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/RELATIONSHIPT_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/RELATIONSHIPT_ELEMENT) The ReferableElements RELATIONSHIPT_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/SUBMODEL_ELEMENT_COLLECTION_REFERABLE_ELEMENT
+## ReferableElements/SUBMODEL_ELEMENT_COLLECTION
  Collection of Submodel Elements
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/SUBMODEL_ELEMENT_COLLECTION_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/SUBMODEL_ELEMENT_COLLECTION_REFERABLE_ELEMENT) The ReferableElement SUBMODEL_ELEMENT_COLLECTION_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT_COLLECTION](http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT_COLLECTION) The ReferableElements SUBMODEL_ELEMENT_COLLECTION of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/SUBMODEL_ELEMENT_REFERABLE_ELEMENT
+## ReferableElements/SUBMODEL_ELEMENT
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/SUBMODEL_ELEMENT_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/SUBMODEL_ELEMENT_REFERABLE_ELEMENT) The ReferableElement SUBMODEL_ELEMENT_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT) The ReferableElements SUBMODEL_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
-## ReferableElement/VIEW_REFERABLE_ELEMENT
+## ReferableElements/VIEW
  
 
- [http://admin-shell.io/aas/3/0/RC01/ReferableElement/VIEW_REFERABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElement/VIEW_REFERABLE_ELEMENT) The ReferableElement VIEW_REFERABLE_ELEMENT of the ReferableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
+ [http://admin-shell.io/aas/3/0/RC01/ReferableElements/VIEW](http://admin-shell.io/aas/3/0/RC01/ReferableElements/VIEW) The ReferableElements VIEW of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01
 
 ## Reference
  Reference to either a model element of the same or another AAs or to an external entity. A reference is an ordered list of keys, each key referencing an element. The complete list of keys may for example be concatenated to a path that then gives unique access to an element or entity.

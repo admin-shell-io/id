@@ -1,7 +1,6 @@
 # VDI/VDE/NAMUR 2658 MTP (Module Type Package) Version 1.0
 This sub-namespace collects the identifiers defined in the VDI specification VDI/VDE/NAMUR 2658.
 
-
 ## Introduction
 
 MTP standardizes automation aspects of modular plants used in process industries.

@@ -13,11 +13,11 @@ MTP standardizes automation aspects of modular plants used in process industries
 
 ## ModuleTypePackage (Submodel Element - File)
 
-MTP file included as a zipped package with ending “.zip” or “.mtp” (.mtp is preferred)
+[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/ModuleTypePackage](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/ModuleTypePackage): MTP file included as a zipped package with ending “.zip” or “.mtp” (.mtp is preferred)
 
 ## CommunicationSet/SourceList (Submodel Element Collection)
 
-Collection to organize communication sources of a PEA
+[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/CommunicationSet/SourceList](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/CommunicationSet/SourceList): Collection to organize communication sources of a PEA
 
 ## Contact
 

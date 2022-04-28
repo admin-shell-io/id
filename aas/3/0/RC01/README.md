@@ -1,6 +1,6 @@
 # AAS (Asset Administration Shell)
 
-This is the sub-namespace resevered for the Asset Administration Shell Metamodel.
+This is the sub-namespace resevered for the Asset Administration Shell Metamodel version 3.0 (Candidate Release 01).
 
 ## Introduction
 
@@ -129,7 +129,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## AssetInformation/assetKind
  Denotes whether the Asset of of kind 'Type' or 'Instance'.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/AssetInformation/assetKind](https://admin-shell.io/aas/3/0/RC01/AssetInformation/assetKind) The attribute assetKind of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## AssetInformation/globalAssetId
@@ -139,19 +139,19 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## AssetInformation/externalAssetId
  Additional domain specific external, typically proprietary Identifier for the asset like e.g. serial number etc.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/AssetInformation/externalAssetId](https://admin-shell.io/aas/3/0/RC01/AssetInformation/externalAssetId) The attribute externalAssetId of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## AssetInformation/billOfMaterial
  A reference to a Submodel that defines the bill of material of the asset represented by the AAS. This submodel contains a set of entities describing the material used to compose the composite I4.0 Component.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/AssetInformation/billOfMaterial](https://admin-shell.io/aas/3/0/RC01/AssetInformation/billOfMaterial) The attribute billOfMaterial of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## AssetInformation/thumbnail
  Thumbnail of the asset represented by the asset administration shell.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/AssetInformation/thumbnail](https://admin-shell.io/aas/3/0/RC01/AssetInformation/thumbnail) The attribute thumbnail of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
- 
+
 ## AssetAdministrationShell
  Describes the Administration Shell for Assets, Products, Components, e.g. Machines
 
@@ -159,7 +159,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## AssetAdministrationShell/assetInformation
  Meta information about the asset the AAS is representing.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/AssetAdministrationShell/assetInformation](https://admin-shell.io/aas/3/0/RC01/AssetAdministrationShell/assetInformation) The attribute assetInformation of the AssetAdministrationShell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## AssetAdministrationShell/derivedFrom
@@ -218,7 +218,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## Blob/value
  The value of the BLOB instance of a blob data element.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/Blob/value](https://admin-shell.io/aas/3/0/RC01/Blob/value) The attribute value of the Blob class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## BlobCertificate
@@ -273,7 +273,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## Certificate/policyAdministrationPoint
  The access control administration policy point of the AAS.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/Certificate/policyAdministrationPoint](https://admin-shell.io/aas/3/0/RC01/Certificate/policyAdministrationPoint) The attribute policyAdministrationPoint of the Certificate as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ConceptDescription
@@ -283,7 +283,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## ConceptDescription/content
  Link from a ConceptDescription to its explaining DataSpecificationContent.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/ConceptDescription/content](https://admin-shell.io/aas/3/0/RC01/ConceptDescription/content) The attribute content of the ConceptDescription as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ConceptDescription/isCaseOf
@@ -312,7 +312,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360) The DataSpecificationIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/datatype
- 
+
 
  [ https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/dataType]( https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/dataType) The attribute dataType of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -327,12 +327,12 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/levelType](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/levelType) The attribute levelType of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/preferredName
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/preferredName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/preferredName) The attribute preferredName of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/shortName
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/shortName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/shortName) The attribute shortName of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -342,22 +342,22 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/sourceOfDefinition](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/sourceOfDefinition) The attribute sourceOfDefinition of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/symbol
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/symbol](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/symbol) The attribute symbol of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/unit
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/unit](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/unit) The attribute unit of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/unitId
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/unitId](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/unitId) The attribute unitId of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationIEC61360/valueFormat
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/valueFormat](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataSpecificationIEC61360/valueFormat) The attribute valueFormat of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -382,57 +382,57 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [ https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/) The DataSpecificationPhysicalUnit class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/conversionFactor
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/conversionFactor](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/conversionFactor) The attribute conversionFactor of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/definition
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/definition](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/definition) The attribute definition of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/dinNotation
 
- 
+
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/dinNotation](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/dinNotation) The attribute dinNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/eceCode
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceCode](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceCode) The attribute eceCode of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/eceName
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/eceName) The attribute eceName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/nistName
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/nistName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/nistName) The attribute nistName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/siName
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siName) The attribute siName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/siNotation
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siNotation](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/siNotation) The attribute siNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/supplier
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/supplier](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/supplier) The attribute supplier of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/unitName
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitName](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitName) The attribute unitName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataSpecificationPhysicalUnit/unitSymbol
- 
+
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitSymbol](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationPhysicalUnit/3/0/RC01/unitSymbol) The attribute unitSymbol of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -442,62 +442,62 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataTypeIEC61360](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/RC01/DataTypeIEC61360) The DataTypeIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE) The DataTypeIEC61360 BOOLEAN_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/DATE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/DATE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/DATE_IEC6360_DATATYPE) The DataTypeIEC61360 DATE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_COUNT_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_CURRENCY_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/STRING_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/STRING_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/STRING_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_TRANSLATABLE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE) The DataTypeIEC61360 TIMESTAMP_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/TIME_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/TIME_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/TIME_IEC6360_DATATYPE) The DataTypeIEC61360 TIME_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## DataTypeIEC61360/URL_IEC6360_DATATYPE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/URL_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/RC01/DataTypeIEC61360/URL_IEC6360_DATATYPE) The DataTypeIEC61360 URL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -564,7 +564,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [https://admin-shell.io/aas/3/0/RC01/Extension/refersTo](https://admin-shell.io/aas/3/0/RC01/Extension/refersTo) The attribute refersTo Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## Event
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/Event](http://admin-shell.io/aas/3/0/RC01/Event) The Event class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -585,16 +585,16 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## File/mimeType
  Mime type of the content of the File.
- 
- [https://admin-shell.io/aas/3/0/RC01/File/mimeType](https://admin-shell.io/aas/3/0/RC01/File/mimeType) The attribute mimeType of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'. 
+
+ [https://admin-shell.io/aas/3/0/RC01/File/mimeType](https://admin-shell.io/aas/3/0/RC01/File/mimeType) The attribute mimeType of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## File/value
  Path and name of the referenced file (with file extension). The path can be absolute or relative.
- 
- [https://admin-shell.io/aas/3/0/RC01/File/value](https://admin-shell.io/aas/3/0/RC01/File/value) The attribute value of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'. 
+
+ [https://admin-shell.io/aas/3/0/RC01/File/value](https://admin-shell.io/aas/3/0/RC01/File/value) The attribute value of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## Formula
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/Formula](http://admin-shell.io/aas/3/0/RC01/Formula) The Formula class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -605,14 +605,14 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## HasExtensions
  Element that can be extended by proprietary extensions.
- 
- [https://admin-shell.io/aas/3/0/RC01/HasExtensions](https://admin-shell.io/aas/3/0/RC01/HasExtensions) The HasExtensions class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'. 
- 
+
+ [https://admin-shell.io/aas/3/0/RC01/HasExtensions](https://admin-shell.io/aas/3/0/RC01/HasExtensions) The HasExtensions class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
+
 ## HasExtensions/extension
  An extension of the element.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/HasExtensions/extension](https://admin-shell.io/aas/3/0/RC01/HasExtensions/extension) The attribute extension of the HasExtensions class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
- 
+
 ## HasDataSpecification
  Element that can have be extended by using data specification templates. A data specification template defines the additional attributes an element may or shall have. The data specifications used are explicitly specified with their id.
 
@@ -664,22 +664,22 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement) The IdentifiableElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifiableElement/ASSET
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET) The IdentifiableElement ASSET of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT) The IdentifiableElement ASSET_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifiableElement/CONCEPT_DESCRIPTION
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/CONCEPT_DESCRIPTION](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/CONCEPT_DESCRIPTION) The IdentifiableElement CONCEPT_DESCRIPTION of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifiableElement/SUBMODEL
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/SUBMODEL](http://admin-shell.io/aas/3/0/RC01/IdentifiableElement/SUBMODEL) The IdentifiableElement SUBMODEL of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -715,27 +715,27 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## IdentifierType/IRI
  IRI. Should only be used if unicode symbols are used that are not allowed in URI.
- 
+
  [http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI](http://admin-shell.io/aas/3/0/RC01/IdentifierType/IRI) The IdentifierType IRI of the IdentifierType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifierKeyValuePair
  An IdentifierKeyValuePair describes a generic identifier as key-value pair.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair) The IdentifierKeyValuePair class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifierKeyValuePair/key
  Key of the identifier.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/key](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/key) The key attribute of the IdentifierKeyValuePair as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifierKeyValuePair/value
  The value of the identifier with the corresponding key.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/value](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/value) The value attribute of the IdentifierKeyValuePair as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## IdentifierKeyValuePair/externalSubjectId
  The (external) subject the key belongs to or has meaning to.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/externalSubjectId](https://admin-shell.io/aas/3/0/RC01/IdentifierKeyValuePair/externalSubjectId) The externalSubjectId attribute of the IdentifierKeyValuePair as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## Key
@@ -764,7 +764,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/KeyElement](http://admin-shell.io/aas/3/0/RC01/KeyElement) The KeyElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## KeyElement/FRAGMENT_REFERENCE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/KeyElement/FRAGMENT_REFERENCE](http://admin-shell.io/aas/3/0/RC01/KeyElement/FRAGMENT_REFERENCE) The KeyElement FRAGMENT_REFERENCET of the KeyElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -840,12 +840,12 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## MultiLanguageProperty/value
  The value of the property instance.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/value](https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/value) The attribute value of the MultiLanguageProperty class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## MultiLanguageProperty/valueId
  Reference to the global unqiue id of a coded value.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/valueId](https://admin-shell.io/aas/3/0/RC01/MultiLanguageProperty/valueId) The attribute valueId of the MultiLanguageProperty class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ObjectAttributes
@@ -879,7 +879,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/Operation/outputVariable](http://admin-shell.io/aas/3/0/RC01/Operation/outputVariable) The attribute outputVariable of the Operation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## OperationVariable
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/OperationVariable](http://admin-shell.io/aas/3/0/RC01/OperationVariable) The OperationVariable class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -964,7 +964,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/PolicyAdministrationPoint/localAccessControl](http://admin-shell.io/aas/3/0/RC01/PolicyAdministrationPoint/localAccessControl) The attribute localAccessControl of the PolicyAdministrationPoint class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## PolicyDecisionPoint
- Defines the security policy decision points (PDP). 
+ Defines the security policy decision points (PDP).
 
  [http://admin-shell.io/aas/3/0/RC01/PolicyDecisionPoint](http://admin-shell.io/aas/3/0/RC01/PolicyDecisionPoint) The PolicyDecisionPoint class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -1005,12 +1005,12 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## Property/category
  The following categories are defined for properties and multi-language properties: CONSTANT, PARAMETER, and VARIABLE.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/Property/category](https://admin-shell.io/aas/3/0/RC01/Property/category) The attribute category of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## Property/value
  The value of the property instance.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/Property/value](https://admin-shell.io/aas/3/0/RC01/Property/value) The attribute value of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## Property/propertyValueId
@@ -1099,22 +1099,22 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements](http://admin-shell.io/aas/3/0/RC01/ReferableElements) The ReferableElements class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/ACCESS_PERMISSION_RULE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/ACCESS_PERMISSION_RULE](http://admin-shell.io/aas/3/0/RC01/ReferableElements/ACCESS_PERMISSION_RULE) The ReferableElements ACCESS_PERMISSION_RULE of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT) The ReferableElements ANNOTATED_RELATIONSHIP_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/BASIC_EVENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/BASIC_EVENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/BASIC_EVENT) The ReferableElements BASIC_EVENTT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/BLOB
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/BLOB](http://admin-shell.io/aas/3/0/RC01/ReferableElements/BLOB) The ReferableElements BLOB of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -1123,22 +1123,22 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/CAPABILITY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/CAPABILITY) The ReferableElements CAPABILITY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/CONCEPT_DICTIONARY
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/CONCEPT_DICTIONARY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/CONCEPT_DICTIONARY) The ReferableElements CONCEPT_DICTIONARY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/DATA_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/DATA_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/DATA_ELEMENT) The ReferableElements DATA_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/ENTITY
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/ENTITY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/ENTITY) The ReferableElements ENTITY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/EVENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/EVENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/EVENT) The ReferableElements EVENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -1148,27 +1148,27 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/MULTI_LANGUAGE_PROPERTY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/MULTI_LANGUAGE_PROPERTY) The ReferableElements MULTI_LANGUAGE_PROPERTY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/OPERATION
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/OPERATION](http://admin-shell.io/aas/3/0/RC01/ReferableElements/OPERATION) The ReferableElements OPERATION of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/PROPERTY
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/PROPERTY](http://admin-shell.io/aas/3/0/RC01/ReferableElements/PROPERTY) The ReferableElements PROPERTY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/RANGE
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/RANGE](http://admin-shell.io/aas/3/0/RC01/ReferableElements/RANGE) The ReferableElements RANGE of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/REFERENCE_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/REFERENCE_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/REFERENCE_ELEMENT) The ReferableElements REFERENCE_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/RELATIONSHIPT_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/RELATIONSHIPT_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/RELATIONSHIPT_ELEMENT) The ReferableElements RELATIONSHIPT_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -1178,12 +1178,12 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT_COLLECTION](http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT_COLLECTION) The ReferableElements SUBMODEL_ELEMENT_COLLECTION of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/SUBMODEL_ELEMENT
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT](http://admin-shell.io/aas/3/0/RC01/ReferableElements/SUBMODEL_ELEMENT) The ReferableElements SUBMODEL_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferableElements/VIEW
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/ReferableElements/VIEW](http://admin-shell.io/aas/3/0/RC01/ReferableElements/VIEW) The ReferableElements VIEW of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -1194,7 +1194,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## Reference/key
  Unique reference in its name space.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/Reference/key](https://admin-shell.io/aas/3/0/RC01/Reference/key) The attribute key of the Reference class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## ReferenceElement
@@ -1203,7 +1203,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
  [http://admin-shell.io/aas/3/0/RC01/ReferenceElement](http://admin-shell.io/aas/3/0/RC01/ReferenceElement) The ReferenceElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## RelationshipElement
- 
+
 
  [http://admin-shell.io/aas/3/0/RC01/RelationshipElement](http://admin-shell.io/aas/3/0/RC01/RelationshipElement) The RelationshipElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
@@ -1279,7 +1279,7 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 ## SubmodelElementCollection/value
  Submodel element contained in the collection.
- 
+
  [https://admin-shell.io/aas/3/0/RC01/SubmodelElementCollection/value](https://admin-shell.io/aas/3/0/RC01/SubmodelElementCollection/value)The attribute value of the SubmodelElementCollection class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0RC01'.
 
 ## View
@@ -1294,8 +1294,6 @@ Access permission rules of the AAS describing the rights assigned to (already au
 
 
 
-
-
 ## Contact
 
-This subnamespace was created by the [Plattform Industrie 4.0](http://www.plattform-i40.de/). The [Coordination Board Submodels](mailto:coordination-board@admin-shell.io) maintains these identifiers.
+This subnamespace was created by the [Plattform Industrie 4.0](https://www.plattform-i40.de/). The [Coordination Board Submodels](mailto:coordination-board@admin-shell.io) maintains these identifiers.

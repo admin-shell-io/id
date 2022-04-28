@@ -10,21 +10,21 @@ MTP standardizes automation aspects of modular plants used in process industries
 
 ## MTPSubmodel (Submodel Template)
 
-The submodel defines an entry point to a MTP environment containing an embedded MTP file as SubmodelElement.
+[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSubmodel](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSubmodel): The submodel defines an entry point to a MTP environment containing an embedded MTP file as SubmodelElement.
 
 ## MTPReferences (Submodel Element Collection)
 
-Collection containing references to documentation documents which are associated with elements within the MTP file.
+[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPReferences](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPReferences): Collection containing references to documentation documents which are associated with elements within the MTP file.
 
 The IdShort of the actual collection can be chosen differently, e.g., BOMReferences of DocumentationReferences.
 
 ## MTPReference (Relationship Element)
 
-Reference between (first) an opaque element within the MTP file and (second) a  element within the AAS.
+[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPReference](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPReference): Reference between (first) an opaque element within the MTP file and (second) a element within the AAS.
 
 ## PEASubmodel (Submodel Template)
 
-The submodel defines a set of PEA-properties specific to module instance.
+[https://admin-shell.io/sandbox/vdi/2658/1/0/PEASubmodel](https://admin-shell.io/sandbox/vdi/2658/1/0/PEASubmodel): The submodel defines a set of PEA-properties specific to module instance.
 
 
 ## Contact

@@ -1,0 +1,3 @@
+# IDTA
+
+This sub-namespace collects the identifiers defined in working groups of the IDTA.

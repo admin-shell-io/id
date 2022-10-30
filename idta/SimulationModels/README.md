@@ -17,6 +17,10 @@ In further steps, the submodel will also support the automatic integration of a 
 
 ## Status: `Submitted`
 The sub-namespace for SimulationModels and its identifiers have been finalized in the Taskforce Provision of simulation models.
+
+## Versions: [1.0](1/0)
+This version is the first version to be officially published by IDTA Document `Provision of simulation models 1.0`.
+
 ## Contact
 
 This sub-namespace is proposed by [IDTA Working Group `Provision of simulation models`](https://github.com/admin-shell-io/submodel-templates/tree/main/development/Simulation/1/0). See also [IDTA Registered AAS Submodel Templates](https://industrialdigitaltwin.org/content-hub/teilmodelle#:~:text=Provision%20of%20simulation%20models) or contact via email the [IDTA project manager for submodel templates](mailto:sudip.adhikari@idtwin.org) or [chair of the working group](mailto:Markus.Kiele-Dunsche@lenze.com).

@@ -363,7 +363,7 @@ List of variables of the port.
 
 [https://admin-shell.io/idta/SimulationModels/1/0/binaryConnector/binaryConDescription](https://admin-shell.io/idta/SimulationModels/1/0/binaryConnector/binaryConDescription) Binary interface description. 
 
-## Versions: [1.0](1)
+## Versions: [1.0](.)
 This version is the first version to be officially published by IDTA Document `Provision of simulation models 1.0`.
 
 ## Contact

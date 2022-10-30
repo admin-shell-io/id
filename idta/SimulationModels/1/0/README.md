@@ -254,58 +254,13 @@ contains information about this release
 
 Provide access to simulation support service provided by the distributor via mail or phone.
 
-### simModManufacturerInformation/company (SMC)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/company](https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/company)
-
-name of the company
-
-### simModManufacturerInformation/language (SMC)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/language](https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/language) available language
-
-### simModManufacturerInformation/email (SMC)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/email](https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/email) E-mail address and encryption method
-
 ### simModManufacturerInformation/phone (SMC)
 
 [https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/phone](https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/phone) Phone number including type
 
-## email (SMC)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/email](https://admin-shell.io/idta/SimulationModels/1/0/email) E-mail address and encryption method
-
-### email/typeOfEmailAddress (Property)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/email/typeOfEmailAddress](https://admin-shell.io/idta/SimulationModels/1/0/email/typeOfEmailAddress) characterization of an e-mail address according to its location or usage
-
-### email/emailAddress (Property)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/email/emailAddress](https://admin-shell.io/idta/SimulationModels/1/0/email/emailAddress) electronic mail address of a business partner
-
-### email/typeOfPublicKey (Property)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/email/typeOfPublicKey](https://admin-shell.io/idta/SimulationModels/1/0/email/typeOfPublicKey) characterization of a public key according to its encryption process
-
-### email/publicKey (Property)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/email/publicKey](https://admin-shell.io/idta/SimulationModels/1/0/email/publicKey)
-public part of an unsymmetrical key pair to sign or encrypt text or messages 
-
 ## phone (SMC)
 
 [https://admin-shell.io/idta/SimulationModels/1/0/phone](https://admin-shell.io/idta/SimulationModels/1/0/phone) Phone number including type
-
-### phone/typeOfTelephone (Property) 
-
-[https://admin-shell.io/idta/SimulationModels/1/0/phone/typeOfTelephone](https://admin-shell.io/idta/SimulationModels/1/0/phone/typeOfTelephone) 
-characterization of a telephone according to its location or usage
-
-### phone/telephoneNumber (Property)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/phone/telephoneNumber](https://admin-shell.io/idta/SimulationModels/1/0/phone/telephoneNumber) 
-complete telephone number to be called to reach a business partner
 
 ### phone/availableTime (Property)
 

@@ -317,7 +317,7 @@ Interfaces of the model. This includes inputs, outputs as well as acausal connec
 
 ### ports/portsConnector (SMC)
 
-[https://admin-shell.io/idta/SimulationModels/1/0/ports/portsConnector](https://admin-shell.io/idta/SimulationModels/1/0/ports)
+[https://admin-shell.io/idta/SimulationModels/1/0/ports/portsConnector](https://admin-shell.io/idta/SimulationModels/1/0/ports/portsConnector)
 
 List of ports of the model. These include a name, a description, a list of variables, and a list of ports. 
 

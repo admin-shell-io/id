@@ -323,8 +323,7 @@ List of ports of the model. These include a name, a description, a list of varia
 
 ### ports/binaryConnector (SMC)
 
-[https://admin-shell.io/idta/SimulationModels/1/0/ports/binaryConnector](https://admin-shell.io/idta/SimulationModels/1/0/ports)
-
+[https://admin-shell.io/idta/SimulationModels/1/0/ports/binaryConnector](https://admin-shell.io/idta/SimulationModels/1/0/ports/binaryConnector)
 List of Binary interfaces (binaryType) based on the FMI 3.0 standard (https://fmi-standard.org/docs/3.0-dev/#definition-of-types). At this point the name (e.g. "Binary interface visualization") and the description (e.g. "Interface for binary transfer of visualization information") are specified. 
 
 ## portsConnector (SMC)

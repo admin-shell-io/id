@@ -411,4 +411,4 @@ This version is the first version to be officially published by IDTA Document `P
 
 ## Contact
 
-This sub-namespace is proposed by [IDTA Working Group `Provision of simulation models`](https://github.com/admin-shell-io/submodel-templates/tree/main/development/Simulation/1/0). See also [IDTA Registered AAS Submodel Templates](https://industrialdigitaltwin.org/content-hub/teilmodelle#:~:text=Provision%20of%20simulation%20models) or contact via email the [IDTA project manager for submodel templates](sudip.adhikari@idtwin.org) or [chair of the working group](mailto:Markus.Kiele-Dunsche@lenze.com).
+This sub-namespace is proposed by [IDTA Working Group `Provision of simulation models`](https://github.com/admin-shell-io/submodel-templates/tree/main/development/Simulation/1/0). See also [IDTA Registered AAS Submodel Templates](https://industrialdigitaltwin.org/content-hub/teilmodelle#:~:text=Provision%20of%20simulation%20models) or contact via email the [IDTA project manager for submodel templates](mailto:sudip.adhikari@idtwin.org) or [chair of the working group](mailto:Markus.Kiele-Dunsche@lenze.com).

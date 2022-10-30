@@ -218,13 +218,13 @@ For further information please read the SMT Spec
 
 ### modelFileVersion/modelVersionId (Property)
 
-[https://admin-shell.io/idta/SimulationModels/1/0/modelFileVersion/modelVersionId](https://admin-shell.io/idta/SimulationModels/1/0/modelFileVersion/modelVersionId)
+[https://admin-shell.io/idta/SimulationModels/1/0/PVersionId](https://admin-shell.io/idta/SimulationModels/1/0/modelFileVersion/modelVersionId)
 
 Version number of the model from the vendor.
 
-### modelFileVersion/modelFileRelemodelPreviewImage (File)
+### modelFileVersion/modelPreviewImage (File)
 
-[https://admin-shell.io/idta/SimulationModels/1/0/modelFileVersion/modelFileRelemodelPreviewImage](https://admin-shell.io/idta/SimulationModels/1/0/modelFileVersion/modelFileRelemodelPreviewImage)
+[https://admin-shell.io/idta/SimulationModels/1/0/modelFileVersion/modelPreviewImage](https://admin-shell.io/idta/SimulationModels/1/0/modelFileVersion/modelPreviewImage)
 
 Image file to represent the model in user interfaces, e.g. in a search.
 

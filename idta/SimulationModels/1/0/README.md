@@ -64,8 +64,11 @@ Summary of the contents of the simulation model in text form.
 ### SimulationModel/modelFile (SMC)
 [https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/modelFile](https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/modelFile) Providing versions of the simulation model and with characteristics to distinguish them. 
 
-### SimulationModel/paramMethod (File)
+### SimulationModel/paramMethod (Property)
 [https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/paramMethod](https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/paramMethod) Indicates whether the model must be parameterized and if so, which method is required.
+
+### SimulationModel/paramFile (File)
+[https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/paramFile](https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/paramFile) File for parameterization of the model. As parameter file or parameter documentation (e.g. pdf). 
 
 ### SimulationModel/initStateMethod (Property)
 [https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/initStateMethod](https://admin-shell.io/idta/SimulationModels/1/0/simulationModel/initStateMethod) Describes the state variables of the simulation model that must be initialized to start the simulation. For initial value problems, these quantities describe the system state at the start of the simulation. In this case, the system is in a state of equilibrium. Alternatively, a simulation model may include a method to determine consistent initial values at this step, e.g., at an operating point. 

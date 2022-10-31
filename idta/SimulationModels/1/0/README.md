@@ -15,6 +15,9 @@ Assets, where you can provide simulation models via AAS, can be passive parts, a
 In the first step, the submodel supports searching and finding, as well as requesting simulation model files from manufacturers or distributors.
 In further steps, the submodel will also support the automatic integration of a model into a specific simulation environment, up to an automatic generation of an overall simulation based on structural descriptions of a system containing different components. As it is possible with e.g. the submodel candidate for a bill of material (BoM).
 
+![SMTSim](https://user-images.githubusercontent.com/1814815/199018518-0d985525-c853-4a2a-9970-42af7f0fc035.jpg)
+
+
 ## Status: `Submitted`
 The sub-namespace for SimulationModels and its identifiers have been finalized in the Taskforce Provision of simulation models.
 

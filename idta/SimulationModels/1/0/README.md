@@ -261,15 +261,6 @@ Provide access to simulation support service provided by the distributor via mai
 
 [https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/phone](https://admin-shell.io/idta/SimulationModels/1/0/simModManufacturerInformation/phone) Phone number including type
 
-## phone (SMC)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/phone](https://admin-shell.io/idta/SimulationModels/1/0/phone) Phone number including type
-
-### phone/availableTime (Property)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/phone/availableTime](https://admin-shell.io/idta/SimulationModels/1/0/phone/availableTime) 
-Specification of the available time window
-
 ## ports (SMC)
 
 [https://admin-shell.io/idta/SimulationModels/1/0/ports](https://admin-shell.io/idta/SimulationModels/1/0/ports)

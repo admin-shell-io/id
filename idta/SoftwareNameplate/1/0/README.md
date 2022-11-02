@@ -79,6 +79,10 @@ The sub-namespace for Software Nameplate and its identifiers have been finalized
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledArchitecture](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledArchitecture) Indicates the processor architecture this instance is installed on.
 
+### InstalledOS (Property)
+
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledOS](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledOS) Indicates the operating system this instance is installed on.
+
 ### InstalledOnHost (Property)
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledOnHost](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledOnHost) Indicates the host system in case of a virtual environment.
@@ -115,7 +119,7 @@ The sub-namespace for Software Nameplate and its identifiers have been finalized
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/InstalledModule) Indicates the path to the configuration.
 
-### ConfigurationPath (Property)
+### TypeOfConfiguration (Property)
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/TypeOfConfiguration](https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/TypeOfConfiguration) Indicates the type of configuration (e.g. general configuration, user configuration).
 

@@ -31,6 +31,10 @@ The sub-namespace for Software Nameplate and its identifiers have been finalized
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/VersionInfo](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/VersionInfo) Provides a textual description of most relevant characteristics of the version of the software.
 
+### ReleaseDate (Property)
+
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ReleaseDate](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ReleaseDate) The moment in time, when this version of the software was made publicly available.
+
 ### ReleaseNotes (MultiLanguageProperty)
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ReleaseNotes](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ReleaseNotes) contains information about this release.

@@ -4,13 +4,14 @@ In the context of Industrie 4.0, software as an asset becomes increasingly impor
 For an effective and efficient use and management of software in manufacturing value networks, in smart manufacturing, and in smart products, it is necessary to gather relevant information in a uniform representation, as a `nameplate for software`. 
 This supports use cases like updates, patch management, license management, audits, etc. This Submodel template specifies a basic set of SubmodelElements in order to describe the necessary information.
 
-
 ## Introduction
 
 Software becomes more and more an essential part in manufacturing value networks, in smart manufacturing, and in smart products. 
 For an effective and efficient use and management of such software, it is necessary to gather relevant information in a uniform representation. 
 Use cases like updates, patch management, license management, audits, etc. rely on information regarding identification, sources and features of software. 
 This information shall be provided in a consistent manner in form of a `nameplate for software`, derived and specialized from a common digital nameplate as defined. 
+
+![image](https://user-images.githubusercontent.com/1814815/199588949-afe2aaa2-1734-4fd8-a256-5763be7fd9ee.png)
 
 ## Status: `Submitted`
 The sub-namespace for Software Nameplate and its identifiers have been finalized in the Taskforce `Nameplate for Software in Manufacturing`.

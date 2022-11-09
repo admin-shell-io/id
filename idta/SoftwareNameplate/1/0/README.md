@@ -106,15 +106,15 @@ The sub-namespace for Software Nameplate and its identifiers have been finalized
 
 ### InstalledModule (Property)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModules/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModules) The name of a particular module installed
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModule) The name of a particular module installed
 
 ### ConfigurationPath (Property)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPath) Indicates the path to the configuration.
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPath) Indicates the path to the configuration.
 
 ### TypeOfConfiguration (Property)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths/TypeOfConfiguration](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/TypeOfConfiguration) Indicates the type of configuration (e.g. general configuration, user configuration).
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/TypeOfConfiguration](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/TypeOfConfiguration) Indicates the type of configuration (e.g. general configuration, user configuration).
 
 ## Versions: [1.0](.)
 This version is the first version to be officially published by IDTA Document `IDTA 2007-1-0 Nameplate for Software in Manufacturing`.

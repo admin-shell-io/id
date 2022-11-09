@@ -104,25 +104,17 @@ The sub-namespace for Software Nameplate and its identifiers have been finalized
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InventoryTag](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InventoryTag) Specifies an information used for inventory of the software
 
-## InstalledModules (SME)
-
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/InstalledModules](https://admin-shell.io/idta/SoftwareNameplate/1/0/InstalledModules) Contains a list of installed modules of the software instance.
-
 ### InstalledModule (Property)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/InstalledModules/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/InstalledModules/InstalledModule) The name of a particular module installed
-
-## ConfigurationPaths (SME)
-
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths](https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths) Contains a list of installed modules of the software instance.
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModules/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModules/InstalledModule) The name of a particular module installed
 
 ### ConfigurationPath (Property)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/InstalledModule) Indicates the path to the configuration.
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths/InstalledModule) Indicates the path to the configuration.
 
 ### TypeOfConfiguration (Property)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/TypeOfConfiguration](https://admin-shell.io/idta/SoftwareNameplate/1/0/ConfigurationPaths/TypeOfConfiguration) Indicates the type of configuration (e.g. general configuration, user configuration).
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths/TypeOfConfiguration](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths/TypeOfConfiguration) Indicates the type of configuration (e.g. general configuration, user configuration).
 
 ## Versions: [1.0](.)
 This version is the first version to be officially published by IDTA Document `IDTA 2007-1-0 Nameplate for Software in Manufacturing`.

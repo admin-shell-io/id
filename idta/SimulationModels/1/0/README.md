@@ -114,13 +114,7 @@ List of simulation purposes for which the model is explicitly not suitable.
 
 ### SimulationTool (SMC)
 
-[https://admin-shell.io/idta/SimulationModels/1/0/SimulationTool](https://admin-shell.io/idta/SimulationModels/1/0/SimulationTool)
-
-## SimulationTool (SMC)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/SimulationTool](https://admin-shell.io/idta/SimulationModels/1/0/SimulationTool)
-
-Contains properties of the model with regarding to concrete simulation tools.
+[https://admin-shell.io/idta/SimulationModels/1/0/SimulationTool](https://admin-shell.io/idta/SimulationModels/1/0/SimulationTool) Contains properties of the model with regarding to concrete simulation tools.
 
 ### SimToolName (Property)
 
@@ -209,12 +203,6 @@ contains information about this release
 ### ModelFileReleaseNotesFile (File)
 
 [https://admin-shell.io/idta/SimulationModels/1/0/ModelFileReleaseNotesFile](https://admin-shell.io/idta/SimulationModels/1/0/ModelFileReleaseNotesFile) release notes link or file
-
-
-### SimModManufacturerInformation/Phone (SMC)
-
-[https://admin-shell.io/idta/SimulationModels/1/0/SimModManufacturerInformation/Phone](https://admin-shell.io/idta/SimulationModels/1/0/SimModManufacturerInformation/Phone) Phone number including type
-
 
 ### PortsConnector (SMC)
 

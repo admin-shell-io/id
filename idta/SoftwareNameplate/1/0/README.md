@@ -11,7 +11,8 @@ For an effective and efficient use and management of such software, it is necess
 Use cases like updates, patch management, license management, audits, etc. rely on information regarding identification, sources and features of software. 
 This information shall be provided in a consistent manner in form of a `nameplate for software`, derived and specialized from a common digital nameplate as defined. 
 
-![image](https://user-images.githubusercontent.com/1814815/199588949-afe2aaa2-1734-4fd8-a256-5763be7fd9ee.png)
+![Template_SoftwareNameplate_20221108](https://user-images.githubusercontent.com/1814815/200793974-e58b1ee5-2894-44b0-a8d2-f2d5d63325e3.png)
+
 
 ## Status: `Submitted`
 The sub-namespace for Software Nameplate and its identifiers have been finalized in the Taskforce `Nameplate for Software in Manufacturing`.
@@ -19,6 +20,14 @@ The sub-namespace for Software Nameplate and its identifiers have been finalized
 ## SoftwareNameplate (Submodel)
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate) Submodel containing the nameplate information for software asset and associated product classificatons.
+
+### ManufacturerProductDescription (Property)
+
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ManufacturerProductDescription](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ManufacturerProductDescription) Drescription of Softwareproduct by the Manufacturer.
+
+### SoftwareType (Property)
+
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/SoftwareType](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/SoftwareType) Type of Software.
 
 ### Version (Property)
 
@@ -108,13 +117,17 @@ The sub-namespace for Software Nameplate and its identifiers have been finalized
 
 [https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModule](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/InstalledModule) The name of a particular module installed
 
-### ConfigurationPath (Property)
+### ConfigurationPath (SME)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPath) Indicates the path to the configuration.
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPaths](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationPath) Indicates the attributes of the configuration.
 
-### TypeOfConfiguration (Property)
+### ConfigurationType (Property)
 
-[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/TypeOfConfiguration](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/TypeOfConfiguration) Indicates the type of configuration (e.g. general configuration, user configuration).
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationType](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationType) Indicates the type of configuration (e.g. general configuration, user configuration).
+
+### ConfigurationURI (Property)
+
+[https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationURI](https://admin-shell.io/idta/SoftwareNameplate/1/0/SoftwareNameplate/ConfigurationURI) Indicates the resource identifier of configuration.
 
 ## Versions: [1.0](.)
 This version is the first version to be officially published by IDTA Document `IDTA 2007-1-0 Nameplate for Software in Manufacturing`.

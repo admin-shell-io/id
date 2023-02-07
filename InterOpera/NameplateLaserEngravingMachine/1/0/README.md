@@ -12,10 +12,10 @@ The submodel "Digital Nameplate Laser Engraving Machine" is under development. I
 
 ## MaxLaserPower (Property)
 
-Maximum optical output power of laser \n
+Maximum optical output power of laser <br/>
 https://admin-shell.io/id/InterOpera/NameplateLaserEngravingMachine/1/0/MaxLaserPower
 
 
 ## Contact
 
-This sub-namespace is proposed by Dachuan Shi, [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en/expertise/digitools-for-manufacturing.html), who can be contacted for questions via [email](mailto:dachuan.shi@ipa.fraunhofer.de). Alternatively, [Olga Meyer](mailto:olga.meyer@ipa.fraunhofer.de) can also be contacted for questions
+This sub-namespace is proposed by [Dachuan Shi](mailto:dachuan.shi@ipa.fraunhofer.de), [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en/expertise/digitools-for-manufacturing.html). Alternatively, [Olga Meyer](mailto:olga.meyer@ipa.fraunhofer.de) can also be contacted for questions

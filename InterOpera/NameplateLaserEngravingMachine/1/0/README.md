@@ -10,24 +10,9 @@ The properties are defined based on the existing EU directives, standards and co
 ## Status: `Submitted`
 The submodel "Digital Nameplate Laser Engraving Machine" is under development. Its specification will be released soon.
 
-## Identifier 1 (ShortId)
-
-Add the ShortId in the headline. We recommend using [Camel Case](https://en.wikipedia.org/wiki/Camel_case) Notation. Properties, attributes or in general any SubmodelElements start with a lower case, while classes or named entities have a capital first letter. Please arrange the words alphabetically, so start with 'a' and end with 'z'. No numbers or special characters are allowed at the first position.
-
-[https://admin-shell.io/template/ShortId/version/revision](https://admin-shell.io/template/ShortId/version/revision) (Add the complete URI of your identifier here. Start with the latest version and revision.) Description: explain what your identifier means and why it is necessary. Give as much information as possiblebut not much more than one paragraph each.
-
-
-[https://admin-shell.io/template/ShortId/oldVersion/oldRevision](https://admin-shell.io/template/ShortId/oldVersion/oldRevision) (list all old versions/revisions under the currently valid one.) Description: Explain their meaning and add at least one sentence why you needed to deprecate the identifier.
-
-[https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision](https://admin-shell.io/template/ShortId/evenOlderVersion/evenOlderRevision) (see above)
-
-### Status: `<status>`
-The status of this identifier. It can be `Submitted`, `Under Review`, `Refinement Required`, `Accepted`, `Revoked` or `Not Accepted`. The requester can only set the status `Submitted`, all others are managed by the Coordination Board. Default is the status of the subnamespace.
-
-
 ## MaxLaserPower (Property)
 
-Maximum optical output power of laser
+Maximum optical output power of laser \n
 https://admin-shell.io/id/InterOpera/NameplateLaserEngravingMachine/1/0/MaxLaserPower
 
 

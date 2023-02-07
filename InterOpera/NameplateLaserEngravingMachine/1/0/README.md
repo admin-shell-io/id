@@ -25,19 +25,12 @@ Add the ShortId in the headline. We recommend using [Camel Case](https://en.wiki
 The status of this identifier. It can be `Submitted`, `Under Review`, `Refinement Required`, `Accepted`, `Revoked` or `Not Accepted`. The requester can only set the status `Submitted`, all others are managed by the Coordination Board. Default is the status of the subnamespace.
 
 
-## Identifier 2 (ShortId)
+## MaxLaserPower (Property)
 
-The next identifier of the subnamespace. And so on.
-
-...
-
-## Identifier n (ShortId)
-
-The last identifier of the subnamespace.
+Maximum optical output power of laser
+https://admin-shell.io/id/InterOpera/NameplateLaserEngravingMachine/1/0/MaxLaserPower
 
 
 ## Contact
 
-Name and describe the organization which suggested these identifiers. If possible, add a [website](https://example.org/).
-
-State who can be contacted for questions. Please name at least two contact [persons](mailto:contact@example.org) with emails. You may also add a email list as long as you can be reached reliably other the next years.
+This sub-namespace is proposed by Dachuan Shi, [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en/expertise/digitools-for-manufacturing.html), who can be contacted for questions via [email](mailto:dachuan.shi@ipa.fraunhofer.de). Alternatively, [Olga Meyer](mailto:olga.meyer@ipa.fraunhofer.de) can also be contacted for questions

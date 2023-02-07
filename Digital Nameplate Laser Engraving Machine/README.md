@@ -1,6 +1,6 @@
-# Template
+# Digital Nameplate Laser Engraving Machine
 
-This document serves as a template for your identifiers. Copy it into your desired subnamespace folder, and replace the sections accordingly. The more detailled information you can provide, the faster your request can be processed. Please note that all explanations have to be in English only.
+This sub-namespace collects the identifiers defined in the submodel "Digital Nameplate Laser Engraving Machine", which is under development in the [InterOpera project](https://interopera.de/teilmodellprojekte/) 
 
 ## Introduction
 

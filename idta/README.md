@@ -4,6 +4,7 @@ This sub-namespace collects the identifiers defined in working groups of the IDT
 
 
 ## Specifications: 
+- [Control Component Type and Instance](ControlComponent)
 - [Provision of simulation models](SimulationModels)
 - [Nameplate for Software in Manufacturing](SoftwareNameplate)
 

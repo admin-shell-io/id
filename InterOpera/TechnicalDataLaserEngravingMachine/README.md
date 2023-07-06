@@ -13,54 +13,54 @@ The submodel "Technical Data for Laser Engraving Machine" is under development. 
 ## AdditionalAxis (Property)
 
 rotation axis <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/AdditionalAxis
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/AdditionalAxis
 
 ## BeamDiameter (Property)
 
 physical size of the beam perpendicular to the direction of beam propagation <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/BeamDiameter
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamDiameter
 
 ## BeamDivergence (Property)
 
 Expansion of a laser beam over a certain distance <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/BeamDivergence
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamDivergence
 
 ## BeamQuality (Property)
 
 Indicator of the deviation between the actual beam profile of a laser and the ideal beam profile <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/BeamQuality
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamQuality
 
 ## MarkingMaterial (Property)
 
 suitable marking materials <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/MarkingMaterial
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/MarkingMaterial
 
 ## OperatingMode (Property)
 
 Type of laser output, its value could be pulsed or continuous wave (cw) <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/OperatingMode
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/OperatingMode
 
 ## PulseEnergy (Property)
 
 maximum energy of a laser pulse <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/PulseEnergy
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/PulseEnergy
 
 ## ScanningField (Property)
 
 maximum range for deflection of the laser beam by the scanner unit <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/ScanningField
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/ScanningField
 
 ## ScannerSpeed (Property)
 
 Maximum marking speed of the beam deflection and positioning unit (scanner) <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/ScannerSpeed
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/ScannerSpeed
 
 ## WorkspaceXY (Property)
 
 maximum size of the working plane based on the traverse paths of the X/Y positioning axes <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/WorkspaceXY
+https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/WorkspaceXY
 
 
 ## Contact
 
-This sub-namespace is proposed by [Dachuan Shi](mailto:dachuan.shi@ipa.fraunhofer.de), [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en/expertise/digitools-for-manufacturing.html). Alternatively, [Olga Meyer](mailto:olga.meyer@ipa.fraunhofer.de) can also be contacted for questions
+This sub-namespace is proposed by the [InterOpera](https://interopera.de/) Project. An overview and the details of all the InterOpera submodels can be found on the project website. [Dachuan Shi](mailto:dachuan.shi@ipa.fraunhofer.de) and [Olga Meyer](mailto:olga.meyer@ipa.fraunhofer.de) can be contacted for any questions regarding this sub-namespace and the InterOpera project.

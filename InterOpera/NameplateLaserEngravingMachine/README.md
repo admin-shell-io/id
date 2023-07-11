@@ -13,7 +13,7 @@ The submodel "Digital Nameplate Laser for Engraving Machine" is under developmen
 ## MaxLaserPower (Property)
 
 Maximum optical output power of laser <br/>
-https://admin-shell.io/id/InterOpera/NameplateLaserEngravingMachine/1/0/MaxLaserPower
+https://admin-shell.io/InterOpera/NameplateLaserEngravingMachine/1/0/MaxLaserPower
 
 
 ## Contact

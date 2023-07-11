@@ -13,52 +13,52 @@ The submodel "Technical Data for Laser Engraving Machine" is under development. 
 ## AdditionalAxis (Property)
 
 rotation axis <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/AdditionalAxis
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/AdditionalAxis
 
 ## BeamDiameter (Property)
 
 physical size of the beam perpendicular to the direction of beam propagation <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamDiameter
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamDiameter
 
 ## BeamDivergence (Property)
 
 Expansion of a laser beam over a certain distance <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamDivergence
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamDivergence
 
 ## BeamQuality (Property)
 
 Indicator of the deviation between the actual beam profile of a laser and the ideal beam profile <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamQuality
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/BeamQuality
 
 ## MarkingMaterial (Property)
 
 suitable marking materials <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/MarkingMaterial
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/MarkingMaterial
 
 ## OperatingMode (Property)
 
 Type of laser output, its value could be pulsed or continuous wave (cw) <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/OperatingMode
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/OperatingMode
 
 ## PulseEnergy (Property)
 
 maximum energy of a laser pulse <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/PulseEnergy
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/PulseEnergy
 
 ## ScanningField (Property)
 
 maximum range for deflection of the laser beam by the scanner unit <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/ScanningField
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/ScanningField
 
 ## ScannerSpeed (Property)
 
 Maximum marking speed of the beam deflection and positioning unit (scanner) <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/ScannerSpeed
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/ScannerSpeed
 
 ## WorkspaceXY (Property)
 
 maximum size of the working plane based on the traverse paths of the X/Y positioning axes <br/>
-https://admin-shell.io/id/InterOpera/TechnicalDataLaserEngravingMachine/1/0/WorkspaceXY
+https://admin-shell.io/InterOpera/TechnicalDataLaserEngravingMachine/1/0/WorkspaceXY
 
 
 ## Contact

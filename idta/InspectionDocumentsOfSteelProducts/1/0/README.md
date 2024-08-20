@@ -1,10 +1,11 @@
 # Inspection Documents of Steel Products
 
-This document serves as a template for your identifiers. Copy it into your desired subnamespace folder, and replace the sections accordingly. The more detailled information you can provide, the faster your request can be processed. Please note that all explanations have to be in English only.
-
 ## Introduction
 
-Give some information on the background of the subnamespace. Explain why it is relevant for Industry 4.0 and what you want to accomplish.
+This submodel template aims to standardize the representation and storage of inspection data for steel products within the steel manufacturing and supply industry, specifically adhering to the DIN EN 10204:2004 and DIN EN 10168:2004 standards. DIN EN 10204:2004 defines the various types of inspection documents supplied to the customer, while DIN EN 10168:2004 specifies the required document contents for inspection documents of metallic products. 
+This template is designed for stakeholders such as steel manufacturers, suppliers, and customers, to facilitate seamless exchange and direct usability of inspection data. It covers the entire lifecycle of steel products from production to delivery, ensuring consistency and reliability in data handling.
+The submodel will manage comprehensive inspection documents, including detailed information about the manufacturer and customer, order data, product specifications, mechanical test results, chemical analysis, and validation information. By providing a uniform structure for data related to steel product inspections, this submodel enhances traceability, data interoperability, and compliance across the supply chain, ensuring added value and efficiency for both suppliers and customers.
+
 
 ## Status: `<Submitted>`
 The status of this subnamespace. It can be `Submitted`, `Under Review`, `Refinement Required`, `Accepted`, `Revoked` or `Not Accepted`. The requester can only set the status `Submitted`, all others are managed by the Coordination Board.

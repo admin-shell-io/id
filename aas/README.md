@@ -13,9 +13,9 @@ third is currently finalized:
 - [Release 1](/aas/1/0/README.md) from 2018 [1]
 - [Release 2](/aas/2/0/README.md) from 2019 [2]
 - [Revision 2.0.1](/aas/2/0/1/README.md) from May 2020 [3]
-- [Candidate Release of version 3.0](./3/0/RC01/README.md) 2020 [4]
+- [Version 3.0](./3/0/README.md) 2020 [4]
 
-Part 2 will be released in [Version 1](./API/1/0/README.md) before the end of 2022.
+Part 2 (Application Programming Interfaces) is available in the sub-namespace [API](./API/).
 
 
 [1] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, E. Barnstedt et al.

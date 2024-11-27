@@ -11,13 +11,9 @@ MTP standardizes automation aspects of modular plants used in process industries
 ## Status: `Submitted`
 
 
-## ModuleTypePackage (Submodel Element - File)
+## SourceList (Submodel Element Collection)
 
-[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/ModuleTypePackage](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/ModuleTypePackage): MTP file included as a zipped package with ending “.zip” or “.mtp” (.mtp is preferred)
-
-## CommunicationSet (`TODO`)
-
-[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/CommunicationSet](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/CommunicationSet): `TODO`
+[https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/CommunicationSet/SourceList](https://admin-shell.io/sandbox/vdi/2658/1/0/MTPSUCLib/CommunicationSet/SourceList): Collection to organize communication sources of a PEA
 
 ## Contact
 

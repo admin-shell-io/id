@@ -919,7 +919,10 @@ Content type of the content of the BLOB. The mime type states which file extensi
  A qualifier is a type-value pair that makes additional statements w.r.t. the value of the element.
 
  [http://admin-shell.io/aas/3/0/Qualifier](http://admin-shell.io/aas/3/0/Qualifier) The Qualifier class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+## Qualifier/kind
+ The qualifier kind describes the kind of qualifier that is applied to the element.
 
+ [http://admin-shell.io/aas/3/0/Qualifier/kind](http://admin-shell.io/aas/3/0/Qualifier/kind) The attribute kind of the Qualifier class as defined in IDTA-01001-3-0.
 ## Qualifier/type
  The qualifier type describes the type of the qualifier that is applied to the element.
 

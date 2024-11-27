@@ -227,10 +227,10 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [http://admin-shell.io/aas/3/0/BasicEvent](http://admin-shell.io/aas/3/0/BasicEventElement) The BasicEventElement class as defined in Details of the IDTA-01001-3-0.
 
-## BasicEvent/observed
+## BasicEventElement/observed
  Reference to the data or other elements that are being observed.
 
- [http://admin-shell.io/aas/3/0/BasicEvent/observed](http://admin-shell.io/aas/3/0/BasicEvent/observed) The attribute observed of the BasicEvent class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/BasicEventElement/observed](http://admin-shell.io/aas/3/0/BasicEventElement/observed) The attribute observed of the BasicEventElement class as defined in IDTA-01001-3-0'.
 
 ## Blob
  A BLOB is a data element that represents a file that is contained with its source code in the value attribute.

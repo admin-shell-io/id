@@ -537,7 +537,7 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/Extension](https://admin-shell.io/aas/3/0/Extension) The Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 ## Extension/name
- An extension of the element.
+ Name of the extension.
 
  [https://admin-shell.io/aas/3/0/Extension/name](https://admin-shell.io/aas/3/0/Extension/name) The attribute name of the Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 

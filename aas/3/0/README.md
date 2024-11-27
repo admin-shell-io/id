@@ -196,10 +196,6 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [http://admin-shell.io/aas/3/0/AssetAdministrationShell/derivedFrom](http://admin-shell.io/aas/3/0/AssetAdministrationShell/derivedFrom) The attribute derivedFrom of the AssetAdministrationShell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## AssetAdministrationShell/security
- Definition of the security relevant aspects of the AAS.
-
- [http://admin-shell.io/aas/3/0/AssetAdministrationShell/security](http://admin-shell.io/aas/3/0/AssetAdministrationShell/security) The attribute security of the AssetAdministrationShell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
 ## AssetAdministrationShell/submodel
  Points from the Admin Shell to the Submodels that describe the Admin Shell of a given Asset

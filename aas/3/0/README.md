@@ -895,11 +895,16 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/Property/value](https://admin-shell.io/aas/3/0/Property/value) The attribute value of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Property/propertyValueId
- Reference to the global unqiue id of a coded value.
+## Property/valueId
+ Reference to the global unique id of a coded value.
 
- [http://admin-shell.io/aas/3/0/Property/propertyValueId](http://admin-shell.io/aas/3/0/Property/propertyValueId) The attribute propertyValueId of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/Property/valueId](http://admin-shell.io/aas/3/0/Property/valueId) The attribute valueId of the Property class as defined in IDTA-01001-3-0.
 
+
+## Property/valueType
+ Data type of the value attribute.
+
+ [http://admin-shell.io/aas/3/0/Property/valueType](http://admin-shell.io/aas/3/0/Property/valueType) The attribute valueType of the Property class as defined in IDTA-01001-3-0. 
 ## Qualifiable
  Additional qualification of a qualifiable element.
 

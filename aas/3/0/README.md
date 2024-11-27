@@ -585,10 +585,6 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/File/value](https://admin-shell.io/aas/3/0/File/value) The attribute value of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Formula
-
-
- [http://admin-shell.io/aas/3/0/Formula](http://admin-shell.io/aas/3/0/Formula) The Formula class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 ## HasExtensions
  Element that can be extended by proprietary extensions.
 

@@ -176,10 +176,10 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [https://admin-shell.io/aas/3/0/AssetInformation/billOfMaterial](https://admin-shell.io/aas/3/0/AssetInformation/billOfMaterial) The attribute billOfMaterial of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
-## AssetInformation/thumbnail
+## AssetInformation/defaultThumbnail
  Thumbnail of the asset represented by the asset administration shell.
 
- [https://admin-shell.io/aas/3/0/AssetInformation/thumbnail](https://admin-shell.io/aas/3/0/AssetInformation/thumbnail) The attribute thumbnail of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+ [https://admin-shell.io/aas/3/0/AssetInformation/defaultThumbnail](https://admin-shell.io/aas/3/0/AssetInformation/defaultThumbnail) The attribute thumbnail of the AssetInformation class as defined in IDTA-01001-3-0'.
 
 ## AssetAdministrationShell
  Describes the Administration Shell for Assets, Products, Components, e.g. Machines

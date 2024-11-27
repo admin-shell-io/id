@@ -15,8 +15,7 @@ on behalf of the IDTA Working Group 'Asset Administration Shell'.
 Contact via a [web form](https://www.plattform-i40.de/IP/Navigation/EN/ThePlatform/Contact/contact.html).
 
 
-
-
 [1] S. Bader, B. Berres, B. Boss, A. Graf Gatterburg, M. Hoffmeister et al.
-Details of the Asset Administration Shell Part 2, Interoperability at Runtime – Exchanging Information via Application Programming Interfaces, Release Candidates of Version 1.0,
-Plattform Industrie 4.0, ZVEI, 2023
+['Details of the Asset Administration Shell Part 2, Interoperability at Runtime –
+Exchanging Information via Application Programming Interfaces'](), Version 1.0RC03,
+Plattform Industrie 4.0 & IDTA, ZVEI, 2022

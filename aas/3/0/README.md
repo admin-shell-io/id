@@ -1146,6 +1146,38 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/SubmodelElementCollection/value](https://admin-shell.io/aas/3/0/SubmodelElementCollection/value)The attribute value of the SubmodelElementCollection class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
+## SubmodelElementList
+ List or set of submodel elements.
+
+ [http://admin-shell.io/aas/3/0/SubmodelElementListhttp://admin-shell.io/aas/3/0/SubmodelElementList) The SubmodelElementList class as defined in IDTA-01001-3-0.
+ 
+## SubmodelElementList/orderRelevant
+ Defines whether order in list is relevant. If orderRelevant = false, the list represents a set or a bag.
+
+Default: True
+
+ [http://admin-shell.io/aas/3/0/SubmodelElementList/orderRelevant](http://admin-shell.io/aas/3/0/SubmodelElementList/orderRelevant) The attribute orderRelevant of the SubmodelElementList class as defined in IDTA-01001-3-0.
+
+## SubmodelElementList/semanticIdListElement
+ Semantic ID which the submodel elements contained in the list match
+
+ [http://admin-shell.io/aas/3/0/SubmodelElementList/semanticIdListElement](http://admin-shell.io/aas/3/0/SubmodelElementList/semanticIdListElement) The attribute semanticIdListElement of the SubmodelElementList class as defined in IDTA-01001-3-0.
+ 
+## SubmodelElementList/typeValueListElement
+ The submodel element type of the submodel elements contained in the list
+
+ [http://admin-shell.io/aas/3/0/SubmodelElementList/typeValueListElement](http://admin-shell.io/aas/3/0/SubmodelElementList/typeValueListElement) The attribute typeValueListElement of the SubmodelElementList class as defined in IDTA-01001-3-0.
+
+
+## SubmodelElementList/value
+ Submodel elements contained in the list.
+
+ [https://admin-shell.io/aas/3/0/SubmodelElementList/value](https://admin-shell.io/aas/3/0/SubmodelElementList/value)The attribute value of the SubmodelElementList class as defined in IDTA-01001-3-0.
+
+## SubmodelElementList/valueTypeListElement
+ The submodel element type of the submodel elements contained in the list
+
+ [http://admin-shell.io/aas/3/0/SubmodelElementList/valueTypeListElement](http://admin-shell.io/aas/3/0/SubmodelElementList/valueTypeListElement) The attribute valueTypeListElement of the SubmodelElementList class as defined in IDTA-01001-3-0.
 
 
 ## Status: `approved`

@@ -555,10 +555,11 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/Extension/refersTo](https://admin-shell.io/aas/3/0/Extension/refersTo) The attribute refersTo Extension class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Event
+## EventElement
+An event element.
 
 
- [http://admin-shell.io/aas/3/0/Event](http://admin-shell.io/aas/3/0/Event) The Event class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/EventElement](http://admin-shell.io/aas/3/0/EventElement) The EventElement class as defined in Details of the IDTA-01001-3-0.
 
 ## EventElement
  Defines the necessary information for sending or receiving events.

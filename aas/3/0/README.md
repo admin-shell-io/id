@@ -810,10 +810,10 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/LocalKeyType/IDSHORT](http://admin-shell.io/aas/3/0/LocalKeyType/IDSHORT) The LocalKeyType IDSHORT of the LocalKeyType class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## ModelingKind
+## ModellingKind
  Enumeration for denoting whether an element is a type or an instance.
 
- [http://admin-shell.io/aas/3/0/ModelingKind](http://admin-shell.io/aas/3/0/ModelingKind) The ModelingKind class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/ModellingKind](http://admin-shell.io/aas/3/0/ModellingKind) The ModellingKind class as defined IDTA-01001-3-0.
 
 ## ModelingKind/INSTANCE
  Concrete, clearly identifiable component of a certain template.

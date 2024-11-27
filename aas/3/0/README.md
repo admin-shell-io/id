@@ -237,9 +237,10 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [http://admin-shell.io/aas/3/0/Blob](http://admin-shell.io/aas/3/0/Blob) The Blob class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Blob/mimeType
- Mime type of the content of the BLOB. The mime type states which file extension the file has. Valid values are e.g. 'application/json', 'application/xls', 'image/jpg' The allowed values are defined as in RFC2046.
- [https://admin-shell.io/aas/3/0/Blob/mimeType](https://admin-shell.io/aas/3/0/Blob/mimeType) The attribute mimeType of the Blob class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+## Blob/contentType
+Content type of the content of the BLOB. The mime type states which file extension the file has. Valid values are e.g. 'application/json', 'application/xls', 'image/jpg' The allowed values are defined as in RFC2046.
+
+ [https://admin-shell.io/aas/3/0/Blob/contentType](https://admin-shell.io/aas/3/0/Blob/contentType) The attribute mimeType of the Blob class as defined in IDTA-01001-3-0.
 
 ## Blob/value
  The value of the BLOB instance of a blob data element.

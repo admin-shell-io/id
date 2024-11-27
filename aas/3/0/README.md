@@ -166,10 +166,10 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [https://admin-shell.io/aas/3/0/AssetInformation/globalAssetId](https://admin-shell.io/aas/3/0/AssetInformation/globalAssetId) The attribute globalAssetId of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
-## AssetInformation/externalAssetId
+## AssetInformation/specificAssetId
  Additional domain specific external, typically proprietary Identifier for the asset like e.g. serial number etc.
 
- [https://admin-shell.io/aas/3/0/AssetInformation/externalAssetId](https://admin-shell.io/aas/3/0/AssetInformation/externalAssetId) The attribute externalAssetId of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+ [https://admin-shell.io/aas/3/0/AssetInformation/specificAssetId](https://admin-shell.io/aas/3/0/AssetInformation/specificAssetId) The attribute specificAssetId of the AssetInformation class as defined in IDTA-01001-3-0.
 
 ## AssetInformation/billOfMaterial
  A reference to a Submodel that defines the bill of material of the asset represented by the AAS. This submodel contains a set of entities describing the material used to compose the composite I4.0 Component.

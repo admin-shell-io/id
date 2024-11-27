@@ -104,19 +104,34 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
 
 ## AdministrativeInformation
- Every Identifiable may have administrative information. Administrative information includes for example  Information about the version of the element  Information about who created or who made the last change to the element  Information about the languages available in case the element contains text, for translating purposed also themmaster or default language may be definedIn the first version of the AAS metamodel only version information as defined by IEC 61360 is defined. In later versions additional attributes may be added.
+ Every Identifiable may have administrative information. Administrative information includes for example 
+ 
+- information about the version of the element,
+- information about who created or who made the last change to the element 
+- information about the languages available in case the element contains text, for translating purposes
+- information about the submodel template that guides the creation of the submodel
 
- [http://admin-shell.io/aas/3/0/AdministrativeInformation](http://admin-shell.io/aas/3/0/AdministrativeInformation) The AdministrativeInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AdministrativeInformation](http://admin-shell.io/aas/3/0/AdministrativeInformation) The AdministrativeInformation class as defined in IDTA-01001-3-0.
+
+## AdministrativeInformation/creator
+  The subject ID of the subject responsible for making the element 
+
+ [http://admin-shell.io/aas/3/0/AdministrativeInformation/creator](http://admin-shell.io/aas/3/0/AdministrativeInformation/creator) The attribute creator of the AdministrativeInformation class as defined in IDTA-01001-3-0.
 
 ## AdministrativeInformation/revision
  Revision of the element. Constraint AASd-005: A revision requires a version. This means, if there is no version there is no revision neither.
 
- [http://admin-shell.io/aas/3/0/AdministrativeInformation/revision](http://admin-shell.io/aas/3/0/AdministrativeInformation/revision) The attribute revision of the AdministrativeInformation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AdministrativeInformation/revision](http://admin-shell.io/aas/3/0/AdministrativeInformation/revision) The attribute revision of the AdministrativeInformation class as defined in IDTA-01001-3-0.
 
+## AdministrativeInformation/templateId
+  Identifier of the template that guided the creation of the element
+
+ [http://admin-shell.io/aas/3/0/AdministrativeInformation/creator](http://admin-shell.io/aas/3/0/AdministrativeInformation/templateId) The attribute templateId of the AdministrativeInformation class as defined in IDTA-01001-3-0.
+ 
 ## AdministrativeInformation/version
  Version of the element.
 
- [http://admin-shell.io/aas/3/0/AdministrativeInformation/version](http://admin-shell.io/aas/3/0/AdministrativeInformation/version) The attribute version of the AdministrativeInformation class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AdministrativeInformation/version](http://admin-shell.io/aas/3/0/AdministrativeInformation/version) The attribute version of the AdministrativeInformation class as defined in IDTA-01001-3-0.
 
 ## AnnotatedRelationshipElement
  An annotated relationship element is an relationship element that can be annotated with additional data elements.

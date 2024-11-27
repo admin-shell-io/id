@@ -157,7 +157,10 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
  Denotes whether the Asset of of kind 'Type' or 'Instance'.
 
  [https://admin-shell.io/aas/3/0/AssetInformation/assetKind](https://admin-shell.io/aas/3/0/AssetInformation/assetKind) The attribute assetKind of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+## AssetInformation/assetType
+ In case AssetInformation/assetKind is applicable the AssetInformation/assetType is the asset ID of the type asset of the asset under consideration as identified by AssetInformation/globalAssetId.
 
+ [https://admin-shell.io/aas/3/0/AssetInformation/assetType](https://admin-shell.io/aas/3/0/AssetInformation/assetType) The attribute assetType of the AssetInformation class as defined in IDTA-01001-3-0.
 ## AssetInformation/globalAssetId
  Reference to either an Asset object or a global reference to the asset the AAS is representing. This attribute is required as soon as the AAS is exchanged via partners in the life cycle of the asset. In a first phase of the life cycle the asset might not yet have a global id but already an internal identifier. The internal identifier would be modelled via “externalAssetId”.
 

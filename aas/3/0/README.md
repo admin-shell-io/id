@@ -503,10 +503,10 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/Entity/entityType](http://admin-shell.io/aas/3/0/Entity/entityType) The attribute entityType of the Entity class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Entity/externalAssetId
+## Entity/specificAssetId
  Reference to an identifier key value pair representing an external identifier of the asset represented by the asset administration shell.
 
- [http://admin-shell.io/aas/3/0/Entity/externalAssetId](http://admin-shell.io/aas/3/0/Entity/externalAssetId) The attribute externalAssetId of the Entity class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/Entity/specificAssetId](http://admin-shell.io/aas/3/0/Entity/specificAssetId) The attribute specificAssetId of the Entity class as defined in IDTA-01001-3-0.
 
 ## Entity/globalAssetId
  Reference to the asset the entity is representing.

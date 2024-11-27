@@ -885,10 +885,7 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/Property](http://admin-shell.io/aas/3/0/Property) The Property class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Property/category
- The following categories are defined for properties and multi-language properties: CONSTANT, PARAMETER, and VARIABLE.
 
- [https://admin-shell.io/aas/3/0/Property/category](https://admin-shell.io/aas/3/0/Property/category) The attribute category of the Property class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
 ## Property/value
  The value of the property instance.

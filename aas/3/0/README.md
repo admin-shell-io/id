@@ -628,6 +628,10 @@ Content type of the content of the BLOB. The mime type states which file extensi
  Points to the Expression Semantic of the Submodels
 
  [http://admin-shell.io/aas/3/0/HasSemantics/semanticId](http://admin-shell.io/aas/3/0/HasSemantics/semanticId) The attribute semanticId of the HasSemantics class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+## HasSemantics/supplementalSemanticIds
+ Identifier of a supplemental semantic definition of the element called supplemental semantic ID of the element
+
+ [http://admin-shell.io/aas/3/0/HasSemantics/supplementalSemanticIds](http://admin-shell.io/aas/3/0/HasSemantics/supplementalSemanticIds) The attribute supplementalSemanticId of the HasSemantics class as defined in IDTA-01001-3-0.
 
 ## Identifiable
  An element that has a globally unique identifier.

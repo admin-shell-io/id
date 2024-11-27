@@ -979,10 +979,7 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/Referable/idShort](http://admin-shell.io/aas/3/0/Referable/idShort) The attribute idShort of the Referable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Referable/parent
- Reference to the next referable parent element of the element. Constraint AASd-004: Add parent in case of non-identifiable elements.
 
- [http://admin-shell.io/aas/3/0/Referable/parent](http://admin-shell.io/aas/3/0/Referable/parent) The attribute parent of the Referable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
 
 ## AasIdentifiables

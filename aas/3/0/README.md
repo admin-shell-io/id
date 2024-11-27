@@ -834,16 +834,6 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/MultiLanguageProperty/valueId](https://admin-shell.io/aas/3/0/MultiLanguageProperty/valueId) The attribute valueId of the MultiLanguageProperty class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## ObjectAttributes
- A set of data elements that describe object attributes. These attributes need to refer to a data element within an existing submodel.
-
- [http://admin-shell.io/aas/3/0/ObjectAttributes](http://admin-shell.io/aas/3/0/ObjectAttributes) The ObjectAttributes class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ObjectAttributes/objectAttribute
- A data elements that further classifies an object.
-
- [http://admin-shell.io/aas/3/0/ObjectAttributes/objectAttribute](http://admin-shell.io/aas/3/0/ObjectAttributes/objectAttribute) The attribute objectAttribute of the ObjectAttributes class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
 ## Operation
  An operation is a submodel element with input and output variables.
 

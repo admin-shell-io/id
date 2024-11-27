@@ -644,32 +644,6 @@ An event element.
  The globally unique identification of the element.
 
  [http://admin-shell.io/aas/3/0/Identifiable/id](http://admin-shell.io/aas/3/0/Identifiable/id) The attribute identification of the Identifiable class as defined in IDTA-01001-3-0.
-
-## IdentifiableElement
- Enumeration of all identifiable elements within an asset administration shell that are not identifiable
-
- [http://admin-shell.io/aas/3/0/IdentifiableElement](http://admin-shell.io/aas/3/0/IdentifiableElement) The IdentifiableElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
-
-## IdentifiableElement/ASSET
-
-
- [http://admin-shell.io/aas/3/0/IdentifiableElement/ASSET](http://admin-shell.io/aas/3/0/IdentifiableElement/ASSET) The IdentifiableElement ASSET of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT
-
-
- [http://admin-shell.io/aas/3/0/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT](http://admin-shell.io/aas/3/0/IdentifiableElement/ASSET_IDENTIFIABLE_ELEMENT) The IdentifiableElement ASSET_IDENTIFIABLE_ELEMENT of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## IdentifiableElement/CONCEPT_DESCRIPTION
-
-
- [http://admin-shell.io/aas/3/0/IdentifiableElement/CONCEPT_DESCRIPTION](http://admin-shell.io/aas/3/0/IdentifiableElement/CONCEPT_DESCRIPTION) The IdentifiableElement CONCEPT_DESCRIPTION of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## IdentifiableElement/SUBMODEL
-
-
- [http://admin-shell.io/aas/3/0/IdentifiableElement/SUBMODEL](http://admin-shell.io/aas/3/0/IdentifiableElement/SUBMODEL) The IdentifiableElement SUBMODEL of the IdentifiableElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
 ## Identifier
  Used to uniquely identify an entity by using an identifier.
 

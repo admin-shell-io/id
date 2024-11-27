@@ -202,11 +202,6 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [http://admin-shell.io/aas/3/0/AssetAdministrationShell/submodel](http://admin-shell.io/aas/3/0/AssetAdministrationShell/submodel) The attribute submodel of the AssetAdministrationShell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## AssetAdministrationShell/view
- Points to the differents views associated to the Administration Shell via the Submodels.
-
- [http://admin-shell.io/aas/3/0/AssetAdministrationShell/view](http://admin-shell.io/aas/3/0/AssetAdministrationShell/view) The attribute view of the AssetAdministrationShell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
 ## AssetKind
  Enumeration for denoting whether an element is a type or an instance.
 

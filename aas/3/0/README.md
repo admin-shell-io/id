@@ -1140,15 +1140,6 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/SubmodelElementCollection](http://admin-shell.io/aas/3/0/SubmodelElementCollection) The SubmodelElementCollection class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
-## SubmodelElementCollection/allowDuplicates
- If allowDuplicates=true then it is allowed that the collection contains the same element several times. Default = false
-
- [http://admin-shell.io/aas/3/0/SubmodelElementCollection/allowDuplicates](http://admin-shell.io/aas/3/0/SubmodelElementCollection/allowDuplicates) The attribute allowDuplicates of the SubmodelElementCollection class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## SubmodelElementCollection/ordered
- If ordered=false then the elements in the property collection are not ordered. If ordered=true then the elements in the collection are ordered. Default = false
-
- [http://admin-shell.io/aas/3/0/SubmodelElementCollection/ordered](http://admin-shell.io/aas/3/0/SubmodelElementCollection/ordered) The attribute ordered of the SubmodelElementCollection class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
 ## SubmodelElementCollection/value
  Submodel element contained in the collection.

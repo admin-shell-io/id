@@ -980,95 +980,142 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/Referable/parent](http://admin-shell.io/aas/3/0/Referable/parent) The attribute parent of the Referable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## ReferableElements
+
+## AasIdentifiables
  Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
 
- [http://admin-shell.io/aas/3/0/ReferableElements](http://admin-shell.io/aas/3/0/ReferableElements) The ReferableElements class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasIdentifiables](http://admin-shell.io/aas/3/0/AasIdentifiables) The AasIdentifiables class as defined in IDTA-01001-3-0.
+ 
+## AasIdentifiables/ASSET_ADMINISTRATION_SHELL
+  Asset Administration Shell
 
-## ReferableElements/ACCESS_PERMISSION_RULE
+ [http://admin-shell.io/aas/3/0/AasIdentifiables/ASSET_ADMINISTRATION_SHELL](http://admin-shell.io/aas/3/0/AasIdentifiables/ASSET_ADMINISTRATION_SHELL) The value ASSET_ADMINISTRATION_SHELL  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
 
+## AasIdentifiables/CONCEPT_DESCRIPTION
+  Concept Description
 
- [http://admin-shell.io/aas/3/0/ReferableElements/ACCESS_PERMISSION_RULE](http://admin-shell.io/aas/3/0/ReferableElements/ACCESS_PERMISSION_RULE) The ReferableElements ACCESS_PERMISSION_RULE of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasIdentifiables/CONCEPT_DESCRIPTION](http://admin-shell.io/aas/3/0/AasIdentifiables/CONCEPT_DESCRIPTION) The value CONCEPT_DESCRIPTION  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
 
-## ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT
+## AasIdentifiables/IDENTIFIABLE
+  Identifiable
 
+ [http://admin-shell.io/aas/3/0/AasIdentifiables/IDENTIFIABLE](http://admin-shell.io/aas/3/0/AasIdentifiables/IDENTIFIABLE) The value IDENTIFIABLE  of the AasIdentifiables class as defined in IDTA-01001-3-0.  
+ 
+## AasIdentifiables/SUBMODEL
+  Submodel
 
- [http://admin-shell.io/aas/3/0/ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT](http://admin-shell.io/aas/3/0/ReferableElements/ANNOTATED_RELATIONSHIP_ELEMENT) The ReferableElements ANNOTATED_RELATIONSHIP_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasIdentifiables/SUBMODEL](http://admin-shell.io/aas/3/0/AasIdentifiables/SUBMODEL) The value SUBMODEL of the AasIdentifiables class as defined in IDTA-01001-3-0.  
 
-## ReferableElements/BASIC_EVENT
+## AasSubmodelElements
+ Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
 
-
- [http://admin-shell.io/aas/3/0/ReferableElements/BASIC_EVENT](http://admin-shell.io/aas/3/0/ReferableElements/BASIC_EVENT) The ReferableElements BASIC_EVENTT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ReferableElements/BLOB
-
-
- [http://admin-shell.io/aas/3/0/ReferableElements/BLOB](http://admin-shell.io/aas/3/0/ReferableElements/BLOB) The ReferableElements BLOB of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ReferableElements/CAPABILITY
-
- [http://admin-shell.io/aas/3/0/ReferableElements/CAPABILITY](http://admin-shell.io/aas/3/0/ReferableElements/CAPABILITY) The ReferableElements CAPABILITY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ReferableElements/CONCEPT_DICTIONARY
-
-
- [http://admin-shell.io/aas/3/0/ReferableElements/CONCEPT_DICTIONARY](http://admin-shell.io/aas/3/0/ReferableElements/CONCEPT_DICTIONARY) The ReferableElements CONCEPT_DICTIONARY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ReferableElements/DATA_ELEMENT
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements](http://admin-shell.io/aas/3/0/AasSubmodelElements) The AasSubmodelElements class as defined in IDTA-01001-3-0.
 
 
- [http://admin-shell.io/aas/3/0/ReferableElements/DATA_ELEMENT](http://admin-shell.io/aas/3/0/ReferableElements/DATA_ELEMENT) The ReferableElements DATA_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ReferableElements/ENTITY
+## AasSubmodelElements/ANNOTATED_RELATIONSHIP_ELEMENT
 
 
- [http://admin-shell.io/aas/3/0/ReferableElements/ENTITY](http://admin-shell.io/aas/3/0/ReferableElements/ENTITY) The ReferableElements ENTITY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/ANNOTATED_RELATIONSHIP_ELEMENT](http://admin-shell.io/aas/3/0/AasSubmodelElements/ANNOTATED_RELATIONSHIP_ELEMENT) The AasSubmodelElements ANNOTATED_RELATIONSHIP_ELEMENT of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
-## ReferableElements/EVENT
+## AasSubmodelElements/BASIC_EVENT_ELEMENT
 
 
- [http://admin-shell.io/aas/3/0/ReferableElements/EVENT](http://admin-shell.io/aas/3/0/ReferableElements/EVENT) The ReferableElements EVENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/BASIC_EVENT_ELEMENT](http://admin-shell.io/aas/3/0/AasSubmodelElements/BASIC_EVENT_ELEMENT) The AasSubmodelElements BASIC_EVENT_ELEMENT of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/BLOB
+
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/BLOB](http://admin-shell.io/aas/3/0/AasSubmodelElements/BLOB) The AasSubmodelElements BLOB of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/CAPABILITY
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/CAPABILITY](http://admin-shell.io/aas/3/0/AasSubmodelElements/CAPABILITY) The AasSubmodelElements CAPABILITY of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+
+## AasSubmodelElements/DATA_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/DATA_ELEMENT](http://admin-shell.io/aas/3/0/AasSubmodelElements/DATA_ELEMENT) The AasSubmodelElements DATA_ELEMENT of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/ENTITY
+
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/ENTITY](http://admin-shell.io/aas/3/0/AasSubmodelElements/ENTITY) The AasSubmodelElements ENTITY of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/EVENT_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/EVENT_ELEMENT](http://admin-shell.io/aas/3/0/AasSubmodelElements/EVENT_ELEMENT) The AasSubmodelElements EVENT_ELEMENT of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+ 
+## AasSubmodelElements/FILE
+
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/FILE](http://admin-shell.io/aas/3/0/AasSubmodelElements/FILE) The AasSubmodelElements FILE of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
 ## ReferableElement/MULTI_LANGUAGE_PROPERTY
  Property with a value that can be provided in multiple languages.
 
- [http://admin-shell.io/aas/3/0/ReferableElements/MULTI_LANGUAGE_PROPERTY](http://admin-shell.io/aas/3/0/ReferableElements/MULTI_LANGUAGE_PROPERTY) The ReferableElements MULTI_LANGUAGE_PROPERTY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/MULTI_LANGUAGE_PROPERTY](http://admin-shell.io/aas/3/0/AasSubmodelElements/MULTI_LANGUAGE_PROPERTY) The AasSubmodelElements MULTI_LANGUAGE_PROPERTY of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
-## ReferableElements/OPERATION
-
-
- [http://admin-shell.io/aas/3/0/ReferableElements/OPERATION](http://admin-shell.io/aas/3/0/ReferableElements/OPERATION) The ReferableElements OPERATION of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ReferableElements/PROPERTY
+## AasSubmodelElements/OPERATION
 
 
- [http://admin-shell.io/aas/3/0/ReferableElements/PROPERTY](http://admin-shell.io/aas/3/0/ReferableElements/PROPERTY) The ReferableElements PROPERTY of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/OPERATION](http://admin-shell.io/aas/3/0/AasSubmodelElements/OPERATION) The AasSubmodelElements OPERATION of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
-## ReferableElements/RANGE
-
-
- [http://admin-shell.io/aas/3/0/ReferableElements/RANGE](http://admin-shell.io/aas/3/0/ReferableElements/RANGE) The ReferableElements RANGE of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
-## ReferableElements/REFERENCE_ELEMENT
+## AasSubmodelElements/PROPERTY
 
 
- [http://admin-shell.io/aas/3/0/ReferableElements/REFERENCE_ELEMENT](http://admin-shell.io/aas/3/0/ReferableElements/REFERENCE_ELEMENT) The ReferableElements REFERENCE_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/PROPERTY](http://admin-shell.io/aas/3/0/AasSubmodelElements/PROPERTY) The AasSubmodelElements PROPERTY of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
-## ReferableElements/RELATIONSHIPT_ELEMENT
+## AasSubmodelElements/RANGE
 
 
- [http://admin-shell.io/aas/3/0/ReferableElements/RELATIONSHIPT_ELEMENT](http://admin-shell.io/aas/3/0/ReferableElements/RELATIONSHIPT_ELEMENT) The ReferableElements RELATIONSHIPT_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/RANGE](http://admin-shell.io/aas/3/0/AasSubmodelElements/RANGE) The AasSubmodelElements RANGE of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
-## ReferableElements/SUBMODEL_ELEMENT_COLLECTION
+## AasSubmodelElements/REFERENCE_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/REFERENCE_ELEMENT](http://admin-shell.io/aas/3/0/AasSubmodelElements/REFERENCE_ELEMENT) The AasSubmodelElements REFERENCE_ELEMENT of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/RELATIONSHIP_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/RELATIONSHIP_ELEMENT](http://admin-shell.io/aas/3/0/AasSubmodelElements/RELATIONSHIP_ELEMENT) The AasSubmodelElements RELATIONSHIP_ELEMENT of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+
+## AasSubmodelElements/SUBMODEL_ELEMENT
+
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/SUBMODEL_ELEMENT](http://admin-shell.io/aas/3/0/AasSubmodelElements/SUBMODEL_ELEMENT) The AasSubmodelElements SUBMODEL_ELEMENT of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/SUBMODEL_ELEMENT_COLLECTION
  Collection of Submodel Elements
 
- [http://admin-shell.io/aas/3/0/ReferableElements/SUBMODEL_ELEMENT_COLLECTION](http://admin-shell.io/aas/3/0/ReferableElements/SUBMODEL_ELEMENT_COLLECTION) The ReferableElements SUBMODEL_ELEMENT_COLLECTION of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/SUBMODEL_ELEMENT_COLLECTION](http://admin-shell.io/aas/3/0/AasSubmodelElements/SUBMODEL_ELEMENT_COLLECTION) The AasSubmodelElements SUBMODEL_ELEMENT_COLLECTION of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+ 
+## AasSubmodelElements/SUBMODEL_ELEMENT_LIST
+ List or set of Submodel Elements
 
-## ReferableElements/SUBMODEL_ELEMENT
+ [http://admin-shell.io/aas/3/0/AasSubmodelElements/SUBMODEL_ELEMENT_LIST](http://admin-shell.io/aas/3/0/AasSubmodelElements/SUBMODEL_ELEMENT_LIST) The AasSubmodelElements SUBMODEL_ELEMENT_LIST of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
+## GenericFragmentKeys
+ Enumeration of different fragment key value types within a key
 
- [http://admin-shell.io/aas/3/0/ReferableElements/SUBMODEL_ELEMENT](http://admin-shell.io/aas/3/0/ReferableElements/SUBMODEL_ELEMENT) The ReferableElements SUBMODEL_ELEMENT of the ReferableElements class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/GenericFragmentKeys](http://admin-shell.io/aas/3/0/GenericFragmentKeys) The GenericFragmentKeys class as defined in IDTA-01001-3-0.
 
+## GenericFragmentKeys/FRAGMENT_REFERENCE
+ Bookmark or a similar local identifier of a subordinate part of a primary resource
+
+ [http://admin-shell.io/aas/3/0/GenericFragmentKeys/FRAGMENT_REFERENC](http://admin-shell.io/aas/3/0/GenericFragmentKeys/FRAGMENT_REFERENC) The value FRAGMENT_REFERENC of the GenericFragmentKeys class as defined in IDTA-01001-3-0.
+ 
+ ## GenericGloballyIdentifiables
+ Enumeration of different key value types within a key
+
+ [http://admin-shell.io/aas/3/0/GenericGloballyIdentifiables](http://admin-shell.io/aas/3/0/GenericGloballyIdentifiables) The GenericGloballyIdentifiables class as defined in IDTA-01001-3-0.
+
+## GenericGloballyIdentifiables/GLOBAL_REFERENCE
+ Enumeration of different key value types within a key
+
+ [http://admin-shell.io/aas/3/0/GenericGloballyIdentifiables/GLOBAL_REFERENCE](http://admin-shell.io/aas/3/0/GenericGloballyIdentifiables/GLOBAL_REFERENCE) The value GLOBAL_REFERENCE of the GenericGloballyIdentifiables class as defined in IDTA-01001-3-0.
 
 ## Reference
  Reference to either a model element of the same or another AAs or to an external entity. A reference is an ordered list of keys, each key referencing an element. The complete list of keys may for example be concatenated to a path that then gives unique access to an element or entity.

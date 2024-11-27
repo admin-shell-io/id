@@ -1079,6 +1079,16 @@ Content type of the content of the BLOB. The mime type states which file extensi
  Unique reference in its name space.
 
  [https://admin-shell.io/aas/3/0/Reference/key](https://admin-shell.io/aas/3/0/Reference/key) The attribute key of the Reference class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+## Reference/referredSemanticId
+ Expected semantic ID of the referenced model element (Reference/type=ModelReference); there typically is no semantic ID for for the referenced object of external references (Reference/type=ExternalReference).
+
+ [https://admin-shell.io/aas/3/0/Reference/key](https://admin-shell.io/aas/3/0/Reference/referredSemanticId) The attribute referredSemanticId of the Reference class as defined in IDTA-01001-3-0.
+
+## Reference/type
+ Type of the reference
+Denotes whether reference is an external reference or a model reference
+
+ [https://admin-shell.io/aas/3/0/Reference/type](https://admin-shell.io/aas/3/0/Reference/type) The attribute type of the Reference class as defined in IDTA-01001-3-0.
 
 ## ReferenceElement
  A reference element is a data element that defines a logical reference to another element within the same or another AAS or a reference to an external object or entity.

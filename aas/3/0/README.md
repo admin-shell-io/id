@@ -945,6 +945,11 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/Range/min](http://admin-shell.io/aas/3/0/Range/min) The attribute min of the Range class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
+## Range/valueType
+ Data type of the min und max attributes
+
+ [http://admin-shell.io/aas/3/0/Range/valueType](http://admin-shell.io/aas/3/0/Range/valueType) The attribute valueType of the Range class as defined in IDTA-01001-3-0.
+ 
 ## Referable
  An element that is referable by its idShort. This id is not globally unique. This id is unique within the name space of the element.
 

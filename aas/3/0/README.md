@@ -10,6 +10,98 @@ The Metamodel itself is defined in the 'Details of the Asset Administration Shel
 ## Status: Accepted
 
 The sub-namespace AAS and its identifiers have been accepted by the Coordination Board.
+## AasReferableNonIdentifiables
+ Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables) The AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+
+## AasReferableNonIdentifiables/ANNOTATED_RELATIONSHIP_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ANNOTATED_RELATIONSHIP_ELEMENT](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ANNOTATED_RELATIONSHIP_ELEMENT) The AasReferableNonIdentifiables ANNOTATED_RELATIONSHIP_ELEMENT of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/BASIC_EVENT_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/BASIC_EVENT_ELEMENT](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/BASIC_EVENT_ELEMENT) The AasReferableNonIdentifiables BASIC_EVENT_ELEMENT of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/BLOB
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/BLOB](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/BLOB) The AasReferableNonIdentifiables BLOB of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/CAPABILITY
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/CAPABILITY](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/CAPABILITY) The AasReferableNonIdentifiables CAPABILITY of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+
+## AasReferableNonIdentifiables/DATA_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/DATA_ELEMENT](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/DATA_ELEMENT) The AasReferableNonIdentifiables DATA_ELEMENT of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/ENTITY
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ENTITY](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ENTITY) The AasReferableNonIdentifiables ENTITY of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ 
+
+## AasReferableNonIdentifiables/EVENT_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/EVENT_ELEMENT](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/EVENT_ELEM;ENT) The AasReferableNonIdentifiables EVENT_ELEMENT of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/FILE
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/FILE](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/FILE) The AasReferableNonIdentifiables FILE of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## ReferableElement/MULTI_LANGUAGE_PROPERTY
+ Property with a value that can be provided in multiple languages.
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/MULTI_LANGUAGE_PROPERTY](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/MULTI_LANGUAGE_PROPERTY) The AasReferableNonIdentifiables MULTI_LANGUAGE_PROPERTY of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/OPERATION
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/OPERATION](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/OPERATION) The AasReferableNonIdentifiables OPERATION of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/PROPERTY
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/PROPERTY](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/PROPERTY) The AasReferableNonIdentifiables PROPERTY of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/RANGE
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RANGE](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RANGE) The AasReferableNonIdentifiables RANGE of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/REFERENCE_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/REFERENCE_ELEMENT](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/REFERENCE_ELEMENT) The AasReferableNonIdentifiables REFERENCE_ELEMENT of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/RELATIONSHIP_ELEMENT
+
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RELATIONSHIPT_ELEMENT](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RELATIONSHIPT_ELEMENT) The AasReferableNonIdentifiables RELATIONSHIPT_ELEMENT of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/SUBMODEL_ELEMENT
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SUBMODEL_ELEMENT](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SUBMODEL_ELEMENT) The AasReferableNonIdentifiables SUBMODEL_ELEMENT of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+## AasReferableNonIdentifiables/SUBMODEL_ELEMENT_COLLECTION
+ Collection of Submodel Elements
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SUBMODEL_ELEMENT_COLLECTION](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SUBMODEL_ELEMENT_COLLECTION) The AasReferableNonIdentifiables SUBMODEL_ELEMENT_COLLECTION of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ 
+## AasReferableNonIdentifiables/SUBMODEL_ELEMENT_LIST
+ List of set of Submodel Elements
+
+ [http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SUBMODEL_ELEMENT_LIST](http://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SUBMODEL_ELEMENT_LIST) The AasReferableNonIdentifiables SUBMODEL_ELEMENT_LIST of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
+
 
 ## AdministrativeInformation
  Every Identifiable may have administrative information. Administrative information includes for example  Information about the version of the element  Information about who created or who made the last change to the element  Information about the languages available in case the element contains text, for translating purposed also themmaster or default language may be definedIn the first version of the AAS metamodel only version information as defined by IEC 61360 is defined. In later versions additional attributes may be added.

@@ -1079,7 +1079,31 @@ Content type of the content of the BLOB. The mime type states which file extensi
  A reference element is a data element that defines a logical reference to another element within the same or another AAS or a reference to an external object or entity.
 
  [http://admin-shell.io/aas/3/0/ReferenceElement](http://admin-shell.io/aas/3/0/ReferenceElement) The ReferenceElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+## ReferenceElement/value
+ External reference to an external object or entity or a logical reference to another element within the same or another Asset Administration Shell (i.e. a model reference to a Referable)
 
+ [http://admin-shell.io/aas/3/0/ReferenceElement/value](http://admin-shell.io/aas/3/0/ReferenceElement/value) The attribute value of the ReferenceElement class as defined in IDTA-01001-3-0.
+
+
+## ReferenceTypes
+ Enumeration for denoting whether an element is an external or model reference
+
+ [http://admin-shell.io/aas/3/0/ReferenceTypes](http://admin-shell.io/aas/3/0/ReferenceTypes) The  ReferenceTypes class as defined in IDTA-01001-3-0.
+ 
+ ## ReferenceTypes
+ Enumeration for denoting whether an element is an external or model reference
+
+ [http://admin-shell.io/aas/3/0/ReferenceTypes](http://admin-shell.io/aas/3/0/ReferenceElement/value) The  ReferenceTypes class as defined in IDTA-01001-3-0.
+ 
+## ReferenceTypes/EXTERNAL_REFERENCE
+ External reference
+
+ [http://admin-shell.io/aas/3/0/ReferenceTypes/EXTERNAL_REFERENCE](http://admin-shell.io/aas/3/0/eferenceTypes/EXTERNAL_REFERENCE) The value EXTERNAL_REFERENCE of the ReferenceTypes class as defined in IDTA-01001-3-0.
+
+## ReferenceTypes/MODEL_REFERENCE
+ Model reference
+
+ [http://admin-shell.io/aas/3/0/ReferenceTypes/MODEL_REFERENCE](http://admin-shell.io/aas/3/0/eferenceTypes/MODEL_REFERENCE) The value MODEL_REFERENCE of the ReferenceTypes class as defined in IDTA-01001-3-0.
 ## RelationshipElement
 
 

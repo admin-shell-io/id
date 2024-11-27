@@ -589,12 +589,6 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
 
  [http://admin-shell.io/aas/3/0/Formula](http://admin-shell.io/aas/3/0/Formula) The Formula class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
-
-## Formula/dependsOn
- A formula may depend on referable or even external global elements - assumed that can be referenced and their value may be evaluated - that are used in the logical expression.
-
- [http://admin-shell.io/aas/3/0/Formula/dependsOn](http://admin-shell.io/aas/3/0/Formula/dependsOn) The attribute dependsOn of the Formula class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
-
 ## HasExtensions
  Element that can be extended by proprietary extensions.
 

@@ -938,6 +938,11 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/Qualifier/valueId](http://admin-shell.io/aas/3/0/Qualifier/valueId) The attribute valueId of the Qualifier class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
+# Qualifier/valueType
+  Data type of the qualifier value.
+
+ [http://admin-shell.io/aas/3/0/Qualifier/valueType](http://admin-shell.io/aas/3/0/Qualifier/valueType) The attribute valueType of the Qualifier class as defined in IDTA-01001-3-0.
+ 
 ## Range
  An element that is referable by its idShort. This id is not globally unique. This id is unique within the name space of the element.
 

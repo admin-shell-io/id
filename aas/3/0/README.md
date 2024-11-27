@@ -212,6 +212,11 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [http://admin-shell.io/aas/3/0/AssetKind/INSTANCE](http://admin-shell.io/aas/3/0/AssetKind/INSTANCE) The NamedIndividual INSTANCE of the AssetKind class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
+## AssetKind/NotApplicable
+ not applicable
+
+ [http://admin-shell.io/aas/3/0/AssetKind/NotApplicable](http://admin-shell.io/aas/3/0/AssetKind/NotApplicable) The NamedIndividual NotApplicable of the AssetKind class as defined in IDTA-01001-3-0.
+ 
 ## AssetKind/TYPE
  hardware or software element which specifies the common attributes shared by all instances of the type.
 

@@ -222,10 +222,10 @@ The sub-namespace AAS and its identifiers have been accepted by the Coordination
 
  [http://admin-shell.io/aas/3/0/AssetKind/TYPE](http://admin-shell.io/aas/3/0/AssetKind/TYPE) The NamedIndividual TYPE of the AssetKind class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## BasicEvent
+## BasicEventElement
  A basic event.
 
- [http://admin-shell.io/aas/3/0/BasicEvent](http://admin-shell.io/aas/3/0/BasicEvent) The BasicEvent class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/BasicEvent](http://admin-shell.io/aas/3/0/BasicEventElement) The BasicEventElement class as defined in Details of the IDTA-01001-3-0.
 
 ## BasicEvent/observed
  Reference to the data or other elements that are being observed.

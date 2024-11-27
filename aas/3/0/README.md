@@ -575,10 +575,10 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/File](http://admin-shell.io/aas/3/0/File) The File class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
-## File/mimeType
- Mime type of the content of the File.
+## File/contentType
+ Content type of the content of the File.
 
- [https://admin-shell.io/aas/3/0/File/mimeType](https://admin-shell.io/aas/3/0/File/mimeType) The attribute mimeType of the File class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [https://admin-shell.io/aas/3/0/File/contentType](https://admin-shell.io/aas/3/0/File/contentType) The attribute mimeType of the File class as defined in IDTA-01001-3-0.
 
 ## File/value
  Path and name of the referenced file (with file extension). The path can be absolute or relative.

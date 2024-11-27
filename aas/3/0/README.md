@@ -643,10 +643,10 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/Identifiable/administration](http://admin-shell.io/aas/3/0/Identifiable/administration) The attribute administration of the Identifiable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Identifiable/identification
+## Identifiable/id
  The globally unique identification of the element.
 
- [http://admin-shell.io/aas/3/0/Identifiable/identification](http://admin-shell.io/aas/3/0/Identifiable/identification) The attribute identification of the Identifiable class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+ [http://admin-shell.io/aas/3/0/Identifiable/id](http://admin-shell.io/aas/3/0/Identifiable/id) The attribute identification of the Identifiable class as defined in IDTA-01001-3-0.
 
 ## IdentifiableElement
  Enumeration of all identifiable elements within an asset administration shell that are not identifiable

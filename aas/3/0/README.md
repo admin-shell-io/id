@@ -1181,6 +1181,45 @@ Denotes whether reference is an external reference or a model reference
 
  [http://admin-shell.io/aas/3/0/RelationshipElement/second](http://admin-shell.io/aas/3/0/RelationshipElement/second) The attribute second of the RelationshipElement class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
+## Resource
+ Resource represents an address to a file (a locator). The value is a URI that can represent an absolute or relative path.
+
+ [http://admin-shell.io/aas/3/0/Resource](http://admin-shell.io/aas/3/0/Resource) The Resource class as defined in IDTA-01001-3-0.
+
+## Resource/contentType
+ Content type of the content of the file
+
+ The content type states which file extensions the file can have.
+
+ [http://admin-shell.io/aas/3/0/Resource/contentType](http://admin-shell.io/aas/3/0/Resource/contentType) The attribute contentType of the Resource class as defined in IDTA-01001-3-0.
+ 
+## Resource/path
+ Path and name of the resource (with file extension)
+ 
+ The path can be absolute or relative.
+
+ [http://admin-shell.io/aas/3/0/Resource/path](http://admin-shell.io/aas/3/0/Resource/path) The attribute path of the Resource class as defined in IDTA-01001-3-0.
+ 
+## SpecificAssetId
+ A specific asset ID describes a generic supplementary identifying attribute of the asset. The specific asset ID is not necessarily globally unique.
+
+ [http://admin-shell.io/aas/3/0/SpecificAssetId](http://admin-shell.io/aas/3/0/SpecificAssetId) The SpecificAssetId class as defined in IDTA-01001-3-0.
+ 
+## SpecificAssetId/name
+ Name of the asset identifier.
+
+ [http://admin-shell.io/aas/3/0/SpecificAssetId/name](http://admin-shell.io/aas/3/0/SpecificAssetId/name) The attribute name  of the SpecificAsetId class as defined in IDTA-01001-3-0.
+ 
+## SpecificAssetId/externalSubjectId
+ vThe unique ID of the (external) subject the specific asset ID value belongs to or has meaning to.
+
+ [http://admin-shell.io/aas/3/0/SpecificAssetId/externalSubjectId](http://admin-shell.io/aas/3/0/SpecificAssetId/externalSubjectId) The attribute externalSubjectId  of the SpecificAsetId class as defined in IDTA-01001-3-0.
+
+## SpecificAssetId/value
+ value of the asset identifier.
+
+ [http://admin-shell.io/aas/3/0/SpecificAssetId/value](http://admin-shell.io/aas/3/0/SpecificAssetId/value) The attribute value  of the SpecificAsetId class as defined in IDTA-01001-3-0.
+
 
 ## Submodel
  A Submodel defines a specific aspect of the asset represented by the AAS. A submodel is used to structure the virtual representation and technical functionality of an Administration Shell into distinguishable parts. Each submodel refers to a well-defined domain or subject matter. Submodels can become standardized and thus become submodels types. Submodels can have different life-cycles.

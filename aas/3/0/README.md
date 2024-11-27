@@ -288,11 +288,6 @@ Content type of the content of the BLOB. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/0/ConceptDescription/isCaseOf](http://admin-shell.io/aas/3/0/ConceptDescription/isCaseOf) The attribute isCaseOf of the ConceptDescription class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Constraint
- A constraint is used to further qualify an element.
-
- [http://admin-shell.io/aas/3/0/Constraint](http://admin-shell.io/aas/3/0/Constraint) The Constraint class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
-
 ## DataElement
  A data element is a submodel element that is not further composed out of other submodel elements. A data element is a submodel element that has a value. The type of value differs for different subtypes of data elements.
 

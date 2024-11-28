@@ -1,6 +1,6 @@
-# AAS Metamodel Version 3
+# AAS Metamodel Version 3.x
 
-This location contains the revisions of the third version of the AAS Metamodel.
+This location contains the revisions of the third version of the AAS Metamodel, including its minor revisions.
 Currently, one revision is in place as a Release Candidate.
 
 - [Release 3.0.RC01](./0/RC01/): Release Candidate from 2020

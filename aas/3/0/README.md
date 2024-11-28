@@ -5,7 +5,7 @@ This is the sub-namespace reserved for the Asset Administration Shell Metamodel 
 
 ## Introduction
 
-The Metamodel itself is defined in the 'Details of the Asset Administration Shell - Part 1'. Only classes, attributes and named entities used in this model are allowed in this sub-namespace. The Metamodel is the core resource for the structure of the Asset Administration Shell and provides the frame for all further specifications. The following entities are defined in the Metamodel but also serve as an example how to use the 'Asset Administration Shell Identifiers' in general.
+The Metamodel itself is defined in the 'IDTA-01001-3-0 Specification of the Asset Administration Shell - Part 1: Metamodel'. Only classes, attributes and named entities used in this model are allowed in this sub-namespace. The Metamodel is the core resource for the structure of the Asset Administration Shell and provides the frame for all further specifications. The following entities are defined in the Metamodel but also serve as an example how to use the 'Asset Administration Shell Identifiers' in general.
 
 ## Status: Accepted
 

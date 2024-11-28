@@ -1,6 +1,6 @@
 # AAS (Asset Administration Shell)
 
-This is the sub-namespace reserved for the Asset Administration Shell Metamodel version 3.0.
+This is the sub-namespace reserved for the Asset Administration Shell Metamodel version 3.0 (IDTA-01001-3-0).
 
 
 ## Introduction

@@ -155,7 +155,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0.
  [https://admin-shell.io/aas/3/0/AssetInformation](https://admin-shell.io/aas/3/0/AssetInformation) The AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 
 ## AssetInformation/assetKind
- Denotes whether the Asset of of kind 'Type' or 'Instance'.
+ Denotes whether the Asset of of kind 'Type' or 'Instance' or of kind 'not applicable'.
 
  [https://admin-shell.io/aas/3/0/AssetInformation/assetKind](https://admin-shell.io/aas/3/0/AssetInformation/assetKind) The attribute assetKind of the AssetInformation class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 3.0'.
 ## AssetInformation/assetType

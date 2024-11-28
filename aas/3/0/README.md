@@ -10,6 +10,7 @@ The Metamodel itself is defined in the 'IDTA-01001-3-0 Specification of the Asse
 ## Status: Accepted
 
 The sub-namespace AAS and its identifiers have been accepted by the Coordination Board.
+The identifiers are derived following the grammar as defined in IDTA-01001-3-0. 
 ## AasReferableNonIdentifiables
  Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
 

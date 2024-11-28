@@ -198,7 +198,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0.
  [http://admin-shell.io/aas/3/0/AssetAdministrationShell/derivedFrom](http://admin-shell.io/aas/3/0/AssetAdministrationShell/derivedFrom) The attribute derivedFrom of the AssetAdministrationShell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
 
-## AssetAdministrationShell/submodel
+## AssetAdministrationShell/submodels
  Points from the Admin Shell to the Submodels that describe the Admin Shell of a given Asset
 
  [http://admin-shell.io/aas/3/0/AssetAdministrationShell/submodel](http://admin-shell.io/aas/3/0/AssetAdministrationShell/submodel) The attribute submodel of the AssetAdministrationShell class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.

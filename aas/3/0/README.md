@@ -504,15 +504,15 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/Entity/entityType](https://admin-shell.io/aas/3/0/Entity/entityType) The attribute entityType of the Entity class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
 
-## Entity/specificAssetId
- Reference to an identifier key value pair representing an external identifier of the asset represented by the asset administration shell.
-
- [https://admin-shell.io/aas/3/0/Entity/specificAssetId](https://admin-shell.io/aas/3/0/Entity/specificAssetId) The attribute specificAssetId of the Entity class as defined in IDTA-01001-3-0.
-
 ## Entity/globalAssetId
  Reference to the asset the entity is representing.
 
  [https://admin-shell.io/aas/3/0/Entity/globalAssetId](https://admin-shell.io/aas/3/0/Entity/globalAssetId) The attribute globalAssetId of the Entity class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 3.0'.
+
+## Entity/specificAssetId
+ Reference to an identifier key value pair representing an external identifier of the asset represented by the asset administration shell.
+
+ [https://admin-shell.io/aas/3/0/Entity/specificAssetId](https://admin-shell.io/aas/3/0/Entity/specificAssetId) The attribute specificAssetId of the Entity class as defined in IDTA-01001-3-0.
 
 ## Entity/statement
  Describes statements applicable to the entity by a set of submodel elements, typically with a qualified value.

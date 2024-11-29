@@ -351,7 +351,7 @@ Returns all Asset Administration Shells with a specific idShort
 
 ## Endpoint (Class)
 
-[https://admin-shell.io/aas/API/DataTypes/Endpoint/3/0](https://admin-shell.io/aas/API/DataTypes/Endpoint/3/0): The endpoint description of a network resource.
+[https://admin-shell.io/aas/API/DataTypes/Endpoint/3/0](https://admin-shell.io/aas/API/DataTypes/Endpoint/3/0): The endpoint description of a network resource
 
 
 ## ProtocolInformation (Class)

@@ -18,22 +18,18 @@ third is currently finalized:
 Part 2 (Application Programming Interfaces) is available in the sub-namespace [API](./API/).
 
 
-[1] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, E. Barnstedt et al.
-['Details of the Asset Administration Shell Part 1, The exchange of information
+[1] ['Details of the Asset Administration Shell Part 1, The exchange of information
 between partners in the value chain of Industrie 4.0'](), Version 1.0,
 Plattform Industrie 4.0, ZVEI, 2018
 
-[2] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, S. Bader, E. Barnstedt et al.
-['Details of the Asset Administration Shell Part 1, The exchange of information
+[2] ['Details of the Asset Administration Shell Part 1, The exchange of information
 between partners in the value chain of Industrie 4.0'](), Version 2.0,
 Plattform Industrie 4.0, ZVEI, 2019
 
-[3] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, S. Bader, E. Barnstedt et al.
-'Details of the Asset Administration Shell Part 1, The exchange of information
+[3] 'Details of the Asset Administration Shell Part 1, The exchange of information
 between partners in the value chain of Industrie 4.0', Version 2.0.1,
 Plattform Industrie 4.0, ZVEI, 2020
 
-[4] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, S. Bader, E. Barnstedt et al.
-['Details of the Asset Administration Shell Part 1, The exchange of information
-between partners in the value chain of Industrie 4.0'](https://www.plattform-i40.de/IP/Redaktion/EN/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html), Version 3.0.RC01,
+[4] ['Details of the Asset Administration Shell Part 1, The exchange of information
+between partners in the value chain of Industrie 4.0'](https://www.plattform-i40.de/IP/Redaktion/EN/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html), Version 3.0,
 Plattform Industrie 4.0, ZVEI, 2020

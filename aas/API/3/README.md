@@ -1,17 +1,14 @@
 # AAS (Asset Administration Shell)
 
-This is the sub-namespace resevered for the [Asset Administration Shell - Part 2 Application Programming Interfaces](./0/README.md).
+This is the sub-namespace reserved for the [Asset Administration Shell - Part 2 Application Programming Interfaces](./0/README.md).
 
 The document 'Specification of the Asset Administration Shell Part 2 - Application Programming Interfaces' [1] defines the meaning of its content and the used identifiers.
 
 
 ## Contact
 
-The entries of this sub-namespace have been created by [Sebastian Bader](https://github.com/sebbader)
-on behalf of the Workstream 'Specifications of the Asset Administration Shell' of the IDTA Working Group "Open Technology".
+The entries of this sub-namespace have been created by the Workstream "Specification of the Asset Administration Shell" in the IDTA Working Group 'Open Technology'.
 Contact via a [web form](https://industrialdigitaltwin.org/en/contact).
 
 
-[1] S. Bader, B. Berres, B. Boss, A. Graf Gatterburg, M. Hoffmeister et al.
-['Details of the Asset Administration Shell Part 2: Application Programming Interfaces'](https://industrialdigitaltwin.org/en/content-hub/aasspecifications), Version 3.0,
-IDTA, 2023
+[1] ['Specification of the Asset Administration Shell - Part 2: Application Programming Interfaces'](https://industrialdigitaltwin.org/en/content-hub/aasspecifications), Version 3.0, IDTA-01002-3-0, 2023

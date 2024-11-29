@@ -13,7 +13,7 @@ The follwing sub-namespaces are declared:
 ## Contact
 
 The entries of this sub-namespace have been created by [Sebastian Bader](https://github.com/sebbader)
-on behalf of the IDTA Working Group 'Asset Administration Shell'.
+on behalf of the Workstream "Specification of the Asset Administration Shell" in the IDTA Working Group 'Open Technology'.
 Contact via a [web form](https://industrialdigitaltwin.org/en/contact).
 
 

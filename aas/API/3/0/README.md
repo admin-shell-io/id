@@ -355,7 +355,7 @@ Returns all Asset Administration Shells with a specific idShort
 
 ## ProtocolInformation (Class)
 
-[https://admin-shell.io/aas/API/DataTypes/ProtocolInformation/3/0](https://admin-shell.io/aas/API/DataTypes/ProtocolInformation/3/0): The protocol information of a network resource endpoint will be defined in DIN SPEC 16593-2.
+[https://admin-shell.io/aas/API/DataTypes/ProtocolInformation/3/0](https://admin-shell.io/aas/API/DataTypes/ProtocolInformation/3/0): The protocol information of a network resource endpoint
 
 
 ## Result (Class)

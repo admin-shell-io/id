@@ -2,7 +2,7 @@
 
 This is the sub-namespace reserved for the "Specification of the Asset Administration Shell - Part 2: Application Programming Interfaces", Version 3.0 (IDTA-01002-3-0).
 
-The document 'Details of the Asset Administration Shell Part 2 - Application Programming Interfaces' [1] defines the meaning of its content and the used identifiers.
+The document 'Specification of the Asset Administration Shell - Part 2: Application Programming Interfaces', Version 3.0 (IDTA-01002-3-0) [1] defines the meaning of its content and the used identifiers.
 
 
 ## Introduction

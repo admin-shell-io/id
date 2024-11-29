@@ -397,7 +397,7 @@ Returns all Asset Administration Shells with a specific idShort
 ## Contact
 
 The entries of this sub-namespace have been created by [Sebastian Bader](https://github.com/sebbader)
-on behalf of the IDTA Working Group 'Asset Administration Shell'.
+lf of the Workstream 'Specifications of the Asset Administration Shell' of the IDTA Working Group "Open Technology".
 Contact via a [web form](https://industrialdigitaltwin.org/en/contact).
 
 

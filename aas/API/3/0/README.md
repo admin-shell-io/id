@@ -7,8 +7,7 @@ The document 'Specification of the Asset Administration Shell - Part 2: Applicat
 
 ## Introduction
 
-The content of this area is defined in the 'Details of the Asset Administration Shell -
-Part 2'. Only identifiers that are defined in this document are allowed in this
+The content of this area is defined in the "Specification of the Asset Administration Shell - Part 2: Application Programming Interfaces", Version 3.0 (IDTA-01002-3-0). Only identifiers that are defined in this document are allowed in this
 sub-namespace. The identifiers are used to denote the different operations of
 AAS interfaces.
 

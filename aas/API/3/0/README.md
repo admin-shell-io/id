@@ -402,5 +402,5 @@ Contact via a [web form](https://industrialdigitaltwin.org/en/contact).
 
 
 [1] S. Bader, B. Berres, B. Boss, A. Graf Gatterburg, M. Hoffmeister et al.
-['Details of the Asset Administration Shell Part 2: Application Programming Interfaces'](https://industrialdigitaltwin.org/en/content-hub/aasspecifications), Version 3.0,
+['Specification of the Asset Administration Shell - Part 2: Application Programming Interfaces'](https://industrialdigitaltwin.org/en/content-hub/aasspecifications), Version 3.0,
 IDTA, 2023

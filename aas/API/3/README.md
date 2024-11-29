@@ -2,7 +2,7 @@
 
 This is the sub-namespace resevered for the [Asset Administration Shell - Part 2 Application Programming Interfaces](./0/README.md).
 
-The document 'Details of the Asset Administration Shell Part 2 - Application Programming Interfaces' [1] defines the meaning of its content and the used identifiers.
+The document 'Specification of the Asset Administration Shell Part 2 - Application Programming Interfaces' [1] defines the meaning of its content and the used identifiers.
 
 
 ## Contact

@@ -13,8 +13,36 @@ The sub-namespace AAS have been accepted by the Coordination Board.
 The identifiers are derived following the grammar as defined in IDTA-01001-3-0. The grammar has been accepted by the Coordination Board
 
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables) The AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+## AasIdentifiables
+ Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
 
+ [https://admin-shell.io/aas/3/0/AasIdentifiables](https://admin-shell.io/aas/3/0/AasIdentifiables) The AasIdentifiables class as defined in IDTA-01001-3-0.
+ 
+## AasIdentifiables/AssetAdministrationShell
+  Asset Administration Shell
+
+ [https://admin-shell.io/aas/3/0/AasIdentifiables/AssetAdministrationShel](https://admin-shell.io/aas/3/0/AasIdentifiables/AssetAdministrationShel) The value AssetAdministrationShel  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
+
+## AasIdentifiables/ConceptDescription
+  Concept Description
+
+ [https://admin-shell.io/aas/3/0/AasIdentifiables/ConceptDescription](https://admin-shell.io/aas/3/0/AasIdentifiables/ConceptDescription) The value ConceptDescription  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
+
+## AasIdentifiables/Identifiable
+  Identifiable
+
+ [https://admin-shell.io/aas/3/0/AasIdentifiables/Identifiable](https://admin-shell.io/aas/3/0/AasIdentifiables/Identifiable) The value Identifiable of the AasIdentifiables class as defined in IDTA-01001-3-0.  
+ 
+ 
+## AasIdentifiables/Submodel
+  Submodel
+
+ [https://admin-shell.io/aas/3/0/AasIdentifiables/Submodel](https://admin-shell.io/aas/3/0/AasIdentifiables/Submodel) The value Submodel of the AasIdentifiables class as defined in IDTA-01001-3-0.  
+ 
+## AasReferableNonIdentifiables
+
+
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables) The AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
 
 ## AasReferableNonIdentifiables/AnnotatedRelationshipElement
 
@@ -57,7 +85,8 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0. 
 
  [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/File](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/File) The AasReferableNonIdentifiables File of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
 
-## ReferableElement/MultiLanguageProperty
+
+## AasReferableNonIdentifiables/MultiLanguageProperty
  Property with a value that can be provided in multiple languages.
 
  [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/MultiLanguageProperty](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/MultiLanguageProperty) The AasReferableNonIdentifiables MultiLanguageProperty of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
@@ -70,37 +99,245 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0. 
 ## AasReferableNonIdentifiables/Property
 
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Property](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Property) The AasReferableNonIdentifiables Property of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Property](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Property) The value Property of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
 
 ## AasReferableNonIdentifiables/Range
 
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Range](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Range) The AasReferableNonIdentifiables Range of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Range](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/Range) The value Range of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+
 
 ## AasReferableNonIdentifiables/ReferenceElement
 
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ReferenceElement](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ReferenceElement) The AasReferableNonIdentifiables ReferenceElement of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ReferenceElement](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/ReferenceElement) The value ReferenceElement of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
 
 ## AasReferableNonIdentifiables/RelationshipElement
 
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RelationshipElement](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RelationshipElement) The AasReferableNonIdentifiables RelationshipElement of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RelationshipElement](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/RelationshipElement) The value RelationshipElement of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
 
 ## AasReferableNonIdentifiables/SubmodelElement
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElement](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElement) The AasReferableNonIdentifiables SubmodelElement of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElement](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElement) The value SubmodelElement of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
 
 ## AasReferableNonIdentifiables/SubmodelElementCollection
  Collection of Submodel Elements
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementCollection](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementCollection) The AasReferableNonIdentifiables SubmodelElementCollection of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementCollection](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementCollection) The value SubmodelElementCollection of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
  
 ## AasReferableNonIdentifiables/SubmodelElementList
  List of set of Submodel Elements
 
- [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementList](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementList) The AasReferableNonIdentifiables SubmodelElementList of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementList](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/SubmodelElementList) The value SubmodelElementList of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-0.
 
+
+## AasReferables
+ Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
+
+ [https://admin-shell.io/aas/3/0/AasReferables](https://admin-shell.io/aas/3/0/AasReferables) The AasReferables class as defined in IDTA-01001-3-0.
+ 
+
+## AasReferables/AnnotatedRelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/AnnotatedRelationshipElement](https://admin-shell.io/aas/3/0/AasReferables/AnnotatedRelationshipElement) The AasReferables AnnotatedRelationshipElement of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/AssetAdministrationShell
+  Asset Administration Shell
+
+ [https://admin-shell.io/aas/3/0/AasReferables/AssetAdministrationShel](https://admin-shell.io/aas/3/0/AasReferables/AssetAdministrationShel) The value AssetAdministrationShel  of the AasReferables class as defined in IDTA-01001-3-0. 
+
+## AasReferables/BasicEventElement
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/BasicEventElement](https://admin-shell.io/aas/3/0/AasReferables/BasicEventElement) The AasReferables BasicEventElement of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/Blob
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Blob](https://admin-shell.io/aas/3/0/AasReferables/Blob) The AasReferables Blob of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/Capability
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Capability](https://admin-shell.io/aas/3/0/AasReferables/Capability) The AasReferables Capability of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/ConceptDescription
+  Concept Description
+
+ [https://admin-shell.io/aas/3/0/AasReferables/ConceptDescription](https://admin-shell.io/aas/3/0/AasReferables/ConceptDescription) The value ConceptDescription  of the AasReferables class as defined in IDTA-01001-3-0. 
+ 
+## AasReferables/DataElement
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/DataElement](https://admin-shell.io/aas/3/0/AasReferables/DataElement) The AasReferables DataElement of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/Entity
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Entity](https://admin-shell.io/aas/3/0/AasReferables/Entity) The AasReferables Entity of the AasReferables class as defined in IDTA-01001-3-0.
+
+
+## AasReferables/EventElement
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/EventElement](https://admin-shell.io/aas/3/0/AasReferables/EventElement) The AasReferables EventElement of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/File
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/File](https://admin-shell.io/aas/3/0/AasReferables/File) The AasReferables File of the AasReferables class as defined in IDTA-01001-3-0.
+
+ 
+## AasReferables/Identifiable
+  Identifiable
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Identifiable](https://admin-shell.io/aas/3/0/AasReferables/Identifiable) The value Identifiable of the AasReferables class as defined in IDTA-01001-3-0.  
+ 
+## AasReferables/MultiLanguageProperty
+ Property with a value that can be provided in multiple languages.
+
+ [https://admin-shell.io/aas/3/0/AasReferables/MultiLanguageProperty](https://admin-shell.io/aas/3/0/AasReferables/MultiLanguageProperty) The AasReferables MultiLanguageProperty of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/Operation
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Operation](https://admin-shell.io/aas/3/0/AasReferables/Operation) The AasReferables Operation of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/Property
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Property](https://admin-shell.io/aas/3/0/AasReferables/Property) The value Property of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/Range
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Range](https://admin-shell.io/aas/3/0/AasReferables/Range) The value Range of the AasReferables class as defined in IDTA-01001-3-0.
+
+
+## AasReferables/ReferenceElement
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/ReferenceElement](https://admin-shell.io/aas/3/0/AasReferables/ReferenceElement) The value ReferenceElement of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/RelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/AasReferables/RelationshipElement](https://admin-shell.io/aas/3/0/AasReferables/RelationshipElement) The value RelationshipElement of the AasReferables class as defined in IDTA-01001-3-0.
+
+ 
+## AasReferables/Submodel
+  Submodel
+
+ [https://admin-shell.io/aas/3/0/AasReferables/Submodel](https://admin-shell.io/aas/3/0/AasReferables/Submodel) The value Submodel of the AasReferables class as defined in IDTA-01001-3-0.  
+
+
+## AasReferables/SubmodelElement
+
+ [https://admin-shell.io/aas/3/0/AasReferables/SubmodelElement](https://admin-shell.io/aas/3/0/AasReferables/SubmodelElement) The value SubmodelElement of the AasReferables class as defined in IDTA-01001-3-0.
+
+## AasReferables/SubmodelElementCollection
+ Collection of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/AasReferables/SubmodelElementCollection](https://admin-shell.io/aas/3/0/AasReferables/SubmodelElementCollection) The value SubmodelElementCollection of the AasReferables class as defined in IDTA-01001-3-0.
+ 
+## AasReferables/SubmodelElementList
+ List of set of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/AasReferables/SubmodelElementList](https://admin-shell.io/aas/3/0/AasReferables/SubmodelElementList) The value SubmodelElementList of the AasReferables class as defined in IDTA-01001-3-0.
+
+
+
+## AasSubmodelElements
+ Enumeration of all submodel elements within an asset administration shell. 
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements](https://admin-shell.io/aas/3/0/AasSubmodelElements) The AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+
+## AasSubmodelElements/AnnotatedRelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/AnnotatedRelationshipElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/AnnotatedRelationshipElement) The value AnnotatedRelationshipElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/BasicEventElement
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/BasicEventElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/BasicEventElement) The value BasicEventElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/Blob
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/Blob](https://admin-shell.io/aas/3/0/AasSubmodelElements/Blob) The value Blob of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/Capability
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/Capability](https://admin-shell.io/aas/3/0/AasSubmodelElements/Capability) The value Capability of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+
+## AasSubmodelElements/DataElement
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/DataElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/DataElement) The value DataElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/Entity
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/Entity](https://admin-shell.io/aas/3/0/AasSubmodelElements/Entity) The value Entity of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/EventElement
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/EventElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/EventElement) The value EventElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+ 
+## AasSubmodelElements/File
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/File](https://admin-shell.io/aas/3/0/AasSubmodelElements/File) The value File of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+
+## AasSubmodelElements/MultiLanguageProperty
+ Property with a value that can be provided in multiple languages.
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/MultiLanguageProperty](https://admin-shell.io/aas/3/0/AasReferableNonIdentifiables/MultiLanguageProperty) The value MultiLanguageProperty of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/Operation
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/Operation](https://admin-shell.io/aas/3/0/AasSubmodelElements/Operation) The value Operation of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/Property
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/Property](https://admin-shell.io/aas/3/0/AasSubmodelElements/Property) The value Property of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/Range
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/Range](https://admin-shell.io/aas/3/0/AasSubmodelElements/Range) The value Range of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/ReferenceElement
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/ReferenceElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/ReferenceElement) The value ReferenceElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/RelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/RelationshipElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/RelationshipElement) The value RelationshipElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AasSubmodelElements/SubmodelElement
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElement) The value SubmodelElement of the AAasSubmodelElements class as defined in IDTA-01001-3-0.
+
+## AAasSubmodelElements/SubmodelElementCollection
+ Collection of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/AAasSubmodelElements/SubmodelElementCollection](https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElementCollection) The value SubmodelElementCollection of the AasSubmodelElements class as defined in IDTA-01001-3-0.
+ 
+## AasSubmodelElements/SubmodelElementList
+ List of set of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElementList](https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElementList) The value SubmodelElementList of the AasSubmodelElements class as defined in IDTA-01001-3-0.
 
 
 ## AdministrativeInformation
@@ -146,41 +383,6 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0. 
  [http://admin-shell.io/aas/3/0/AnnotatedRelationshipElement/annotation](http://admin-shell.io/aas/3/0/AnnotatedRelationshipElement/annotation) The attribute annotation of the AnnotatedRelationshipElement class as defined in IDTA-01001-3-0.
 
 
-## AssetInformation
- In AssetInformation identifying meta data of the asset that is represented by an AAS is defined. The asset may either represent an asset type or an asset instance. The asset has a globally unique identifier plus – if needed – additional domain specific (proprietary) identifiers. However, to support the corner case of very first phase of lifecycle where a stabilised/constant global asset identifier does not already exist, the corresponding attribute “globalAssetId” is optional.
-
- [https://admin-shell.io/aas/3/0/AssetInformation](https://admin-shell.io/aas/3/0/AssetInformation) The AssetInformation class as defined in IDTA-01001-3-0.
-
-## AssetInformation/assetKind
- Denotes whether the Asset of of kind 'Type' or 'Instance' or of kind 'not applicable'.
-
- [https://admin-shell.io/aas/3/0/AssetInformation/assetKind](https://admin-shell.io/aas/3/0/AssetInformation/assetKind) The attribute assetKind of the AssetInformation class as defined in IDTA-01001-3-0.
-
-## AssetInformation/assetType
- In case AssetInformation/assetKind is applicable the AssetInformation/assetType is the asset ID of the type asset of the asset under consideration as identified by AssetInformation/globalAssetId.
-
- [https://admin-shell.io/aas/3/0/AssetInformation/assetType](https://admin-shell.io/aas/3/0/AssetInformation/assetType) The attribute assetType of the AssetInformation class as defined in IDTA-01001-3-0.
-
-## AssetInformation/globalAssetId
- Reference to either an Asset object or a global reference to the asset the AAS is representing. This attribute is required as soon as the AAS is exchanged via partners in the life cycle of the asset. In a first phase of the life cycle the asset might not yet have a global id but already an internal identifier. The internal identifier would be modelled via “externalAssetId”.
-
- [https://admin-shell.io/aas/3/0/AssetInformation/globalAssetId](https://admin-shell.io/aas/3/0/AssetInformation/globalAssetId) The attribute globalAssetId of the AssetInformation class as defined in IDTA-01001-3-0.
-
-## AssetInformation/specificAssetId
- Additional domain specific external, typically proprietary Identifier for the asset like e.g. serial number etc.
-
- [https://admin-shell.io/aas/3/0/AssetInformation/specificAssetId](https://admin-shell.io/aas/3/0/AssetInformation/specificAssetId) The attribute specificAssetId of the AssetInformation class as defined in IDTA-01001-3-0.
-
-## AssetInformation/billOfMaterial
- A reference to a Submodel that defines the bill of material of the asset represented by the AAS. This submodel contains a set of entities describing the material used to compose the composite I4.0 Component.
-
- [https://admin-shell.io/aas/3/0/AssetInformation/billOfMaterial](https://admin-shell.io/aas/3/0/AssetInformation/billOfMaterial) The attribute billOfMaterial of the AssetInformation class as defined in IDTA-01001-3-0.
-
-## AssetInformation/defaultThumbnail
- Default thumbnail of the asset represented by the asset administration shell.
-
- [https://admin-shell.io/aas/3/0/AssetInformation/defaultThumbnail](https://admin-shell.io/aas/3/0/AssetInformation/defaultThumbnail) The attribute thumbnail of the AssetInformation class as defined in IDTA-01001-3-0.
-
 ## AssetAdministrationShell
  Describes the Administration Shell for Assets, Products, Components, e.g. Machines
 
@@ -205,6 +407,39 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0. 
 
  [http://admin-shell.io/aas/3/0/AssetAdministrationShell/submodels](http://admin-shell.io/aas/3/0/AssetAdministrationShell/submodels) The attribute submodel of the AssetAdministrationShell class as defined in IDTA-01001-3-0.
 
+
+
+
+## AssetInformation
+ In AssetInformation identifying meta data of the asset that is represented by an AAS is defined. The asset may either represent an asset type or an asset instance. The asset has a globally unique identifier plus – if needed – additional domain specific (proprietary) identifiers. However, to support the corner case of very first phase of lifecycle where a stabilised/constant global asset identifier does not already exist, the corresponding attribute “globalAssetId” is optional.
+
+ [https://admin-shell.io/aas/3/0/AssetInformation](https://admin-shell.io/aas/3/0/AssetInformation) The AssetInformation class as defined in IDTA-01001-3-0.
+
+## AssetInformation/assetKind
+ Denotes whether the Asset of of kind 'Type' or 'Instance' or of kind 'not applicable'.
+
+ [https://admin-shell.io/aas/3/0/AssetInformation/assetKind](https://admin-shell.io/aas/3/0/AssetInformation/assetKind) The attribute assetKind of the AssetInformation class as defined in IDTA-01001-3-0.
+
+## AssetInformation/assetType
+ In case AssetInformation/assetKind is applicable the AssetInformation/assetType is the asset ID of the type asset of the asset under consideration as identified by AssetInformation/globalAssetId.
+
+ [https://admin-shell.io/aas/3/0/AssetInformation/assetType](https://admin-shell.io/aas/3/0/AssetInformation/assetType) The attribute assetType of the AssetInformation class as defined in IDTA-01001-3-0.
+
+## AssetInformation/globalAssetId
+ Reference to either an Asset object or a global reference to the asset the AAS is representing. This attribute is required as soon as the AAS is exchanged via partners in the life cycle of the asset. In a first phase of the life cycle the asset might not yet have a global id but already an internal identifier. The internal identifier would be modelled via “externalAssetId”.
+
+ [https://admin-shell.io/aas/3/0/AssetInformation/globalAssetId](https://admin-shell.io/aas/3/0/AssetInformation/globalAssetId) The attribute globalAssetId of the AssetInformation class as defined in IDTA-01001-3-0.
+
+## AssetInformation/specificAssetIds
+ Additional domain specific external, typically proprietary Identifiers for the asset like e.g. serial number etc.
+
+ [https://admin-shell.io/aas/3/0/AssetInformation/specificAssetIds](https://admin-shell.io/aas/3/0/AssetInformation/specificAssetIds) The attribute specificAssetId of the AssetInformation class as defined in IDTA-01001-3-0.
+
+
+## AssetInformation/defaultThumbnail
+ Default thumbnail of the asset represented by the asset administration shell.
+
+ [https://admin-shell.io/aas/3/0/AssetInformation/defaultThumbnail](https://admin-shell.io/aas/3/0/AssetInformation/defaultThumbnail) The attribute defaultThumbnail of the AssetInformation class as defined in IDTA-01001-3-0.
 
 ## AssetKind
  Enumeration for denoting whether an element is a type or an instance.
@@ -240,6 +475,46 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0. 
 
  [https://admin-shell.io/aas/3/0/BasicEventElement/observed](https://admin-shell.io/aas/3/0/BasicEventElement/observed) The attribute observed of the BasicEventElement class as defined in IDTA-01001-3-0'.
 
+
+## BasicEventElement/direction
+Direction of event
+
+Can be { input, output }
+
+ [https://admin-shell.io/aas/3/0/BasicEventElement/direction](https://admin-shell.io/aas/3/0/BasicEventElement/direction) The attribute direction of the BasicEventElement class as defined in IDTA-01001-3-0'.
+
+## BasicEventElement/state
+State of event
+
+Can be { on, off }
+
+ [https://admin-shell.io/aas/3/0/BasicEventElement/state](https://admin-shell.io/aas/3/0/BasicEventElement/state) The attribute state of the BasicEventElement class as defined in IDTA-01001-3-0'.
+
+## BasicEventElement/messageTopic
+Information for the outer message infrastructure to schedule the event for the respective communication channel.
+
+ [https://admin-shell.io/aas/3/0/BasicEventElement/messageTopic](https://admin-shell.io/aas/3/0/BasicEventElement/messageTopic) The attribute messageTopic of the BasicEventElement class as defined in IDTA-01001-3-0.
+
+## BasicEventElement/messageBroker
+
+ [https://admin-shell.io/aas/3/0/BasicEventElement/messageBroker](https://admin-shell.io/aas/3/0/BasicEventElement/messageBroker) The attribute messageBroker of the BasicEventElement class as defined in IDTA-01001-3-0.
+
+## BasicEventElement/lastUpdate
+
+
+ [https://admin-shell.io/aas/3/0/BasicEventElement/lastUpdate](https://admin-shell.io/aas/3/0/BasicEventElement/lastUpdate) The attribute lastUpdate of the BasicEventElement class as defined in IDTA-01001-3-0.
+
+## BasicEventElement/minInterval
+
+
+ [https://admin-shell.io/aas/3/0/BasicEventElement/minInterval](https://admin-shell.io/aas/3/0/BasicEventElement/minInterval) The attribute minInterval of the BasicEventElement class as defined in IDTA-01001-3-0.
+
+## BasicEventElement/maxInterval
+
+
+ [https://admin-shell.io/aas/3/0/BasicEventElement/maxInterval](https://admin-shell.io/aas/3/0/BasicEventElement/maxInterval) The attribute maxInterval of the BasicEventElement class as defined in IDTA-01001-3-0.
+
+
 ## Blob
  A Blob is a data element that represents a file that is contained with its source code in the value attribute.
 
@@ -256,35 +531,18 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/0/Blob/value](https://admin-shell.io/aas/3/0/Blob/value) The attribute value of the Blob class as defined in IDTA-01001-3-0.
 
+
+## BlobType
+
+
+ [http://admin-shell.io/aas/3/0/BlobType](http://admin-shell.io/aas/3/0/BlobType) The BlobType data type as defined in IDTA-01001-3-0.
+
+
+
 ## Capability
  A capability is the implementation-independent description of the potential of an asset to achieve a certain effect in the physical or virtual world.
 
  [http://admin-shell.io/aas/3/0/Capability](http://admin-shell.io/aas/3/0/Capability) The Capability class as defined in IDTA-01001-3-0.
-
-
-## Category
- A Category specifies the nature of a Property or a MultiLanguageProperty.
-
- [http://admin-shell.io/aas/3/0/Category](http://admin-shell.io/aas/3/0/Category) The Category class as defined in IDTA-01001-3-0.
-
-
-## Category/CONSTANT
- A constant property is a property with a value that does not change over time. In eCl@ss this kind of category has the category 'Coded Value'.
-
- [http://admin-shell.io/aas/3/0/Category/CONSTANT](http://admin-shell.io/aas/3/0/Category/CONSTANT) The NamedIndividual CONSTANT of the Category class as defined in IDTA-01001-3-0.
-
-
-## Category/PARAMETER
- A parameter property is a property that is once set and then typically does not change over time. This is for example the case for configuration parameters.
-
- [http://admin-shell.io/aas/3/0/Category/PARAMETER](http://admin-shell.io/aas/3/0/Category/PARAMETER) The NamedIndividual PARAMETER of the Category class as defined in IDTA-01001-3-0.
-
-
-## Category/VARIABLE
- A variable property is a property that is calculated during runtime, i.e. its value is a runtime value.
-
- [http://admin-shell.io/aas/3/0/Category/VARIABLE](http://admin-shell.io/aas/3/0/Category/VARIABLE) The NamedIndividual VARIABLE of the Category class as defined in IDTA-01001-3-0.
-
 
 
 ## ConceptDescription
@@ -293,21 +551,21 @@ Content type of the content of the Blob. The mime type states which file extensi
  [http://admin-shell.io/aas/3/0/ConceptDescription](http://admin-shell.io/aas/3/0/ConceptDescription) The ConceptDescription class as defined in IDTA-01001-3-0.
 
 
-## ConceptDescription/content
- Link from a ConceptDescription to its explaining DataSpecificationContent.
-
- [https://admin-shell.io/aas/3/0/ConceptDescription/content](https://admin-shell.io/aas/3/0/ConceptDescription/content) The attribute content of the ConceptDescription as defined in IDTA-01001-3-0.
-
 ## ConceptDescription/isCaseOf
  Global reference to an external definition the concept is compatible to or was derived from.
 
  [http://admin-shell.io/aas/3/0/ConceptDescription/isCaseOf](http://admin-shell.io/aas/3/0/ConceptDescription/isCaseOf) The attribute isCaseOf of the ConceptDescription class as defined in IDTA-01001-3-0.
 
+## ContentType
+
+
+ [http://admin-shell.io/aas/3/0/ContentType](http://admin-shell.io/aas/3/0/ContentType) The ContentType data type as defined in IDTA-01001-3-0.
 
 ## DataElement
  A data element is a submodel element that is not further composed out of other submodel elements. A data element is a submodel element that has a value. The type of value differs for different subtypes of data elements.
 
  [http://admin-shell.io/aas/3/0/DataElement](http://admin-shell.io/aas/3/0/DataElement) The DataElement class as defined in IDTA-01001-3-0.
+
 
 ## DataSpecification
  DataSpecification contains the additional attributes to be added to the element instance that references the data specification template and meta information about the template itself as well as some meta inforamtion about the template.
@@ -332,7 +590,6 @@ Content type of the content of the Blob. The mime type states which file extensi
  [ https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/DataSpecificationIEC61360/dataType]( https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/DataSpecificationIEC61360/dataType) The attribute dataType of the DataSpecificationIEC61360 class as defined in DTA-01003-a-3-0.
 
 ## DataSpecificationIEC61360/definition
-
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/DataSpecificationIEC61360/definition](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/DataSpecificationIEC61360/definition) The attribute definition of the DataSpecificationIEC61360 class as defined in DTA-01003-a-3-0.
 
@@ -397,76 +654,127 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/DataTypeIEC61360](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIEC61360/3/0/DataTypeIEC61360) The DataTypeIEC61360 class as defined in IDTA-01003-a-3-0.
 
-## DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE
+## DataTypeIEC61360/BOOLEAN
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE) The DataTypeIEC61360 BOOLEAN_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/BOOLEAN](http://admin-shell.io/aas/3/0/DataTypeIEC61360/BOOLEAN) The DataTypeIEC61360 BOOLEAN of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
-## DataTypeIEC61360/DATE_IEC6360_DATATYPE
+## DataTypeIEC61360/DATE
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/DATE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/DATE_IEC6360_DATATYPE) The DataTypeIEC61360 DATE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/DATE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/DATE) The value DATE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+## DataTypeIEC61360/FILE
 
 
-## DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/FILE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/FILE) The value FILE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+## DataTypeIEC61360/HTML
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in IDTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/HTML](http://admin-shell.io/aas/3/0/DataTypeIEC61360/HTML) The value HTML of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+## DataTypeIEC61360/INTEGER_MEASURE
+
+
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/INTEGER_MEASURE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/INTEGER_MEASURE) The value INTEGER_MEASURE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+
+## DataTypeIEC61360/INTEGER_COUNT
+
+
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/INTEGER_COUNT](http://admin-shell.io/aas/3/0/DataTypeIEC61360/INTEGER_COUNT) The value INTEGER_COUNT of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+
+## DataTypeIEC61360/INTEGER_CURRENCY
+
+
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/INTEGER_CURRENCY](http://admin-shell.io/aas/3/0/DataTypeIEC61360/INTEGER_CURRENCY) The value INTEGER_CURRENCY of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+## DataTypeIEC61360/IRDI
+
+
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/IRDI](http://admin-shell.io/aas/3/0/DataTypeIEC61360/IRDI) The value IRDI of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+
+## DataTypeIEC61360/IRI
+
+
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/IRI](http://admin-shell.io/aas/3/0/DataTypeIEC61360/IRI) The value IRI of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+
+## DataTypeIEC61360/RATIONAL
+
+
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL](http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL) The value RATIONAL of the DataTypeIEC61360 class as defined in IDTA-01003-a-3-0.
 3
 
-## DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE
+## DataTypeIEC61360/RATIONAL_MEASURE
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL_MEASURE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/RATIONAL_MEASURE) The value RATIONAL_MEASURE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
-## DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE
+## DataTypeIEC61360/REAL_COUNT
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_COUNT_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_COUNT](http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_COUNT) The value REAL_COUNT of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
-## DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE
+## DataTypeIEC61360/REAL_CURRENCY
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_CURRENCY_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_CURRENCY](http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_CURRENCY) The value REAL_CURRENCY of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
-## DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE
+## DataTypeIEC61360/REAL_MEASURE
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_MEASURE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/REAL_MEASURE) The value REAL_MEASURE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
-## DataTypeIEC61360/STRING_IEC6360_DATATYPE
+## DataTypeIEC61360/STRING
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING](http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING) The value STRING of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
-## DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE
+## DataTypeIEC61360/STRING_TRANSLATABLE
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_TRANSLATABLE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING_TRANSLATABLE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/STRING_TRANSLATABLE) The value STRING_TRANSLATABLE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+
+## DataTypeIEC61360/TIME
 
 
-## DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIME](http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIME) The value TIME of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE) The DataTypeIEC61360 TIMESTAMP_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+## DataTypeIEC61360/TIMESTAMP
 
 
-## DataTypeIEC61360/TIME_IEC6360_DATATYPE
+ [http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIMESTAMP](http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIMESTAMP) The value TIMESTAMP of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIME_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/TIME_IEC6360_DATATYPE) The DataTypeIEC61360 TIME_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
 
 
-## DataTypeIEC61360/URL_IEC6360_DATATYPE
+## Direction
+ Enumeration for direction of an event element.
+
+ [http://admin-shell.io/aas/3/0/Direction](http://admin-shell.io/aas/3/0/Direction) The Direction class as defined in IDTA-01001-3-0.
 
 
- [http://admin-shell.io/aas/3/0/DataTypeIEC61360/URL_IEC6360_DATATYPE](http://admin-shell.io/aas/3/0/DataTypeIEC61360/URL_IEC6360_DATATYPE) The DataTypeIEC61360 URL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in DTA-01003-a-3-0.
+## Direction/input
+
+
+ [http://admin-shell.io/aas/3/0/AssetKind/input](http://admin-shell.io/aas/3/0/AssetKind/input) The value input of the enumeration class Direction as defined in IDTA-01001-3-0.
+
+## Direction/output
+
+
+ [http://admin-shell.io/aas/3/0/AssetKind/output](http://admin-shell.io/aas/3/0/AssetKind/output) The value output of the enumeration class Direction as defined in IDTA-01001-3-0.
+
 
 
 ## Entity
@@ -486,16 +794,17 @@ Content type of the content of the Blob. The mime type states which file extensi
  Reference to the asset the entity is representing.
 
  [http://admin-shell.io/aas/3/0/Entity/globalAssetId](http://admin-shell.io/aas/3/0/Entity/globalAssetId) The attribute globalAssetId of the Entity class as defined in IDTA-01001-3-0.
-## Entity/specificAssetId
- Reference to an identifier key value pair representing an external identifier of the asset represented by the asset administration shell.
+ 
+## Entity/specificAssetIds
+ Set of identifier key value pairs representing a specific identifier of the asset represented by the asset administration shell.
 
- [http://admin-shell.io/aas/3/0/Entity/specificAssetId](http://admin-shell.io/aas/3/0/Entity/specificAssetId) The attribute specificAssetId of the Entity class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/Entity/specificAssetIds](http://admin-shell.io/aas/3/0/Entity/specificAssetIds) The attribute specificAssetId of the Entity class as defined in IDTA-01001-3-0.
 
 
-## Entity/statement
+## Entity/statements
  Describes statements applicable to the entity by a set of submodel elements, typically with a qualified value.
 
- [http://admin-shell.io/aas/3/0/Entity/statement](http://admin-shell.io/aas/3/0/Entity/statement) The attribute statement of the Entity class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/Entity/statements](http://admin-shell.io/aas/3/0/Entity/statements) The attribute statement of the Entity class as defined in IDTA-01001-3-0.
 
 
 ## EntityType
@@ -514,10 +823,12 @@ Content type of the content of the Blob. The mime type states which file extensi
  Self-Managed Entities have their own AAS but can be part of the bill of material of a composite self-managed entity. The asset of an I4.0 Component is a self-managed entity per definition.
 
  [http://admin-shell.io/aas/3/0/EntityType/SELF_MANAGED_ENTITY](http://admin-shell.io/aas/3/0/EntityType/SELF_MANAGED_ENTITY) The NamedIndividual SELF_MANAGED_ENTITY of the EntityType class as defined in IDTA-01001-3-0.
+
 ## Extension
  Single extension of an element.
 
  [https://admin-shell.io/aas/3/0/Extension](https://admin-shell.io/aas/3/0/Extension) The Extension class as defined in IDTA-01001-3-0.
+
 ## Extension/name
  Name of the extension.
 
@@ -528,22 +839,17 @@ Content type of the content of the Blob. The mime type states which file extensi
 
 
  [https://admin-shell.io/aas/3/0/Extension/value](https://admin-shell.io/aas/3/0/Extension/value) The attibute value of the Extension class as defined in IDTA-01001-3-0.
+
 ## Extension/valueType
  Type of the value of the extension.
 
  [https://admin-shell.io/aas/3/0/Extension/valueType](https://admin-shell.io/aas/3/0/Extension/valueType) The attribute valueType of the Extension class as defined in IDTA-01001-3-0.
 
 
-## Extension/refersTo
+## Extension/refersTos
  Reference to an element the extension refers to.
 
- [https://admin-shell.io/aas/3/0/Extension/refersTo](https://admin-shell.io/aas/3/0/Extension/refersTo) The attribute refersTo Extension class as defined in IDTA-01001-3-0.
-
-## EventElement
-An event element.
-
- [http://admin-shell.io/aas/3/0/EventElement](http://admin-shell.io/aas/3/0/EventElement) The EventElement class as defined in IDTA-01001-3-0.
-
+ [https://admin-shell.io/aas/3/0/Extension/refersTos](https://admin-shell.io/aas/3/0/Extension/refersTos) The attribute refersTo Extension class as defined in IDTA-01001-3-0.
 
 ## EventElement
  Defines the necessary information for sending or receiving events.
@@ -551,10 +857,50 @@ An event element.
  [http://admin-shell.io/aas/3/0/EventElement](http://admin-shell.io/aas/3/0/EventElement) The EventElement class as defined in IDTA-01001-3-0.
 
 
-## EventMessage
- Defines the necessary information ofv an event instance sent out or received.
+## EventPayload
 
- [http://admin-shell.io/aas/3/0/EventMessage](http://admin-shell.io/aas/3/0/EventMessage) The EventMessage class as defined in IDTA-01001-3-0.
+
+ [http://admin-shell.io/aas/3/0/EventPayload](http://admin-shell.io/aas/3/0/EventPayload) The EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/source
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/source](http://admin-shell.io/aas/3/0/EventPayload/source) The attribute source of the EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/sourceSemanticId
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/sourceSemanticId](http://admin-shell.io/aas/3/0/EventPayload/sourceSemanticId) The attribute sourceSemanticId of the EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/observableReference
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/observableReference](http://admin-shell.io/aas/3/0/EventPayload/observableReference) The attribute observableReference of the EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/observableSemanticId
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/observableSemanticId](http://admin-shell.io/aas/3/0/EventPayload/observableSemanticId) The attribute observableSemanticId of the EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/topic
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/topic](http://admin-shell.io/aas/3/0/EventPayload/topic) The attribute topic of the EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/subjectId
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/subjectId](http://admin-shell.io/aas/3/0/EventPayload/subjectId) The attribute subjectId of the EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/timestamp
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/timestamp](http://admin-shell.io/aas/3/0/EventPayload/timestamp) The attribute timestamp of the EventPayload class as defined in IDTA-01001-3-0.
+
+## EventPayload/payload
+
+
+ [http://admin-shell.io/aas/3/0/EventPayload/payload](http://admin-shell.io/aas/3/0/EventPayload/payload) The attribute payload of the EventPayload class as defined in IDTA-01001-3-0.
 
 
 ## File
@@ -573,15 +919,169 @@ An event element.
 
  [https://admin-shell.io/aas/3/0/File/value](https://admin-shell.io/aas/3/0/File/value) The attribute value of the File class as defined in IDTA-01001-3-0.
 
+## FragmentKeys
+ Enumeration of different fragment key value types within a key
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys](https://admin-shell.io/aas/3/0/FragmentKeys) The FragmentKeys class as defined in IDTA-01001-3-0.
+
+
+## FragmentKeys/AnnotatedRelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/AnnotatedRelationshipElement](https://admin-shell.io/aas/3/0/FragmentKeys/AnnotatedRelationshipElement) The FragmentKeys AnnotatedRelationshipElement of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/BasicEventElement
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/BasicEventElement](https://admin-shell.io/aas/3/0/FragmentKeys/BasicEventElement) The FragmentKeys BasicEventElement of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/Blob
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/Blob](https://admin-shell.io/aas/3/0/FragmentKeys/Blob) The FragmentKeys Blob of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/Capability
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/Capability](https://admin-shell.io/aas/3/0/FragmentKeys/Capability) The FragmentKeys Capability of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+
+## FragmentKeys/DataElement
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/DataElement](https://admin-shell.io/aas/3/0/FragmentKeys/DataElement) The FragmentKeys DataElement of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/Entity
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/Entity](https://admin-shell.io/aas/3/0/FragmentKeys/Entity) The FragmentKeys Entity of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/FragmentReference
+ Bookmark or a similar local identifier of a subordinate part of a primary resource
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/FragmentReference](https://admin-shell.io/aas/3/0/FragmentKeys/FragmentReference) The value FragmentReference of the FragmentKeys class as defined in IDTA-01001-3-0.
+ 
+
+## FragmentKeys/EventElement
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/EventElement](https://admin-shell.io/aas/3/0/FragmentKeys/EventElement) The FragmentKeys EventElement of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/File
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/File](https://admin-shell.io/aas/3/0/FragmentKeys/File) The FragmentKeys File of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+ 
+## FragmentKeys/FragmentReference
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/FragmentReference](https://admin-shell.io/aas/3/0/FragmentKeys/FragmentReference) The value FragmentReference of the FragmentKeys class as defined in IDTA-01001-3-0.
+ 
+
+## FragmentKeys/MultiLanguageProperty
+ Property with a value that can be provided in multiple languages.
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/MultiLanguageProperty](https://admin-shell.io/aas/3/0/FragmentKeys/MultiLanguageProperty) The FragmentKeys MultiLanguageProperty of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/Operation
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/Operation](https://admin-shell.io/aas/3/0/FragmentKeys/Operation) The FragmentKeys Operation of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/Property
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/Property](https://admin-shell.io/aas/3/0/FragmentKeys/Property) The value Property of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/Range
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/Range](https://admin-shell.io/aas/3/0/FragmentKeys/Range) The value Range of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+
+## FragmentKeys/ReferenceElement
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/ReferenceElement](https://admin-shell.io/aas/3/0/FragmentKeys/ReferenceElement) The value ReferenceElement of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/RelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/RelationshipElement](https://admin-shell.io/aas/3/0/FragmentKeys/RelationshipElement) The value RelationshipElement of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+
+## FragmentKeys/SubmodelElement
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/SubmodelElement](https://admin-shell.io/aas/3/0/FragmentKeys/SubmodelElement) The value SubmodelElement of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## FragmentKeys/SubmodelElementCollection
+ Collection of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/SubmodelElementCollection](https://admin-shell.io/aas/3/0/FragmentKeys/SubmodelElementCollection) The value SubmodelElementCollection of the FragmentKeys class as defined in IDTA-01001-3-0.
+ 
+## FragmentKeys/SubmodelElementList
+ List of set of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/FragmentKeys/SubmodelElementList](https://admin-shell.io/aas/3/0/FragmentKeys/SubmodelElementList) The value SubmodelElementList of the FragmentKeys class as defined in IDTA-01001-3-0.
+
+## GenericFragmentKeys
+ Enumeration of different fragment key value types within a key
+
+ [https://admin-shell.io/aas/3/0/GenericFragmentKeys](https://admin-shell.io/aas/3/0/GenericFragmentKeys) The GenericFragmentKeys class as defined in IDTA-01001-3-0.
+
+## GenericFragmentKeys/FragmentReference
+ Bookmark or a similar local identifier of a subordinate part of a primary resource
+
+ [https://admin-shell.io/aas/3/0/GenericFragmentKeys/FragmentReference](https://admin-shell.io/aas/3/0/GenericFragmentKeys/FragmentReference) The value FragmentReference of the GenericFragmentKeys class as defined in IDTA-01001-3-0.
+ 
+ ## GenericGloballyIdentifiables
+ Enumeration of different key value types within a key
+
+ [https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables](https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables) The GenericGloballyIdentifiables class as defined in IDTA-01001-3-0.
+
+## GenericGloballyIdentifiables/GlobalReference
+
+ [https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables/GlobalReference](https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables/GlobalReference) The value GlobalReference of the GenericGloballyIdentifiables class as defined in IDTA-01001-3-0.
+
+## GloballyIdentifiables
+ Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
+
+ [https://admin-shell.io/aas/3/0/GloballyIdentifiables](https://admin-shell.io/aas/3/0/GloballyIdentifiables) The GloballyIdentifiables class as defined in IDTA-01001-3-0.
+ 
+## GloballyIdentifiables/AssetAdministrationShell
+  Asset Administration Shell
+
+ [https://admin-shell.io/aas/3/0/GloballyIdentifiables/AssetAdministrationShel](https://admin-shell.io/aas/3/0/GloballyIdentifiables/AssetAdministrationShel) The value AssetAdministrationShel  of the GloballyIdentifiables class as defined in IDTA-01001-3-0. 
+
+## GloballyIdentifiables/ConceptDescription
+  Concept Description
+
+ [https://admin-shell.io/aas/3/0/GloballyIdentifiables/ConceptDescription](https://admin-shell.io/aas/3/0/GloballyIdentifiables/ConceptDescription) The value ConceptDescription  of the GloballyIdentifiables class as defined in IDTA-01001-3-0. 
+
+## GloballyIdentifiables/GlobalReference
+
+ [https://admin-shell.io/aas/3/0/GloballyIdentifiables/GlobalReference](https://admin-shell.io/aas/3/0/GloballyIdentifiables/GlobalReference) The value GlobalReference of the GloballyIdentifiables class as defined in IDTA-01001-3-0.
+
+## GloballyIdentifiables/Identifiable
+  Identifiable
+
+ [https://admin-shell.io/aas/3/0/GloballyIdentifiables/Identifiable](https://admin-shell.io/aas/3/0/GloballyIdentifiables/Identifiable) The value Identifiable of the GloballyIdentifiables class as defined in IDTA-01001-3-0.  
+ 
+ 
+## GloballyIdentifiables/Submodel
+  Submodel
+
+ [https://admin-shell.io/aas/3/0/GloballyIdentifiables/Submodel](https://admin-shell.io/aas/3/0/GloballyIdentifiables/Submodel) The value Submodel of the GloballyIdentifiables class as defined in IDTA-01001-3-0.  
+
 ## HasExtensions
  Element that can be extended by proprietary extensions.
 
  [https://admin-shell.io/aas/3/0/HasExtensions](https://admin-shell.io/aas/3/0/HasExtensions) The HasExtensions class as defined in IDTA-01001-3-0.
 
-## HasExtensions/extension
+## HasExtensions/extensions
  An extension of the element.
 
- [https://admin-shell.io/aas/3/0/HasExtensions/extension](https://admin-shell.io/aas/3/0/HasExtensions/extension) The attribute extension of the HasExtensions class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/HasExtensions/extensions](https://admin-shell.io/aas/3/0/HasExtensions/extensions) The attribute extension of the HasExtensions class as defined in IDTA-01001-3-0.
 
 ## HasDataSpecification
  Element that can have be extended by using data specification templates. A data specification template defines the additional attributes an element may or shall have. The data specifications used are explicitly specified with their id.
@@ -589,10 +1089,10 @@ An event element.
  [http://admin-shell.io/aas/3/0/HasDataSpecification](http://admin-shell.io/aas/3/0/HasDataSpecification) The HasDataSpecification class as defined in IDTA-01001-3-0.
 
 
-## HasDataSpecification/dataSpecification
- Global reference to the data specification template used by the element.
+## HasDataSpecification/dataSpecifications
+ Set of global references to a data specification template used by the element.
 
- [http://admin-shell.io/aas/3/0/HasDataSpecification/dataSpecification](http://admin-shell.io/aas/3/0/HasDataSpecification/dataSpecification) The attribute dataSpecification of the HasDataSpecification class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/HasDataSpecification/dataSpecifications](http://admin-shell.io/aas/3/0/HasDataSpecification/dataSpecifications) The attribute dataSpecification of the HasDataSpecification class as defined in IDTA-01001-3-0.
 
 
 ## HasKind
@@ -641,77 +1141,16 @@ An event element.
  [https://admin-shell.io/aas/3/0/Identifiable/id](https://admin-shell.io/aas/3/0/Identifiable/id) The attribute identification of the Identifiable class as defined in IDTA-01001-3-0.
 
 ## Identifier
- Used to uniquely identify an entity by using an identifier.
+ Data type of an identifier.
 
- [http://admin-shell.io/aas/3/0/Identifier](http://admin-shell.io/aas/3/0/Identifier) The Identifier class as defined in IDTA-01001-3-0.
-
-
-## Identifier/id
- A globally unique identifier which might not be a URI. Its type is defined in idType.
-
- [http://admin-shell.io/aas/3/0/Identifier/id](http://admin-shell.io/aas/3/0/Identifier/id) The attribute id of the Identifier class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/Identifier](http://admin-shell.io/aas/3/0/Identifier) The Identifier data type as defined in IDTA-01001-3-0.
 
 
-## Identifier/idType
- Type of the Identifier, e.g. IRI, IRDI etc. The supported Identifier types are defined in the enumeration 'IdentifierType'.
-
- [http://admin-shell.io/aas/3/0/Identifier/idType](http://admin-shell.io/aas/3/0/Identifier/idType) The attribute idType of the Identifier class as defined in IDTA-01001-3-0.
-
-
-## IdentifierType
- Enumeration of different types of Identifiers for global identification
-
- [http://admin-shell.io/aas/3/0/IdentifierType](http://admin-shell.io/aas/3/0/IdentifierType) The IdentifierType class as defined in IDTA-01001-3-0.
-
-
-## IdentifierType/CUSTOM
- Custom identifiers like GUIDs (globally unique Identifiers)
-
- [http://admin-shell.io/aas/3/0/IdentifierType/CUSTOM](http://admin-shell.io/aas/3/0/IdentifierType/CUSTOM) The IdentifierType CUSTOM of the IdentifierType class as defined in IDTA-01001-3-0.
-
-
-## IdentifierType/IRDI
- IRDI according to ISO29002-5 as an Identifier scheme for properties and classifications.
-
- [http://admin-shell.io/aas/3/0/IdentifierType/IRDI](http://admin-shell.io/aas/3/0/IdentifierType/IRDI) The IdentifierType IRDI of the IdentifierType class as defined in IDTA-01001-3-0.
-
-
-## IdentifierType/IRI
- IRI. Should only be used if unicode symbols are used that are not allowed in URI.
-
- [http://admin-shell.io/aas/3/0/IdentifierType/IRI](http://admin-shell.io/aas/3/0/IdentifierType/IRI) The IdentifierType IRI of the IdentifierType class as defined in IDTA-01001-3-0.
-
-
-## IdentifierKeyValuePair
- An IdentifierKeyValuePair describes a generic identifier as key-value pair.
-
- [https://admin-shell.io/aas/3/0/IdentifierKeyValuePair](https://admin-shell.io/aas/3/0/IdentifierKeyValuePair) The IdentifierKeyValuePair class as defined in IDTA-01001-3-0.
-
-## IdentifierKeyValuePair/key
- Key of the identifier.
-
- [https://admin-shell.io/aas/3/0/IdentifierKeyValuePair/key](https://admin-shell.io/aas/3/0/IdentifierKeyValuePair/key) The key attribute of the IdentifierKeyValuePair as defined in IDTA-01001-3-0.
-
-## IdentifierKeyValuePair/value
- The value of the identifier with the corresponding key.
-
- [https://admin-shell.io/aas/3/0/IdentifierKeyValuePair/value](https://admin-shell.io/aas/3/0/IdentifierKeyValuePair/value) The value attribute of the IdentifierKeyValuePair as defined in IDTA-01001-3-0.
-
-## IdentifierKeyValuePair/externalSubjectId
- The (external) subject the key belongs to or has meaning to.
-
- [https://admin-shell.io/aas/3/0/IdentifierKeyValuePair/externalSubjectId](https://admin-shell.io/aas/3/0/IdentifierKeyValuePair/externalSubjectId) The externalSubjectId attribute of the IdentifierKeyValuePair as defined in IDTA-01001-3-0.
 
 ## Key
  A key is a reference to an element by its id.
 
  [http://admin-shell.io/aas/3/0/Key](http://admin-shell.io/aas/3/0/Key) The Key class as defined in IDTA-01001-3-0.
-
-
-## Key/idType
- Type of the key value. In case of idType = idShort local shall be true. In case type=GlobalReference idType shall not be IdShort.
-
- [http://admin-shell.io/aas/3/0/Key/idType](http://admin-shell.io/aas/3/0/Key/idType) The attribute idType of the Key class as defined in IDTA-01001-3-0.
 
 
 ## Key/type
@@ -726,29 +1165,139 @@ An event element.
  [http://admin-shell.io/aas/3/0/Key/value](http://admin-shell.io/aas/3/0/Key/value) The attribute value of the Key class as defined in IDTA-01001-3-0.
 
 
-## KeyElement
- Enumeration of different key value types within a key. Contains KeyElements, ReferableElements, and IdentifiableElements.
-
- [http://admin-shell.io/aas/3/0/KeyElement](http://admin-shell.io/aas/3/0/KeyElement) The KeyElement class as defined in IDTA-01001-3-0.
-
-
-## KeyElement/FRAGMENT_REFERENCE
-
-
- [http://admin-shell.io/aas/3/0/KeyElement/FRAGMENT_REFERENCE](http://admin-shell.io/aas/3/0/KeyElement/FRAGMENT_REFERENCE) The KeyElement FRAGMENT_REFERENCET of the KeyElement class as defined in IDTA-01001-3-0.
-
-
-## KeyElement/GLOBAL_REFERENCE
- reference to an element not belonging to an asset administration shell
-
- [http://admin-shell.io/aas/3/0/KeyElement/GLOBAL_REFERENCE](http://admin-shell.io/aas/3/0/KeyElement/GLOBAL_REFERENCE) The KeyElement GLOBAL_REFERENCE of the KeyElement class as defined in IDTA-01001-3-0.
-
 
 ## KeyTypes
- Enumeration of different key value types within a key.
+ Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
+
+ [https://admin-shell.io/aas/3/0/KeyTypes](https://admin-shell.io/aas/3/0/KeyTypes) The KeyTypes class as defined in IDTA-01001-3-0.
+ 
 
 
- [http://admin-shell.io/aas/3/0/KeyType](http://admin-shell.io/aas/3/0/KeyType) The KeyType class as defined in IDTA-01001-3-0.
+## KeyTypes/AnnotatedRelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/AnnotatedRelationshipElement](https://admin-shell.io/aas/3/0/KeyTypes/AnnotatedRelationshipElement) The value AnnotatedRelationshipElement of the KeyTypes class as defined in IDTA-01001-3-0.
+ 
+# KeyTypes/AssetAdministrationShell
+  Asset Administration Shell
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/AssetAdministrationShell](https://admin-shell.io/aas/3/0/KeyTypes/AssetAdministrationShell) The value AssetAdministrationShell of the KeyTypes class as defined in IDTA-01001-3-0. 
+
+
+## KeyTypes/BasicEventElement
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/BasicEventElement](https://admin-shell.io/aas/3/0/KeyTypes/BasicEventElement) The value BasicEventElement of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Blob
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Blob](https://admin-shell.io/aas/3/0/KeyTypes/Blob) The value Blob of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Capability
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Capability](https://admin-shell.io/aas/3/0/KeyTypes/Capability) The value Capability of the KeyTypes class as defined in IDTA-01001-3-0.
+
+
+## KeyTypes/ConceptDescription
+  Concept Description
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/ConceptDescription](https://admin-shell.io/aas/3/0/KeyTypes/ConceptDescription) The value ConceptDescription of the KeyTypes class as defined in IDTA-01001-3-0. 
+
+
+## KeyTypes/DataElement
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/DataElement](https://admin-shell.io/aas/3/0/KeyTypes/DataElement) The value DataElement of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Entity
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Entity](https://admin-shell.io/aas/3/0/KeyTypes/Entity) The value Entity of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/EventElement
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/EventElement](https://admin-shell.io/aas/3/0/KeyTypes/EventElement) The value  EventElement of the KeyTypes class as defined in IDTA-01001-3-0.
+ 
+## KeyTypes/File
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/File](https://admin-shell.io/aas/3/0/KeyTypes/File) The value File of the KeyTypes class as defined in IDTA-01001-3-0.
+ 
+## KeyTypes/FragmentReference
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/FragmentReference](https://admin-shell.io/aas/3/0/KeyTypes/FragmentReference) The value FragmentReference of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/GlobalReference
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/GlobalReference](https://admin-shell.io/aas/3/0/KeyTypes/GlobalReference) The value GlobalReference of the KeyTypes class as defined in IDTA-01001-3-0.
+ 
+ 
+## KeyTypes/Identifiable
+  Identifiable
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Identifiable](https://admin-shell.io/aas/3/0/KeyTypes/Identifiable) The value Identifiable  of the KeyTypes class as defined in IDTA-01001-3-0.  
+ 
+
+## KeyTypes/MultiLanguageProperty
+ Property with a value that can be provided in multiple languages.
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/MultiLanguageProperty](https://admin-shell.io/aas/3/0/KeyTypes/MultiLanguageProperty) The KeyTypes MultiLanguageProperty of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Operation
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Operation](https://admin-shell.io/aas/3/0/KeyTypes/Operation) The KeyTypes Operation of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Property
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Property](https://admin-shell.io/aas/3/0/KeyTypes/Property) The value Property of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Range
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Range](https://admin-shell.io/aas/3/0/KeyTypes/Range) The value Range of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Referable
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Referable](https://admin-shell.io/aas/3/0/KeyTypes/Referable) The value Referable of the KeyTypes class as defined in IDTA-01001-3-0.
+
+
+## KeyTypes/ReferenceElement
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/ReferenceElement](https://admin-shell.io/aas/3/0/KeyTypes/ReferenceElement) The value ReferenceElement of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/RelationshipElement
+
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/RelationshipElement](https://admin-shell.io/aas/3/0/KeyTypes/RelationshipElement) The value RelationshipElement of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/Submodel
+  Submodel
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/Submodel](https://admin-shell.io/aas/3/0/KeyTypes/Submodel) The value Submodel of the KeyTypes class as defined in IDTA-01001-3-0.  
+ 
+
+## KeyTypes/SubmodelElement
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/SubmodelElement](https://admin-shell.io/aas/3/0/KeyTypes/SubmodelElement) The value SubmodelElement of the KeyTypes class as defined in IDTA-01001-3-0.
+
+## KeyTypes/SubmodelElementCollection
+ Collection of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/SubmodelElementCollection](https://admin-shell.io/aas/3/0/KeyTypes/SubmodelElementCollection) The value SubmodelElementCollection of the KeyTypes class as defined in IDTA-01001-3-0.
+ 
+## KeyTypes/SubmodelElementList
+ List of set of Submodel Elements
+
+ [https://admin-shell.io/aas/3/0/KeyTypes/SubmodelElementList](https://admin-shell.io/aas/3/0/KeyTypes/SubmodelElementList) The value SubmodelElementList of the KeyTypes class as defined in IDTA-01001-3-0.
+
 
 
 ## LevelType
@@ -756,61 +1305,66 @@ An event element.
 
  [https://admin-shell.io/aas/3/0/LevelType](https://admin-shell.io/aas/3/0/LevelType) The LevelType class as defined in IDTA-01003-a-3-0.
 
-## LevelType/Min
+## LevelType/min
  Min according to IEC 61360 as an Identifier scheme for minimal levels.
 
- [https://admin-shell.io/aas/3/0/LevelType/MIN](https://admin-shell.io/aas/3/0/LevelType/MIN) The MIN of the LevelType class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/LevelType/MIN](https://admin-shell.io/aas/3/0/LevelType/MIN) The attribute min of the LevelType class as defined in IDTA-01001-3-0.
 
-## LevelType/MAX
- MAX according to IEC 61360 as an Identifier scheme for maximal levels.
+## LevelType/max
+ Max according to IEC 61360 as an Identifier scheme for maximal levels.
 
- [https://admin-shell.io/aas/3/0/LevelType/MAX](https://admin-shell.io/aas/3/0/LevelType/MAX) The MAX of the LevelType class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/LevelType/max](https://admin-shell.io/aas/3/0/LevelType/MAX) The attribute max of the LevelType class as defined in IDTA-01001-3-0.
 
-## LevelType/NOM
- NOM according to IEC 61360 as an Identifier scheme for nominal levels.
+## LevelType/nom
+ nominal according to IEC 61360 as an Identifier scheme for nominal levels.
 
- [https://admin-shell.io/aas/3/0/LevelType/NOM](https://admin-shell.io/aas/3/0/LevelType/NOM) The NOM of the LevelType class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/LevelType/nom](https://admin-shell.io/aas/3/0/LevelType/nom) The attribute nom of the LevelType class as defined in IDTA-01001-3-0.
 
-## LevelType/TYP
+## LevelType/type
  TYP according to IEC 61360 as an Identifier scheme for typical levels.
 
- [https://admin-shell.io/aas/3/0/LevelType/TYP](https://admin-shell.io/aas/3/0/LevelType/TYP) The TYP of the LevelType class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/LevelType/typ](https://admin-shell.io/aas/3/0/LevelType/typ) The attribute typ of the LevelType class as defined in IDTA-01001-3-0.
 
-## LocalKeyType
- Enumeration of different key value types within a key.
-
-
- [http://admin-shell.io/aas/3/0/LocalKeyType](http://admin-shell.io/aas/3/0/LocalKeyType) The LocalKeyType class as defined in IDTA-01001-3-0.
+## LabelType
 
 
-## LocalKeyType/FRAGMENT_ID
- Identifier of a fragment within a file
+ [http://admin-shell.io/aas/3/0/LabelType](http://admin-shell.io/aas/3/0/LabelType) The LabelType data type as defined in IDTA-01001-3-0.
+
+## LangStringSet
 
 
- [http://admin-shell.io/aas/3/0/LocalKeyType/FRAGMENT_ID](http://admin-shell.io/aas/3/0/LocalKeyType/FRAGMENT_ID) The LocalKeyType FRAGMENT_ID of the LocalKeyType class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/LangStringSet](http://admin-shell.io/aas/3/0/LangStringSet) The LangStringSet data type as defined in IDTA-01001-3-0.
+
+## MessageTopicType
 
 
-## LocalKeyType/IDSHORT
- idShort of a referable element
-
- [http://admin-shell.io/aas/3/0/LocalKeyType/IDSHORT](http://admin-shell.io/aas/3/0/LocalKeyType/IDSHORT) The LocalKeyType IDSHORT of the LocalKeyType class as defined in IDTA-01001-3-0.
-
+ [http://admin-shell.io/aas/3/0/MessageTopicType](http://admin-shell.io/aas/3/0/MessageTopicType) The MessageTopicType data type as defined in IDTA-01001-3-0.
 
 ## ModellingKind
  Enumeration for denoting whether an element is a type or an instance.
 
  [https://admin-shell.io/aas/3/0/ModellingKind](https://admin-shell.io/aas/3/0/ModellingKind) The ModellingKind class as defined IDTA-01001-3-0.
 
-## ModelingKind/Instance
+## ModellingKind/Instance
  Concrete, clearly identifiable component of a certain template.
 
- [http://admin-shell.io/aas/3/0/ModelingKind/INSTANCE](http://admin-shell.io/aas/3/0/ModelingKind/INSTANCE) The NamedIndividual INSTANCE of the ModelingKind class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/ModellingKind/INSTANCE](http://admin-shell.io/aas/3/0/ModellingKind/INSTANCE) The NamedIndividual INSTANCE of the ModelingKind class as defined in IDTA-01001-3-0.
 
 
-## ModelingKind/TEMPLATE
+## ModellingKind/Template
  Software element which specifies the common attributes shared by all instances of the template.
 
- [http://admin-shell.io/aas/3/0/ModelingKind/TEMPLATE](http://admin-shell.io/aas/3/0/ModelingKind/TEMPLATE) The NamedIndividual TEMPLATE of the ModelingKind class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/ModellingKind/Template](http://admin-shell.io/aas/3/0/ModellingKind/Template) The NamedIndividual Templateof the ModellingKind class as defined in IDTA-01001-3-0.
+
+## MultiLanguageNameType
+
+
+ [http://admin-shell.io/aas/3/0/MultiLanguageNameType](http://admin-shell.io/aas/3/0/MultiLanguageNameType) The MultiLanguageNameType data type as defined in IDTA-01001-3-0.
+
+## MultiLanguageTextType
+
+
+ [http://admin-shell.io/aas/3/0/MultiLanguageTextType](http://admin-shell.io/aas/3/0/MultiLanguageTextType) The MultiLanguageTextType data type as defined in IDTA-01001-3-0.
 
 
 ## MultiLanguageProperty
@@ -829,32 +1383,37 @@ An event element.
 
  [https://admin-shell.io/aas/3/0/MultiLanguageProperty/valueId](https://admin-shell.io/aas/3/0/MultiLanguageProperty/valueId) The attribute valueId of the MultiLanguageProperty class as defined in IDTA-01001-3-0.
 
+## NameType
+
+
+ [http://admin-shell.io/aas/3/0/NameType](http://admin-shell.io/aas/3/0/NameType) The NameType data type as defined in IDTA-01001-3-0.
+
 ## Operation
  An operation is a submodel element with input and output variables.
 
  [http://admin-shell.io/aas/3/0/Operation](http://admin-shell.io/aas/3/0/Operation) The Operation class as defined in IDTA-01001-3-0.
 
 
-## Operation/inoutputVariable
- Parameter that is input and output of the operation.
+## Operation/inoutputVariables
+ Parameters that is input and output of the operation.
 
- [http://admin-shell.io/aas/3/0/Operation/inoutputVariable](http://admin-shell.io/aas/3/0/Operation/inoutputVariable) The attribute inoutputVariable of the Operation class as defined in IDTA-01001-3-0.
-
-
-## Operation/inputVariable
- Input parameter of the operation.
-
- [http://admin-shell.io/aas/3/0/Operation/inputVariable](http://admin-shell.io/aas/3/0/Operation/inputVariable) The attribute inputVariable of the Operation class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/Operation/inoutputVariables](http://admin-shell.io/aas/3/0/Operation/inoutputVariables) The attribute inoutputVariable of the Operation class as defined in IDTA-01001-3-0.
 
 
-## Operation/outputVariable
- Output parameter of the operation.
+## Operation/inputVariables
+ Input parameters of the operation.
+
+ [http://admin-shell.io/aas/3/0/Operation/inputVariables](http://admin-shell.io/aas/3/0/Operation/inputVariables) The attribute inputVariable of the Operation class as defined in IDTA-01001-3-0.
+
+
+## Operation/outputVariables
+ Output parameters of the operation.
 
  [http://admin-shell.io/aas/3/0/Operation/outputVariable](http://admin-shell.io/aas/3/0/Operation/outputVariable) The attribute outputVariable of the Operation class as defined in IDTA-01001-3-0.
 
 
 ## OperationVariable
-
+  
 
  [http://admin-shell.io/aas/3/0/OperationVariable](http://admin-shell.io/aas/3/0/OperationVariable) The OperationVariable class as defined in IDTA-01001-3-0.
 
@@ -864,13 +1423,15 @@ An event element.
 
  [http://admin-shell.io/aas/3/0/OperationVariable/value](http://admin-shell.io/aas/3/0/OperationVariable/value) The attribute value of the OperationVariable class as defined in IDTA-01001-3-0.
 
+## PathType
 
+
+ [http://admin-shell.io/aas/3/0/PathType](http://admin-shell.io/aas/3/0/PathType) The PathType data type as defined in IDTA-01001-3-0.
+ 
 ## Property
  A property is a data element that has a single value.
 
  [http://admin-shell.io/aas/3/0/Property](http://admin-shell.io/aas/3/0/Property) The Property class as defined in IDTA-01001-3-0.
-
-
 
 
 ## Property/value
@@ -888,16 +1449,17 @@ An event element.
  Data type of the value attribute.
 
  [https://admin-shell.io/aas/3/0/Property/valueType](https://admin-shell.io/aas/3/0/Property/valueType) The attribute valueType of the Property class as defined in IDTA-01001-3-0. 
+ 
 ## Qualifiable
  Additional qualification of a qualifiable element.
 
  [http://admin-shell.io/aas/3/0/Qualifiable](http://admin-shell.io/aas/3/0/Qualifiable) The Qualifiable class as defined in IDTA-01001-3-0.
 
 
-## Qualifiable/qualifier
- Additional qualification of a qualifiable element.
+## Qualifiable/qualifiers
+ Additional qualification elements of a qualifiable element.
 
- [http://admin-shell.io/aas/3/0/Qualifiable/qualifier](http://admin-shell.io/aas/3/0/Qualifiable/qualifier) The attribute qualifier of the Qualifiable class as defined in IDTA-01001-3-0.
+ [http://admin-shell.io/aas/3/0/Qualifiable/qualifiers](http://admin-shell.io/aas/3/0/Qualifiable/qualifiers) The attribute qualifier of the Qualifiable class as defined in IDTA-01001-3-0.
 
 
 ## Qualifier
@@ -931,6 +1493,13 @@ An event element.
   Data type of the qualifier value.
 
  [https://admin-shell.io/aas/3/0/Qualifier/valueType](https://admin-shell.io/aas/3/0/Qualifier/valueType) The attribute valueType of the Qualifier class as defined in IDTA-01001-3-0.
+ 
+## QualifierType
+
+
+ [http://admin-shell.io/aas/3/0/QualifierType](http://admin-shell.io/aas/3/0/QualifierType) The QualifierType data type as defined in IDTA-01001-3-0.
+ 
+ 
  
 ## Range
  An element that is referable by its idShort. This id is not globally unique. This id is unique within the name space of the element.
@@ -983,140 +1552,7 @@ An event element.
 
  [http://admin-shell.io/aas/3/0/Referable/idShort](http://admin-shell.io/aas/3/0/Referable/idShort) The attribute idShort of the Referable class as defined in IDTA-01001-3-0.
 
-## AasIdentifiables
- Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
 
- [https://admin-shell.io/aas/3/0/AasIdentifiables](https://admin-shell.io/aas/3/0/AasIdentifiables) The AasIdentifiables class as defined in IDTA-01001-3-0.
- 
-## AasIdentifiables/ASSET_ADMINISTRATION_SHELL
-  Asset Administration Shell
-
- [https://admin-shell.io/aas/3/0/AasIdentifiables/ASSET_ADMINISTRATION_SHELL](https://admin-shell.io/aas/3/0/AasIdentifiables/ASSET_ADMINISTRATION_SHELL) The value ASSET_ADMINISTRATION_SHELL  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
-
-## AasIdentifiables/CONCEPT_DESCRIPTION
-  Concept Description
-
- [https://admin-shell.io/aas/3/0/AasIdentifiables/CONCEPT_DESCRIPTION](https://admin-shell.io/aas/3/0/AasIdentifiables/CONCEPT_DESCRIPTION) The value CONCEPT_DESCRIPTION  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
-
-## AasIdentifiables/IDENTIFIABLE
-  Identifiable
-
- [https://admin-shell.io/aas/3/0/AasIdentifiables/IDENTIFIABLE](https://admin-shell.io/aas/3/0/AasIdentifiables/IDENTIFIABLE) The value IDENTIFIABLE  of the AasIdentifiables class as defined in IDTA-01001-3-0.  
- 
-## AasIdentifiables/SUBMODEL
-  Submodel
-
- [https://admin-shell.io/aas/3/0/AasIdentifiables/SUBMODEL](https://admin-shell.io/aas/3/0/AasIdentifiables/SUBMODEL) The value SUBMODEL of the AasIdentifiables class as defined in IDTA-01001-3-0.  
-
-## AasSubmodelElements
- Enumeration of all referable elements within an asset administration shell. Contains IdentifiableElements
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements](https://admin-shell.io/aas/3/0/AasSubmodelElements) The AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-
-## AasSubmodelElements/AnnotatedRelationshipElement
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/AnnotatedRelationshipElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/AnnotatedRelationshipElement) The AasSubmodelElements AnnotatedRelationshipElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/BasicEventElement
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/BasicEventElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/BasicEventElement) The AasSubmodelElements BasicEventElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/Blob
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/Blob](https://admin-shell.io/aas/3/0/AasSubmodelElements/Blob) The AasSubmodelElements Blob of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/Capability
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/Capability](https://admin-shell.io/aas/3/0/AasSubmodelElements/Capability) The AasSubmodelElements Capability of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-
-## AasSubmodelElements/DataElement
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/DataElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/DataElement) The AasSubmodelElements DataElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/Entity
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/Entity](https://admin-shell.io/aas/3/0/AasSubmodelElements/Entity) The AasSubmodelElements Entity of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/EventElement
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/EventElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/EventElement) The AasSubmodelElements EventElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
- 
-## AasSubmodelElements/File
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/File](https://admin-shell.io/aas/3/0/AasSubmodelElements/File) The AasSubmodelElements File of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## ReferableElement/MultiLanguageProperty
- Property with a value that can be provided in multiple languages.
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/MultiLanguageProperty](https://admin-shell.io/aas/3/0/AasSubmodelElements/MultiLanguageProperty) The AasSubmodelElements MultiLanguageProperty of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/Operation
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/Operation](https://admin-shell.io/aas/3/0/AasSubmodelElements/Operation) The AasSubmodelElements Operation of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/Property
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/Property](https://admin-shell.io/aas/3/0/AasSubmodelElements/Property) The AasSubmodelElements Property of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/Range
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/Range](https://admin-shell.io/aas/3/0/AasSubmodelElements/Range) The AasSubmodelElements Range of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/ReferenceElement
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/ReferenceElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/ReferenceElement) The AasSubmodelElements ReferenceElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/RelationshipElement
-
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/RelationshipElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/RelationshipElement) The AasSubmodelElements RelationshipElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-
-## AasSubmodelElements/SubmodelElement
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElement](https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElement) The AasSubmodelElements SubmodelElement of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## AasSubmodelElements/SubmodelElementCollection
- Collection of Submodel Elements
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElementCollection](https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElementCollection) The AasSubmodelElements SubmodelElementCollection of the AasSubmodelElements class as defined in IDTA-01001-3-0.
- 
-## AasSubmodelElements/SubmodelElementList
- List or set of Submodel Elements
-
- [https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElementList](https://admin-shell.io/aas/3/0/AasSubmodelElements/SubmodelElementList) The AasSubmodelElements SubmodelElementList of the AasSubmodelElements class as defined in IDTA-01001-3-0.
-
-## GenericFragmentKeys
- Enumeration of different fragment key value types within a key
-
- [https://admin-shell.io/aas/3/0/GenericFragmentKeys](https://admin-shell.io/aas/3/0/GenericFragmentKeys) The GenericFragmentKeys class as defined in IDTA-01001-3-0.
-
-## GenericFragmentKeys/FragmentReference
- Bookmark or a similar local identifier of a subordinate part of a primary resource
-
- [https://admin-shell.io/aas/3/0/GenericFragmentKeys/FragmentReference](https://admin-shell.io/aas/3/0/GenericFragmentKeys/FragmentReference) The value FragmentReference of the GenericFragmentKeys class as defined in IDTA-01001-3-0.
- 
- ## GenericGloballyIdentifiables
- Enumeration of different key value types within a key
-
- [https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables](https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables) The GenericGloballyIdentifiables class as defined in IDTA-01001-3-0.
-
-## GenericGloballyIdentifiables/GlobalReference
-
- [https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables/GlobalReference](https://admin-shell.io/aas/3/0/GenericGloballyIdentifiables/GlobalReference) The value GlobalReference of the GenericGloballyIdentifiables class as defined in IDTA-01001-3-0.
 
 ## Reference
  Reference to either a model element of the same or another AAs or to an external entity. A reference is an ordered list of keys, each key referencing an element. The complete list of keys may for example be concatenated to a path that then gives unique access to an element or entity.
@@ -1125,7 +1561,7 @@ An event element.
 
 
 ## Reference/keys
- Unique reference in its name space.
+  ordered list of keys
 
  [https://admin-shell.io/aas/3/0/Reference/keys](https://admin-shell.io/aas/3/0/Reference/keys) The attribute key of the Reference class as defined in IDTA-01001-3-0.
 
@@ -1136,6 +1572,7 @@ An event element.
 
 ## Reference/type
  Type of the reference
+ 
 Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/0/Reference/type](https://admin-shell.io/aas/3/0/Reference/type) The attribute type of the Reference class as defined in IDTA-01001-3-0.
@@ -1155,20 +1592,16 @@ Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/0/ReferenceTypes](https://admin-shell.io/aas/3/0/ReferenceTypes) The  ReferenceTypes class as defined in IDTA-01001-3-0.
  
- ## ReferenceTypes
- Enumeration for denoting whether an element is an external or model reference
-
- [https://admin-shell.io/aas/3/0/ReferenceTypes](https://admin-shell.io/aas/3/0/ReferenceElement/value) The  ReferenceTypes class as defined in IDTA-01001-3-0.
- 
-## ReferenceTypes/EXTERNAL_REFERENCE
+## ReferenceTypes/ExternalReference
  External reference
 
- [https://admin-shell.io/aas/3/0/ReferenceTypes/EXTERNAL_REFERENCE](https://admin-shell.io/aas/3/0/eferenceTypes/EXTERNAL_REFERENCE) The value EXTERNAL_REFERENCE of the ReferenceTypes class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/ReferenceTypes/ExternalReference](https://admin-shell.io/aas/3/0/eferenceTypes/ExternalReference) The value ExternalReference of the ReferenceTypes class as defined in IDTA-01001-3-0.
 
-## ReferenceTypes/MODEL_REFERENCE
+## ReferenceTypes/ModelReference
  Model reference
 
- [https://admin-shell.io/aas/3/0/ReferenceTypes/MODEL_REFERENCE](https://admin-shell.io/aas/3/0/eferenceTypes/MODEL_REFERENCE) The value MODEL_REFERENCE of the ReferenceTypes class as defined in IDTA-01001-3-0.
+ [https://admin-shell.io/aas/3/0/ReferenceTypes/ModelReference](https://admin-shell.io/aas/3/0/eferenceTypes/ModelReference) The value ModelReference of the ReferenceTypes class as defined in IDTA-01001-3-0.
+
 ## RelationshipElement
 
 
@@ -1207,6 +1640,12 @@ Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/0/Resource/path](https://admin-shell.io/aas/3/0/Resource/path) The attribute path of the Resource class as defined in IDTA-01001-3-0.
  
+## RevisionType
+
+
+ [http://admin-shell.io/aas/3/0/RevisionType](http://admin-shell.io/aas/3/0/RevisionType) The RevisionType data type as defined in IDTA-01001-3-0.
+ 
+ 
 ## SpecificAssetId
  A specific asset ID describes a generic supplementary identifying attribute of the asset. The specific asset ID is not necessarily globally unique.
 
@@ -1216,6 +1655,7 @@ Denotes whether reference is an external reference or a model reference
  The unique ID of the (external) subject the specific asset ID value belongs to or has meaning to.
 
  [http://admin-shell.io/aas/3/0/SpecificAssetId/externalSubjectId](http://admin-shell.io/aas/3/0/SpecificAssetId/externalSubjectId) The attribute externalSubjectId  of the SpecificAsetId class as defined in IDTA-01001-3-0.
+
 ## SpecificAssetId/name
  Name of the asset identifier.
 
@@ -1289,6 +1729,34 @@ Default: True
 
  [https://admin-shell.io/aas/3/0/SubmodelElementList/valueTypeListElement](https://admin-shell.io/aas/3/0/SubmodelElementList/valueTypeListElement) The attribute valueTypeListElement of the SubmodelElementList class as defined in IDTA-01001-3-0.
 
+## StateOfEvent
+ Enumeration for state of an event element.
+
+ [http://admin-shell.io/aas/3/0/StateOfEvent](http://admin-shell.io/aas/3/0/StateOfEvent The StateOfEvent class as defined in IDTA-01001-3-0.
+
+
+## StateOfEvent/on
+
+
+ [http://admin-shell.io/aas/3/0/StateOfEvent/on](http://admin-shell.io/aas/3/0/StateOfEvent/on) The value in of the enumeration class StateOfEvent as defined in IDTA-01001-3-0.
+
+## StateOfEvent/off
+
+
+ [http://admin-shell.io/aas/3/0/StateOfEvent/off](http://admin-shell.io/aas/3/0/StateOfEvent/off) The value offof the enumeration class StateOfEvent as defined in IDTA-01001-3-0.
+
+## ValueDataType
+
+
+ [http://admin-shell.io/aas/3/0/ValueDataType](http://admin-shell.io/aas/3/0/ValueDataType) The  ValueDataType data type as defined in IDTA-01001-3-0.
+ 
+
+## VersionType
+
+
+ [http://admin-shell.io/aas/3/0/VersionType](http://admin-shell.io/aas/3/0/VersionType) The VersionType data type as defined in IDTA-01001-3-0.
+ 
+ 
 
 ## Status: `approved`
 

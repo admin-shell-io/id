@@ -30,6 +30,5 @@ Plattform Industrie 4.0, ZVEI, 2019
 between partners in the value chain of Industrie 4.0', Version 2.0.1,
 Plattform Industrie 4.0, ZVEI, 2020
 
-[4] ['Details of the Asset Administration Shell Part 1, The exchange of information
-between partners in the value chain of Industrie 4.0'](https://www.plattform-i40.de/IP/Redaktion/EN/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html), Version 3.0,
+[4] ['Specification of the Asset Administration Shell - Part 1: Metamodel'](https://industrialdigitaltwin.org/en/content-hub/aasspecificationsl), Version 3.0,
 Plattform Industrie 4.0, ZVEI, 2020

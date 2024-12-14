@@ -18,9 +18,7 @@ third is currently finalized:
 Part 2 (Application Programming Interfaces) is available in the sub-namespace [API](./API/).
 
 
-[1] ['Details of the Asset Administration Shell Part 1, The exchange of information
-between partners in the value chain of Industrie 4.0'](), Version 1.0,
-Plattform Industrie 4.0, ZVEI, 2018
+[4] ['Specification of the Asset Administration Shell - Part 1: Metamodel'](https://industrialdigitaltwin.org/en/content-hub/aasspecifications), Version 3.0,
 
 [2] ['Details of the Asset Administration Shell Part 1, The exchange of information
 between partners in the value chain of Industrie 4.0'](), Version 2.0,

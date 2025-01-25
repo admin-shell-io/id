@@ -21,7 +21,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-0. 
 ## AasIdentifiables/AssetAdministrationShell
   Asset Administration Shell
 
- [https://admin-shell.io/aas/3/0/AasIdentifiables/AssetAdministrationShel](https://admin-shell.io/aas/3/0/AasIdentifiables/AssetAdministrationShel) The value AssetAdministrationShel  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
+ [https://admin-shell.io/aas/3/0/AasIdentifiables/AssetAdministrationShel](https://admin-shell.io/aas/3/0/AasIdentifiables/AssetAdministrationShel) The value AssetAdministrationShell  of the AasIdentifiables class as defined in IDTA-01001-3-0. 
 
 ## AasIdentifiables/ConceptDescription
   Concept Description

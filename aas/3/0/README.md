@@ -648,17 +648,17 @@ Content type of the content of the Blob. The mime type states which file extensi
 ## DataSpecificationIec61360
  Data Specification Template for defining Property Descriptions conformant to IEC 61360.
 
- [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360) The DataSpecificationIec61360 class as defined in DTA-01003-a-3-0.
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360) The DataSpecificationIec61360 class as defined in IDTA-01003-a-3-0.
 
 ## DataSpecificationIec61360/datatype
 
 
- [ https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/dataType]( https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/dataType) The attribute dataType of the DataSpecificationIec61360 class as defined in DTA-01003-a-3-0.
+ [ https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/dataType]( https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/dataType) The attribute dataType of the DataSpecificationIec61360 class as defined in IDTA-01003-a-3-0.
 
 ## DataSpecificationIec61360/definition
 
 	Definition of the concept in multiple languages
- [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/definition](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/definition) The attribute definition of the DataSpecificationIec61360 class as defined in DTA-01003-a-3-0.
+ [https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/definition](https://admin-shell.io/DataSpecificationTemplates/DataSpecificationIec61360/3/0/DataSpecificationIec61360/definition) The attribute definition of the DataSpecificationIec61360 class as defined in IDTA-01003-a-3-0.
 
 ## DataSpecificationIec61360/levelType
 

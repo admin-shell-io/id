@@ -12,7 +12,7 @@ The Metamodel itself is defined in the 'IDTA-01001-3-1 Specification of the Asse
 The sub-namespace AAS have been accepted by the Coordination Board.
 The identifiers are derived following the grammar as defined in IDTA-01001-3-1. The grammar has been accepted by the Coordination Board
 
-// Enum AasContainerSubmodelElements
+<!--- Enum AasContainerSubmodelElements --->
 
 ## AasContainerSubmodelElements
  Enumeration of all submodel elements that are composed of others
@@ -45,7 +45,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [https://admin-shell.io/aas/3/1/AasContainerSubmodelElements/SubmodelElementList](https://admin-shell.io/aas/3/1/AasContainerSubmodelElements/SubmodelElementList) The NamedIndividual SubmodelElementList of the AasContainerSubmodelElements class as defined in IDTA-01001-3-1. 
 
-// Enum AasIdentifiables
+<!--- Enum AasIdentifiables --->
 
 ## AasIdentifiables
  Enumeration of all referable elements within an Asset Administration Shell. 
@@ -75,7 +75,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
  [https://admin-shell.io/aas/3/1/AasIdentifiables/Submodel](https://admin-shell.io/aas/3/1/AasIdentifiables/Submodel) The NamedIndividual Submodel of the AasIdentifiables class as defined in IDTA-01001-3-1.  
  
 
-// Enum AasNonContainerSubmodelElements
+<!--- Enum AasNonContainerSubmodelElements --->
 
 ## AasNonContainerSubmodelElements
  Enumeration of all submodel elements that are not composed of others
@@ -149,7 +149,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
  [https://admin-shell.io/aas/3/1/AasNonContainerSubmodelElements/SubmodelElement](https://admin-shell.io/aas/3/1/AasNonContainerSubmodelElements/SubmodelElement) The NamedIndividual SubmodelElement of the AasNonContainerSubmodelElements class as defined in IDTA-01001-3-1.
 
 
-// Enum AasReferableNonIdentifiables
+<!--- Enum AasReferableNonIdentifiables --->
  
 ## AasReferableNonIdentifiables
 
@@ -248,7 +248,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
  [https://admin-shell.io/aas/3/1/AasReferableNonIdentifiables/SubmodelElementList](https://admin-shell.io/aas/3/1/AasReferableNonIdentifiables/SubmodelElementList) The NamedIndividual SubmodelElementList of the AasReferableNonIdentifiables class as defined in IDTA-01001-3-1.
 
 
-// Enum AasReferables
+<!--- Enum AasReferables --->
 
 ## AasReferables
  Enumeration of all referable elements within an Asset Administration Shell. 
@@ -374,7 +374,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [https://admin-shell.io/aas/3/1/AasReferables/SubmodelElementList](https://admin-shell.io/aas/3/1/AasReferables/SubmodelElementList) The NamedIndividual SubmodelElementList of the AasReferables class as defined in IDTA-01001-3-1.
 
-// Enum AasSubmodelElements
+<!--- Enum AasSubmodelElements --->
 
 ## AasSubmodelElements
  Enumeration of all submodel elements within an Asset Administration Shell. 
@@ -470,7 +470,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [https://admin-shell.io/aas/3/1/AasSubmodelElements/SubmodelElementList](https://admin-shell.io/aas/3/1/AasSubmodelElements/SubmodelElementList) The NamedIndividual SubmodelElementList of the AasSubmodelElements class as defined in IDTA-01001-3-1.
 
-// AdministrativeInformation
+<!--- AdministrativeInformation --->
 
 ## AdministrativeInformation
  Every Identifiable may have administrative information. Administrative information includes for example 
@@ -501,7 +501,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [https://admin-shell.io/aas/3/1/AdministrativeInformation/version](https://admin-shell.io/aas/3/1/AdministrativeInformation/version) The attribute version of the AdministrativeInformation class as defined in IDTA-01001-3-1.
 
-// Submodel Element AnnotatedRelationshipElement
+<!--- Submodel Element AnnotatedRelationshipElement --->
 
 ## AnnotatedRelationshipElement
  An annotated relationship element is an relationship element that can be annotated with additional data elements.
@@ -515,7 +515,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
  [http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement/annotations](http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement/annotations) The attribute annotation of the AnnotatedRelationshipElement class as defined in IDTA-01001-3-1.
 
 
-// AssetAdministrationShell
+<!--- AssetAdministrationShell --->
 
 ## AssetAdministrationShell
  Describes the Administration Shell for Assets, Products, Components, e.g. Machines
@@ -542,7 +542,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
  [http://admin-shell.io/aas/3/1/AssetAdministrationShell/submodels](http://admin-shell.io/aas/3/1/AssetAdministrationShell/submodels) The attribute submodel of the AssetAdministrationShell class as defined in IDTA-01001-3-1.
 
 
-// AssetInformation
+<!--- AssetInformation --->
 
 
 ## AssetInformation
@@ -576,7 +576,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [https://admin-shell.io/aas/3/1/AssetInformation/defaultThumbnail](https://admin-shell.io/aas/3/1/AssetInformation/defaultThumbnail) The attribute defaultThumbnail of the AssetInformation class as defined in IDTA-01001-3-1.
 
-// Enum AssetKind
+<!--- Enum AssetKind --->
 
 ## AssetKind
  Enumeration denoting the kind of the asset.
@@ -607,7 +607,7 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
  [http://admin-shell.io/aas/3/1/AssetKind/TYPE](http://admin-shell.io/aas/3/1/AssetKind/TYPE) The NamedIndividual Type of the AssetKind class as defined in IDTA-01001-3-1.
 
 
-// Submodel element BasicEventElement
+<!--- Submodel element BasicEventElement --->
 
 ## BasicEventElement
  A basic event.
@@ -665,7 +665,7 @@ State of event
 
 Can be { on, off }
 
-// Submodel Element Blob
+<!--- Submodel Element Blob --->
 
 ## Blob
  A Blob is a data element that represents a file that is contained with its source code in the value attribute.
@@ -684,21 +684,21 @@ Content type of the content of the Blob. The mime type states which file extensi
  [https://admin-shell.io/aas/3/1/Blob/value](https://admin-shell.io/aas/3/1/Blob/value) The attribute value of the Blob class as defined in IDTA-01001-3-1.
 
 
-// Data Type BlobType
+<!--- Data Type BlobType --->
 
 ## BlobType
 
 
  [http://admin-shell.io/aas/3/1/BlobType](http://admin-shell.io/aas/3/1/BlobType) The BlobType data type as defined in IDTA-01001-3-1.
 
-// Submodel Element Capability
+<!--- Submodel Element Capability --->
 
 ## Capability
  A capability is the implementation-independent description of the potential of an asset to achieve a certain effect in the physical or virtual world.
 
  [http://admin-shell.io/aas/3/1/Capability](http://admin-shell.io/aas/3/1/Capability) The Capability class as defined in IDTA-01001-3-1.
 
-// ConceptDescription
+<!--- ConceptDescription --->
 
 ## ConceptDescription
  The semantics of a property or other elements that may have a semantic description is defined by a concept description. The description of the concept should follow a standardized schema (realized as data specification template).
@@ -711,7 +711,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/ConceptDescription/isCaseOfs](http://admin-shell.io/aas/3/1/ConceptDescription/isCaseOfs) The attribute isCaseOf of the ConceptDescription class as defined in IDTA-01001-3-1.
 
-// Submodel Element ContainerElement
+<!--- Submodel Element ContainerElement --->
 
 ## ContainerElement
 	
@@ -720,14 +720,14 @@ Content type of the content of the Blob. The mime type states which file extensi
  [http://admin-shell.io/aas/3/1/ContainerElement](http://admin-shell.io/aas/3/1/ContainerElement) The ContainerElement class as defined in IDTA-01001-3-1.
 
 
-// Data Type ContentType
+<!--- Data Type ContentType --->
 
 ## ContentType
 
 
  [http://admin-shell.io/aas/3/1/ContentType](http://admin-shell.io/aas/3/1/ContentType) The ContentType data type as defined in IDTA-01001-3-1.
 
-// Submodel Element Data Element
+<!--- Submodel Element Data Element --->
 
 ## DataElement
  A data element is a submodel element that is not further composed out of other submodel elements. 
@@ -737,7 +737,7 @@ Content type of the content of the Blob. The mime type states which file extensi
  [http://admin-shell.io/aas/3/1/DataElement](http://admin-shell.io/aas/3/1/DataElement) The DataElement class as defined in IDTA-01001-3-1.
 
 
-// DataSpecification
+<!--- DataSpecification --->
 
 ## DataSpecification
  DataSpecification contains the additional attributes to be added to the element instance that references the data specification template and meta information about the template itself as well as some meta inforamtion about the template.
@@ -775,7 +775,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
 
 
-// Enum DataTypeDefRdf
+<!--- Enum DataTypeDefRdf --->
 
 ## DataTypeDefRdf
  Enumeration of all RDF data types
@@ -784,7 +784,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
 
 
-// Enum DataTypeDefXsd
+<!--- Enum DataTypeDefXsd --->
 
 ## DataTypeDefXsd
  Enumeration of all RDF data types
@@ -793,7 +793,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
 
 
-// Enum Direction
+<!--- Enum Direction --->
 
 ## Direction
  Enumeration for direction of an event element.
@@ -811,7 +811,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/AssetKind/output](http://admin-shell.io/aas/3/1/AssetKind/output) The NamedIndividual output of the enumeration class Direction as defined in IDTA-01001-3-1.
 
-// Submodel Element Entity
+<!--- Submodel Element Entity --->
 
 ## Entity
  An entity is a submodel element that is used to model entities.
@@ -842,7 +842,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Entity/statements](http://admin-shell.io/aas/3/1/Entity/statements) The attribute statement of the Entity class as defined in IDTA-01001-3-1.
 
-// Enum EntityType
+<!--- Enum EntityType --->
 
 ## EntityType
  Enumeration for denoting whether an entity is a self-managed entity or a co-managed entity.
@@ -887,7 +887,7 @@ Content type of the content of the Blob. The mime type states which file extensi
  [http://admin-shell.io/aas/3/1/Environment/submodels](http://admin-shell.io/aas/3/1/Environment/submodels) The attribute submodel of the Environment class as defined in IDTA-01001-3-1.
 
 
-// Extension
+<!--- Extension --->
 
 ## Extension
  Single extension of an element.
@@ -916,14 +916,14 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/Extension/refersTos](https://admin-shell.io/aas/3/1/Extension/refersTos) The attribute refersTo Extension class as defined in IDTA-01001-3-1.
 
-// Submodel Element EventElement
+<!--- Submodel Element EventElement --->
 
 ## EventElement
  Defines the necessary information for sending or receiving events.
 
  [http://admin-shell.io/aas/3/1/EventElement](http://admin-shell.io/aas/3/1/EventElement) The EventElement class as defined in IDTA-01001-3-1.
 
-// EventPayload
+<!--- EventPayload --->
 
 ## EventPayload
 
@@ -975,7 +975,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/EventPayload/topic](http://admin-shell.io/aas/3/1/EventPayload/topic) The attribute topic of the EventPayload class as defined in IDTA-01001-3-1.
 
-// Submodel Element File
+<!--- Submodel Element File --->
 
 ## File
  A File is a data element that represents a file via its path description.
@@ -993,7 +993,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/File/value](https://admin-shell.io/aas/3/1/File/value) The attribute value of the File class as defined in IDTA-01001-3-1.
 
-// Enum FragementKeys
+<!--- Enum FragementKeys --->
 
 ## FragmentKeys
  Enumeration of different fragment key value types within a key
@@ -1101,7 +1101,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/FragmentKeys/SubmodelElementList](https://admin-shell.io/aas/3/1/FragmentKeys/SubmodelElementList) The NamedIndividual SubmodelElementList of the FragmentKeys class as defined in IDTA-01001-3-1.
 
-// Enum GenericFragmentKeys
+<!--- Enum GenericFragmentKeys --->
 
 ## GenericFragmentKeys
  Enumeration of different fragment key value types within a key
@@ -1113,7 +1113,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/GenericFragmentKeys/FragmentReference](https://admin-shell.io/aas/3/1/GenericFragmentKeys/FragmentReference) The NamedIndividual FragmentReference of the GenericFragmentKeys class as defined in IDTA-01001-3-1.
  
-// Enum GenericGloballyIdentifiables
+<!--- Enum GenericGloballyIdentifiables --->
  
  ## GenericGloballyIdentifiables
  Enumeration of different key value types within a key
@@ -1124,7 +1124,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/GenericGloballyIdentifiables/GlobalReference](https://admin-shell.io/aas/3/1/GenericGloballyIdentifiables/GlobalReference) The NamedIndividual GlobalReference of the GenericGloballyIdentifiables class as defined in IDTA-01001-3-1.
 
-// Enum GloballyIdentifiables
+<!--- Enum GloballyIdentifiables --->
 
 ## GloballyIdentifiables
  Enumeration of all referable elements within an Asset Administration Shell. Contains IdentifiableElements
@@ -1156,7 +1156,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/GloballyIdentifiables/Submodel](https://admin-shell.io/aas/3/1/GloballyIdentifiables/Submodel) The NamedIndividual Submodel of the GloballyIdentifiables class as defined in IDTA-01001-3-1.  
 
-// HasExtensions
+<!--- HasExtensions --->
 
 ## HasExtensions
  Element that can be extended by proprietary extensions.
@@ -1168,7 +1168,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/HasExtensions/extensions](https://admin-shell.io/aas/3/1/HasExtensions/extensions) The attribute extension of the HasExtensions class as defined in IDTA-01001-3-1.
 
-// HasDataSpecification
+<!--- HasDataSpecification --->
 
 ## HasDataSpecification
  Element that can have be extended by using data specification templates. A data specification template defines the additional attributes an element may or shall have. The data specifications used are explicitly specified with their id.
@@ -1181,7 +1181,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/HasDataSpecification/dataSpecifications](http://admin-shell.io/aas/3/1/HasDataSpecification/dataSpecifications) The attribute dataSpecification of the HasDataSpecification class as defined in IDTA-01001-3-1.
 
-// HasKind
+<!--- HasKind --->
 
 ## HasKind
  An element with a kind is an element that can either represent a type or an instance. Default for an element is that it is representing an instance.
@@ -1194,7 +1194,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/HasKind/kind](http://admin-shell.io/aas/3/1/HasKind/kind) The attribute kind of the HasKind class as defined in IDTA-01001-3-1.
 
-// HasSemantics
+<!--- HasSemantics --->
 
 ## HasSemantics
  Element that can have a semantic definition. Identifier of the semantic definition of the element. It is called semantic id of the element. The semantic id may either reference an external global id or it may reference a referable model element of kind=Type that defines the semantics of the element.
@@ -1212,7 +1212,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/HasSemantics/supplementalSemanticIds](https://admin-shell.io/aas/3/1/HasSemantics/supplementalSemanticIds) The attribute supplementalSemanticId of the HasSemantics class as defined in IDTA-01001-3-1.
 
-// Identifiable
+<!--- Identifiable --->
 
 ## Identifiable
  An element that has a globally unique identifier.
@@ -1231,14 +1231,14 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/Identifiable/id](https://admin-shell.io/aas/3/1/Identifiable/id) The attribute identification of the Identifiable class as defined in IDTA-01001-3-1.
 
-// Data Type Identifier
+<!--- Data Type Identifier --->
 
 ## Identifier
  Data type of an identifier.
 
  [http://admin-shell.io/aas/3/1/Identifier](http://admin-shell.io/aas/3/1/Identifier) The Identifier data type as defined in IDTA-01001-3-1.
 
-// Key of a Reference
+<!--- Key of a Reference --->
 
 ## Key
  A key is a reference to an element by its ID.
@@ -1257,7 +1257,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Key/value](http://admin-shell.io/aas/3/1/Key/value) The attribute value of the Key class as defined in IDTA-01001-3-1.
 
-// Enum KeyTypes
+<!--- Enum KeyTypes --->
 
 ## KeyTypes
  Enumeration of all referable elements within an Asset Administration Shell. Contains IdentifiableElements
@@ -1398,28 +1398,28 @@ Content type of the content of the Blob. The mime type states which file extensi
  [https://admin-shell.io/aas/3/1/KeyTypes/SubmodelElementList](https://admin-shell.io/aas/3/1/KeyTypes/SubmodelElementList) The NamedIndividual SubmodelElementList of the KeyTypes class as defined in IDTA-01001-3-1.
 
 
-// Data Type LabelType
+<!--- Data Type LabelType --->
 
 ## LabelType
 
 
  [http://admin-shell.io/aas/3/1/LabelType](http://admin-shell.io/aas/3/1/LabelType) The LabelType data type as defined in IDTA-01001-3-1.
 
-// Data Type LangStringSet
+<!--- Data Type LangStringSet --->
 
 ## LangStringSet
 
 
  [http://admin-shell.io/aas/3/1/LangStringSet](http://admin-shell.io/aas/3/1/LangStringSet) The LangStringSet data type as defined in IDTA-01001-3-1.
 
-// Data Type MessageTopicType
+<!--- Data Type MessageTopicType --->
 
 ## MessageTopicType
 
 
  [http://admin-shell.io/aas/3/1/MessageTopicType](http://admin-shell.io/aas/3/1/MessageTopicType) The MessageTopicType data type as defined in IDTA-01001-3-1.
 
-// Enum ModellingKind
+<!--- Enum ModellingKind --->
 
 ## ModellingKind
  Enumeration for denoting whether an element is a type or an instance.
@@ -1437,7 +1437,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/ModellingKind/Template](http://admin-shell.io/aas/3/1/ModellingKind/Template) The NamedIndividual Templateof the ModellingKind class as defined in IDTA-01001-3-1.
 
-// Data Type MultiLanguageNameType
+<!--- Data Type MultiLanguageNameType --->
 
 ## MultiLanguageNameType
 
@@ -1445,7 +1445,7 @@ Content type of the content of the Blob. The mime type states which file extensi
  [http://admin-shell.io/aas/3/1/MultiLanguageNameType](http://admin-shell.io/aas/3/1/MultiLanguageNameType) The MultiLanguageNameType data type as defined in IDTA-01001-3-1.
 
 
-// Submodel Element MultiLanguageProperty
+<!--- Submodel Element MultiLanguageProperty --->
 
 ## MultiLanguageProperty
  A property is a data element that has a multi language value.
@@ -1463,21 +1463,21 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/MultiLanguageProperty/valueId](https://admin-shell.io/aas/3/1/MultiLanguageProperty/valueId) The attribute valueId of the MultiLanguageProperty class as defined in IDTA-01001-3-1.
 
-// Data Type MultiLanguageTextType
+<!--- Data Type MultiLanguageTextType --->
 
 ## MultiLanguageTextType
 
 
  [http://admin-shell.io/aas/3/1/MultiLanguageTextType](http://admin-shell.io/aas/3/1/MultiLanguageTextType) The MultiLanguageTextType data type as defined in IDTA-01001-3-1.
 
-// Data Type NameType
+<!--- Data Type NameType --->
 
 ## NameType
 
 
  [http://admin-shell.io/aas/3/1/NameType](http://admin-shell.io/aas/3/1/NameType) The NameType data type as defined in IDTA-01001-3-1.
 
-// Submodel Element Operation
+<!--- Submodel Element Operation --->
 
 ## Operation
  An operation is a submodel element with input and output variables.
@@ -1502,7 +1502,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Operation/outputVariable](http://admin-shell.io/aas/3/1/Operation/outputVariable) The attribute outputVariable of the Operation class as defined in IDTA-01001-3-1.
 
-// OperationVariable
+<!--- OperationVariable --->
 
 ## OperationVariable
   
@@ -1515,7 +1515,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/OperationVariable/value](http://admin-shell.io/aas/3/1/OperationVariable/value) The attribute value of the OperationVariable class as defined in IDTA-01001-3-1.
 
-// Data Type PathType
+<!--- Data Type PathType --->
 
 ## PathType
 
@@ -1523,7 +1523,7 @@ Content type of the content of the Blob. The mime type states which file extensi
  [http://admin-shell.io/aas/3/1/PathType](http://admin-shell.io/aas/3/1/PathType) The PathType data type as defined in IDTA-01001-3-1.
  
  
-// Submodel Element Property
+<!--- Submodel Element Property --->
  
 ## Property
  A property is a data element that has a single value.
@@ -1547,7 +1547,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/Property/valueType](https://admin-shell.io/aas/3/1/Property/valueType) The attribute valueType of the Property class as defined in IDTA-01001-3-1. 
  
-// Qualifiable
+<!--- Qualifiable --->
  
 ## Qualifiable
  Additional qualification of a qualifiable element.
@@ -1560,7 +1560,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Qualifiable/qualifiers](http://admin-shell.io/aas/3/1/Qualifiable/qualifiers) The attribute qualifier of the Qualifiable class as defined in IDTA-01001-3-1.
 
-// Qualifier 
+<!--- Qualifier  --->
 
 ## Qualifier
  A qualifier is a type-value pair that makes additional statements w.r.t. the value of the element.
@@ -1594,7 +1594,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/Qualifier/valueType](https://admin-shell.io/aas/3/1/Qualifier/valueType) The attribute valueType of the Qualifier class as defined in IDTA-01001-3-1.
 
-// Enum QualifierKind
+<!--- Enum QualifierKind --->
 
 ## QualifierKind
 
@@ -1620,14 +1620,14 @@ Content type of the content of the Blob. The mime type states which file extensi
 
 
 
-// Data Type QualifierType
+<!--- Data Type QualifierType --->
  
 ## QualifierType
 
 
  [http://admin-shell.io/aas/3/1/QualifierType](http://admin-shell.io/aas/3/1/QualifierType) The QualifierType data type as defined in IDTA-01001-3-1.
  
-// Submodel Element Range 
+<!--- Submodel Element Range  --->
  
 ## Range
  An element that is referable by its idShort. This id is not globally unique. This id is unique within the name space of the element.
@@ -1652,7 +1652,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/Range/valueType](https://admin-shell.io/aas/3/1/Range/valueType) The attribute valueType of the Range class as defined in IDTA-01001-3-1.
 
-// Referable
+<!--- Referable --->
  
 ## Referable
  An element that is referable by its idShort. This id is not globally unique. This id is unique within the name space of the element.
@@ -1682,7 +1682,7 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Referable/idShort](http://admin-shell.io/aas/3/1/Referable/idShort) The attribute idShort of the Referable class as defined in IDTA-01001-3-1.
 
-// Reference
+<!--- Reference --->
 
 ## Reference
  Reference to either a model element of the same or another AAs or to an external entity. A reference is an ordered list of keys, each key referencing an element. The complete list of keys may for example be concatenated to a path that then gives unique access to an element or entity.
@@ -1707,7 +1707,7 @@ Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/1/Reference/type](https://admin-shell.io/aas/3/1/Reference/type) The attribute type of the Reference class as defined in IDTA-01001-3-1.
 
-// Submodel Element ReferenceElement
+<!--- Submodel Element ReferenceElement --->
 
 ## ReferenceElement
  A reference element is a data element that defines a logical reference to another element within the same or another AAS or a reference to an external object or entity.
@@ -1719,7 +1719,7 @@ Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/1/ReferenceElement/value](https://admin-shell.io/aas/3/1/ReferenceElement/value) The attribute value of the ReferenceElement class as defined in IDTA-01001-3-1.
 
-// Enum ReferenceTypes
+<!--- Enum ReferenceTypes --->
 
 ## ReferenceTypes
  Enumeration for denoting whether an element is an external or model reference
@@ -1736,7 +1736,7 @@ Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/1/ReferenceTypes/ModelReference](https://admin-shell.io/aas/3/1/eferenceTypes/ModelReference) The NamedIndividual ModelReference of the ReferenceTypes class as defined in IDTA-01001-3-1.
 
-// Submodel Element RelationshipElement
+<!--- Submodel Element RelationshipElement --->
 
 ## RelationshipElement
 
@@ -1756,7 +1756,7 @@ Denotes whether reference is an external reference or a model reference
 
  [http://admin-shell.io/aas/3/1/RelationshipElement/second](http://admin-shell.io/aas/3/1/RelationshipElement/second) The attribute second of the RelationshipElement class as defined in IDTA-01001-3-1.
 
-// Resource
+<!--- Resource --->
 
 ## Resource
  Resource represents an address to a file (a locator). The NamedIndividual is a URI that can represent an absolute or relative path.
@@ -1777,7 +1777,7 @@ Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/1/Resource/path](https://admin-shell.io/aas/3/1/Resource/path) The attribute path of the Resource class as defined in IDTA-01001-3-1.
 
-// Data Type RevisionType
+<!--- Data Type RevisionType --->
  
 ## RevisionType
 
@@ -1786,7 +1786,7 @@ Denotes whether reference is an external reference or a model reference
  
 
  
-// SpecificAssetId
+<!--- SpecificAssetId --->
  
 ## SpecificAssetId
  A specific asset ID describes a generic supplementary identifying attribute of the asset. The specific asset ID is not necessarily globally unique.
@@ -1809,7 +1809,7 @@ Denotes whether reference is an external reference or a model reference
  
  [https://admin-shell.io/aas/3/1/SpecificAssetId/value](https://admin-shell.io/aas/3/1/SpecificAssetId/value) The attribute value  of the SpecificAsetId class as defined in IDTA-01001-3-1.
 
-// Submodel
+<!--- Submodel --->
 
 ## Submodel
  A Submodel defines a specific aspect of the asset represented by the AAS. A submodel is used to structure the virtual representation and technical functionality of an Administration Shell into distinguishable parts. Each submodel refers to a well-defined domain or subject matter. Submodels can become standardized and thus become submodels types. Submodels can have different life-cycles.
@@ -1822,14 +1822,14 @@ Denotes whether reference is an external reference or a model reference
 
  [http://admin-shell.io/aas/3/1/Submodel/submodelElements](http://admin-shell.io/aas/3/1/Submodel/submodelElements) The attribute submodelElement of the Submodel class as defined in IDTA-01001-3-1.
 
-// SubmodelElement
+<!--- SubmodelElement --->
 
 ## SubmodelElement
  A submodel element is an element suitable for the description and differentiation of assets.
 
  [http://admin-shell.io/aas/3/1/SubmodelElement](http://admin-shell.io/aas/3/1/SubmodelElement) The SubmodelElement class as defined in IDTA-01001-3-1.
 
-// SubmodelElementCollection
+<!--- SubmodelElementCollection --->
 
 ## SubmodelElementCollection
  A submodel element collection is a set or list of submodel elements.
@@ -1842,7 +1842,7 @@ Denotes whether reference is an external reference or a model reference
 
  [https://admin-shell.io/aas/3/1/SubmodelElementCollection/value](https://admin-shell.io/aas/3/1/SubmodelElementCollection/value)The attribute value of the SubmodelElementCollection class as defined in IDTA-01001-3-1.
 
-// SubmodelElementList
+<!--- SubmodelElementList --->
 
 ## SubmodelElementList
  List or set of submodel elements.
@@ -1877,7 +1877,7 @@ Default: True
 
  [https://admin-shell.io/aas/3/1/SubmodelElementList/valueTypeListElement](https://admin-shell.io/aas/3/1/SubmodelElementList/valueTypeListElement) The attribute valueTypeListElement of the SubmodelElementList class as defined in IDTA-01001-3-1.
 
-// Enum StateOfEvent
+<!--- Enum StateOfEvent --->
 
 ## StateOfEvent
  Enumeration for state of an event element.
@@ -1895,7 +1895,7 @@ Default: True
 
  [http://admin-shell.io/aas/3/1/StateOfEvent/off](http://admin-shell.io/aas/3/1/StateOfEvent/off) The NamedIndividual offof the enumeration class StateOfEvent as defined in IDTA-01001-3-1.
 
-// Data Type ValueDataType
+<!--- Data Type ValueDataType --->
 
 ## ValueDataType
 
@@ -1904,7 +1904,7 @@ Default: True
 
 
 
-// Data Type VersionType
+<!--- Data Type VersionType --->
 
 ## VersionType
 

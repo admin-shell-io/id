@@ -1,6 +1,6 @@
 # Asset Administration Shell Identifiers
 
-The Asset Administration Shell itself only defines the structure and syntax of the Industry 4.0 Component. Content, its features, attributes and values need to be semantically defined. It is not in scope of the Platform Industry 4.0 to define and/or maintain such domain-specific entities itself. Therefore, definitions and terms from external vocabulary providers are recommended, for instance [eCl@ss](https://www.eclasscontent.com/) or [IEC CDD](https://cdd.iec.ch/).
+The Asset Administration Shell itself only defines the structure and syntax of the Industry 4.0 Component. Content, its features, attributes and values need to be semantically defined. It is not in scope of the Platform Industry 4.0 to define and/or maintain such domain-specific entities itself. Therefore, definitions and terms from external vocabulary providers are recommended, for instance [ECLASS](https://www.eclasscontent.com/) or [IEC CDD](https://cdd.iec.ch/).
 
 While many attributes, properties and values are defined in such vocabularies, there is a significant chance that some necessary entities are still missing. The 'Asset Administration Shell Identifiers' is preliminary approach to provide a first, lightweight location to register new identifiers. This is done by relying on the [admin-shell.io](https://admin-shell.io) domain as a common namespace.
 

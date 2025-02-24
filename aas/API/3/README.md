@@ -1,13 +1,9 @@
 # AAS (Asset Administration Shell)
 
-This is the sub-namespace reserved for the "Asset Administration Shell - Part 2: Application Programming Interfaces".
+This is the sub-namespace reserved for the [Asset Administration Shell - Part 2 Application Programming Interfaces](./0/README.md).
 
-The document 'Details of the Asset Administration Shell Part 2: Application Programming Interfaces' [1] defines the meaning of its content and the used identifiers.
+The document 'Specification of the Asset Administration Shell Part 2 - Application Programming Interfaces' [1] defines the meaning of its content and the used identifiers.
 
-## Content
-
-The follwing sub-namespaces are declared:
-- [V3](./3/)
 
 ## Contact
 

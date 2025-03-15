@@ -508,11 +508,15 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement](http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement) The AnnotatedRelationshipElement class as defined in IDTA-01001-3-1.
 
+## AnnotatedRelationshipElement/annotation
+ A data element that represents an annotation that holds for the relationship between the two elements
 
+ [http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement/annotation](http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement/annotation) The attribute annotation of the AnnotatedRelationshipElement class as defined in IDTA-01001-3-1.
+ 
 ## AnnotatedRelationshipElement/annotations
- Annotations that hold for the relationships between the two elements.
+  Set of [annotations](http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement/annotation) that hold for the relationship between the two elements
 
- [http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement/annotations](http://admin-shell.io/aas/3/1/AnnotatedRelationshipElement/annotations) The attribute annotation of the AnnotatedRelationshipElement class as defined in IDTA-01001-3-1.
+
 
 
 <!--- AssetAdministrationShell --->
@@ -534,12 +538,14 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [http://admin-shell.io/aas/3/1/AssetAdministrationShell/derivedFrom](http://admin-shell.io/aas/3/1/AssetAdministrationShell/derivedFrom) The attribute derivedFrom of the AssetAdministrationShell class as defined in IDTA-01001-3-1.
 
+## AssetAdministrationShell/submodel
+ Reference to a submodel of the Asset Administration Shell
 
+ [http://admin-shell.io/aas/3/1/AssetAdministrationShell/submodel](http://admin-shell.io/aas/3/1/AssetAdministrationShell/submodel) The attribute submodel of the AssetAdministrationShell class as defined in IDTA-01001-3-1.
 
 ## AssetAdministrationShell/submodels
- Points from the Admin Shell to the Submodels that describe the Admin Shell of a given Asset
+  Set of [references to the submodels](http://admin-shell.io/aas/3/1/AssetAdministrationShell/submodel) of the Asset Administration Shell
 
- [http://admin-shell.io/aas/3/1/AssetAdministrationShell/submodels](http://admin-shell.io/aas/3/1/AssetAdministrationShell/submodels) The attribute submodel of the AssetAdministrationShell class as defined in IDTA-01001-3-1.
 
 
 <!--- AssetInformation --->
@@ -565,11 +571,13 @@ The identifiers are derived following the grammar as defined in IDTA-01001-3-1. 
 
  [https://admin-shell.io/aas/3/1/AssetInformation/globalAssetId](https://admin-shell.io/aas/3/1/AssetInformation/globalAssetId) The attribute globalAssetId of the AssetInformation class as defined in IDTA-01001-3-1.
 
-## AssetInformation/specificAssetIds
+## AssetInformation/specificAssetId
  Additional domain specific external, typically proprietary Identifiers for the asset like e.g. serial number etc.
 
- [https://admin-shell.io/aas/3/1/AssetInformation/specificAssetIds](https://admin-shell.io/aas/3/1/AssetInformation/specificAssetIds) The attribute specificAssetId of the AssetInformation class as defined in IDTA-01001-3-1.
+ [https://admin-shell.io/aas/3/1/AssetInformation/specificAssetId](https://admin-shell.io/aas/3/1/AssetInformation/specificAssetId) The attribute specificAssetId of the AssetInformation class as defined in IDTA-01001-3-1.
 
+## AssetInformation/specificAssetIds
+ Set of [specific asset IDs](https://admin-shell.io/aas/3/1/AssetInformation/specificAssetId)
 
 ## AssetInformation/defaultThumbnail
  Default thumbnail of the asset represented by the Asset Administration Shell.
@@ -706,10 +714,10 @@ Content type of the content of the Blob. The mime type states which file extensi
  [http://admin-shell.io/aas/3/1/ConceptDescription](http://admin-shell.io/aas/3/1/ConceptDescription) The ConceptDescription class as defined in IDTA-01001-3-1.
 
 
-## ConceptDescription/isCaseOfs
+## ConceptDescription/isCaseOf
  Global reference to an external definition the concept is compatible to or was derived from.
 
- [http://admin-shell.io/aas/3/1/ConceptDescription/isCaseOfs](http://admin-shell.io/aas/3/1/ConceptDescription/isCaseOfs) The attribute isCaseOf of the ConceptDescription class as defined in IDTA-01001-3-1.
+ [http://admin-shell.io/aas/3/1/ConceptDescription/isCaseOf](http://admin-shell.io/aas/3/1/ConceptDescription/isCaseOf) The attribute isCaseOf of the ConceptDescription class as defined in IDTA-01001-3-1.
 
 <!--- Submodel Element ContainerElement --->
 
@@ -830,17 +838,25 @@ Content type of the content of the Blob. The mime type states which file extensi
  Reference to the asset the entity is representing.
 
  [http://admin-shell.io/aas/3/1/Entity/globalAssetId](http://admin-shell.io/aas/3/1/Entity/globalAssetId) The attribute globalAssetId of the Entity class as defined in IDTA-01001-3-1.
- 
+
+## Entity/specificAssetId
+ Global identifier of the asset the entity is representing
+
+ [http://admin-shell.io/aas/3/1/Entity/specificAssetId](http://admin-shell.io/aas/3/1/Entity/specificAssetId) The attribute specificAssetId of the Entity class as defined in IDTA-01001-3-1.
+
 ## Entity/specificAssetIds
- Set of identifier key value pairs representing a specific identifier of the asset represented by the Asset Administration Shell.
-
- [http://admin-shell.io/aas/3/1/Entity/specificAssetIds](http://admin-shell.io/aas/3/1/Entity/specificAssetIds) The attribute specificAssetId of the Entity class as defined in IDTA-01001-3-1.
+ Set of identifier key value pairs representing a [specific identifier](http://admin-shell.io/aas/3/1/Entity/specificAssetId) of the asset represented by the Asset Administration Shell.
 
 
+## Entity/statement
+ Statement applicable to the entity, each statement described by submodel element - typically with a qualified value
+
+ [http://admin-shell.io/aas/3/1/Entity/statement](http://admin-shell.io/aas/3/1/Entity/statement) The attribute statement of the Entity class as defined in IDTA-01001-3-1.
+ 
 ## Entity/statements
- Describes statements applicable to the entity by a set of submodel elements, typically with a qualified value.
+ Describes [statements](http://admin-shell.io/aas/3/1/Entity/statement](http://admin-shell.io/aas/3/1/Entity/statement) applicable to the entity by a set of submodel elements, typically with a qualified value.
 
- [http://admin-shell.io/aas/3/1/Entity/statements](http://admin-shell.io/aas/3/1/Entity/statements) The attribute statement of the Entity class as defined in IDTA-01001-3-1.
+
 
 <!--- Enum EntityType --->
 
@@ -867,24 +883,41 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Environment](http://admin-shell.io/aas/3/1/Environment) The Environment class as defined in IDTA-01001-3-1.
 
+## Environment/assetAdministrationShell
+ 
+ Asset Administration Shell in the environment
+
+ [http://admin-shell.io/aas/3/1/Environment/assetAdministrationShell](http://admin-shell.io/aas/3/1/Environment/assetAdministrationShell) The attribute assetAdministrationShell of the Environment class as defined in IDTA-01001-3-1.
+
 ## Environment/assetAdministrationShells
  
- Asset Administration Shells in the environment
+ [Asset Administration Shells](http://admin-shell.io/aas/3/1/Environment/assetAdministrationShell) in the environment
 
- [http://admin-shell.io/aas/3/1/Environment/assetAdministrationShells](http://admin-shell.io/aas/3/1/Environment/assetAdministrationShells) The attribute assetAdministrationShell of the Environment class as defined in IDTA-01001-3-1.
+
+
+## Environment/conceptDescription
+ 
+ Concept description 
+
+ [http://admin-shell.io/aas/3/1/Environment/conceptDescription](http://admin-shell.io/aas/3/1/Environment/conceptDescription) The attribute conceptDescription of the Environment class as defined in IDTA-01001-3-1.
+
 
 ## Environment/conceptDescriptions
  
- Concept descriptions in the environment
+ [Concept descriptions](http://admin-shell.io/aas/3/1/Environment/conceptDescription) in the environment
 
- [http://admin-shell.io/aas/3/1/Environment/conceptDescriptions](http://admin-shell.io/aas/3/1/Environment/conceptDescriptions) The attribute conceptDescription of the Environment class as defined in IDTA-01001-3-1.
 
+## Environment/submodel
+ 
+	Submodel in the environment
+
+ [http://admin-shell.io/aas/3/1/Environment/submodel](http://admin-shell.io/aas/3/1/Environment/submodel) The attribute submodel of the Environment class as defined in IDTA-01001-3-1.
 
 ## Environment/submodels
  
-	Submodels in the environment
+	[Submodels](http://admin-shell.io/aas/3/1/Environment/submodel) in the environment
 
- [http://admin-shell.io/aas/3/1/Environment/submodels](http://admin-shell.io/aas/3/1/Environment/submodels) The attribute submodel of the Environment class as defined in IDTA-01001-3-1.
+
 
 
 <!--- Extension --->
@@ -910,11 +943,13 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/Extension/valueType](https://admin-shell.io/aas/3/1/Extension/valueType) The attribute valueType of the Extension class as defined in IDTA-01001-3-1.
 
-
-## Extension/refersTos
+## Extension/refersTo
  Reference to an element the extension refers to.
 
- [https://admin-shell.io/aas/3/1/Extension/refersTos](https://admin-shell.io/aas/3/1/Extension/refersTos) The attribute refersTo Extension class as defined in IDTA-01001-3-1.
+ [https://admin-shell.io/aas/3/1/Extension/refersTo](https://admin-shell.io/aas/3/1/Extension/refersTo) The attribute refersTo of the Extension class as defined in IDTA-01001-3-1.
+
+## Extension/refersTos
+  Set of [references to elements the extension refers to](https://admin-shell.io/aas/3/1/Extension/refersTo).
 
 <!--- Submodel Element EventElement --->
 
@@ -1163,10 +1198,13 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [https://admin-shell.io/aas/3/1/HasExtensions](https://admin-shell.io/aas/3/1/HasExtensions) The HasExtensions class as defined in IDTA-01001-3-1.
 
-## HasExtensions/extensions
+## HasExtensions/extension
  An extension of the element.
 
- [https://admin-shell.io/aas/3/1/HasExtensions/extensions](https://admin-shell.io/aas/3/1/HasExtensions/extensions) The attribute extension of the HasExtensions class as defined in IDTA-01001-3-1.
+ [https://admin-shell.io/aas/3/1/HasExtensions/extension](https://admin-shell.io/aas/3/1/HasExtensions/extension) The attribute extension of the HasExtensions class as defined in IDTA-01001-3-1.
+ 
+## HasExtensions/extensions
+  A set of [extensions](https://admin-shell.io/aas/3/1/HasExtensions/extension).
 
 <!--- HasDataSpecification --->
 
@@ -1175,11 +1213,13 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/HasDataSpecification](http://admin-shell.io/aas/3/1/HasDataSpecification) The HasDataSpecification class as defined in IDTA-01001-3-1.
 
+## HasDataSpecification/dataSpecification
+ External reference to the data specification template used by the element
+
+ [http://admin-shell.io/aas/3/1/HasDataSpecification/dataSpecification](http://admin-shell.io/aas/3/1/HasDataSpecification/dataSpecification) The attribute dataSpecification of the HasDataSpecification class as defined in IDTA-01001-3-1.
 
 ## HasDataSpecification/dataSpecifications
- Set of global references to a data specification template used by the element.
-
- [http://admin-shell.io/aas/3/1/HasDataSpecification/dataSpecifications](http://admin-shell.io/aas/3/1/HasDataSpecification/dataSpecifications) The attribute dataSpecification of the HasDataSpecification class as defined in IDTA-01001-3-1.
+ Set of global references to a [data specification template](http://admin-shell.io/aas/3/1/HasDataSpecification/dataSpecification) used by the element.
 
 <!--- HasKind --->
 
@@ -1207,10 +1247,14 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/HasSemantics/semanticId](http://admin-shell.io/aas/3/1/HasSemantics/semanticId) The attribute semanticId of the HasSemantics class as defined in IDTA-01001-3-1.
 
-## HasSemantics/supplementalSemanticIds
+## HasSemantics/supplementalSemanticId
  Identifier of a supplemental semantic definition of the element called supplemental semantic ID of the element
 
- [https://admin-shell.io/aas/3/1/HasSemantics/supplementalSemanticIds](https://admin-shell.io/aas/3/1/HasSemantics/supplementalSemanticIds) The attribute supplementalSemanticId of the HasSemantics class as defined in IDTA-01001-3-1.
+ [https://admin-shell.io/aas/3/1/HasSemantics/supplementalSemanticId](https://admin-shell.io/aas/3/1/HasSemantics/supplementalSemanticId) The attribute supplementalSemanticId of the HasSemantics class as defined in IDTA-01001-3-1.
+
+## HasSemantics/supplementalSemanticIds
+ A set of [supplemental semantic IDs](https://admin-shell.io/aas/3/1/HasSemantics/supplementalSemanticId) 
+
 
 <!--- Identifiable --->
 
@@ -1484,23 +1528,33 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Operation](http://admin-shell.io/aas/3/1/Operation) The Operation class as defined in IDTA-01001-3-1.
 
+## Operation/inoutputVariable
+ Parameter that is input and output of the operation.
+
+ [http://admin-shell.io/aas/3/1/Operation/inoutputVariable](http://admin-shell.io/aas/3/1/Operation/inoutputVariable) The attribute inoutputVariable of the Operation class as defined in IDTA-01001-3-1.
 
 ## Operation/inoutputVariables
- Parameters that is input and output of the operation.
-
- [http://admin-shell.io/aas/3/1/Operation/inoutputVariables](http://admin-shell.io/aas/3/1/Operation/inoutputVariables) The attribute inoutputVariable of the Operation class as defined in IDTA-01001-3-1.
+ [Parameters that is input and output](http://admin-shell.io/aas/3/1/Operation/inoutputVariable) of the operation.
 
 
+
+## Operation/inputVariable
+ Input parameter of the operation.
+
+ [http://admin-shell.io/aas/3/1/Operation/inputVariable](http://admin-shell.io/aas/3/1/Operation/inputVariable) The attribute inputVariable of the Operation class as defined in IDTA-01001-3-1.
+ 
 ## Operation/inputVariables
- Input parameters of the operation.
-
- [http://admin-shell.io/aas/3/1/Operation/inputVariables](http://admin-shell.io/aas/3/1/Operation/inputVariables) The attribute inputVariable of the Operation class as defined in IDTA-01001-3-1.
+ [Input parameters](http://admin-shell.io/aas/3/1/Operation/inputVariable) of the operation.
 
 
-## Operation/outputVariables
- Output parameters of the operation.
+## Operation/outputVariable
+ Output parameter of the operation.
 
  [http://admin-shell.io/aas/3/1/Operation/outputVariable](http://admin-shell.io/aas/3/1/Operation/outputVariable) The attribute outputVariable of the Operation class as defined in IDTA-01001-3-1.
+
+## Operation/outputVariables
+ [Output parameters](http://admin-shell.io/aas/3/1/Operation/outputVariable) of the operation.
+
 
 <!--- OperationVariable --->
 
@@ -1554,11 +1608,16 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Qualifiable](http://admin-shell.io/aas/3/1/Qualifiable) The Qualifiable class as defined in IDTA-01001-3-1.
 
+## Qualifiable/qualifier
+ Additional qualification of a qualifiable element.
+
+ [http://admin-shell.io/aas/3/1/Qualifiable/qualifier](http://admin-shell.io/aas/3/1/Qualifiable/qualifier) The attribute qualifier of the Qualifiable class as defined in IDTA-01001-3-1.
+
 
 ## Qualifiable/qualifiers
- Additional qualification elements of a qualifiable element.
+ [Additional qualification elements](http://admin-shell.io/aas/3/1/Qualifiable/qualifier) of a qualifiable element.
 
- [http://admin-shell.io/aas/3/1/Qualifiable/qualifiers](http://admin-shell.io/aas/3/1/Qualifiable/qualifiers) The attribute qualifier of the Qualifiable class as defined in IDTA-01001-3-1.
+
 
 <!--- Qualifier  --->
 
@@ -1689,11 +1748,15 @@ Content type of the content of the Blob. The mime type states which file extensi
 
  [http://admin-shell.io/aas/3/1/Reference](http://admin-shell.io/aas/3/1/Reference) The Reference class as defined in IDTA-01001-3-1.
 
+## Reference/key
+  Unique reference in its name space
+
+ [https://admin-shell.io/aas/3/1/Reference/key](https://admin-shell.io/aas/3/1/Reference/key) The attribute key of the Reference class as defined in IDTA-01001-3-1.
 
 ## Reference/keys
-  ordered list of keys
+  ordered list of [keys](https://admin-shell.io/aas/3/1/Reference/key)
 
- [https://admin-shell.io/aas/3/1/Reference/keys](https://admin-shell.io/aas/3/1/Reference/keys) The attribute key of the Reference class as defined in IDTA-01001-3-1.
+
 
 ## Reference/referredSemanticId
  Expected semantic ID of the referenced model element (Reference/type=ModelReference); there typically is no semantic ID for for the referenced object of external references (Reference/type=ExternalReference).
@@ -1816,11 +1879,14 @@ Denotes whether reference is an external reference or a model reference
 
  [http://admin-shell.io/aas/3/1/Submodel](http://admin-shell.io/aas/3/1/Submodel) The Submodel class as defined in IDTA-01001-3-1.
 
-
-## Submodel/submodelElements
+## Submodel/submodelElement
  A submodel consists of zero or more submodel elements.
 
- [http://admin-shell.io/aas/3/1/Submodel/submodelElements](http://admin-shell.io/aas/3/1/Submodel/submodelElements) The attribute submodelElement of the Submodel class as defined in IDTA-01001-3-1.
+ [http://admin-shell.io/aas/3/1/Submodel/submodelElement](http://admin-shell.io/aas/3/1/Submodel/submodelElement) The attribute submodelElement of the Submodel class as defined in IDTA-01001-3-1.
+
+## Submodel/submodelElements
+ A submodel consists of zero or more [submodel elements](http://admin-shell.io/aas/3/1/Submodel/submodelElement).
+
 
 <!--- SubmodelElement --->
 
@@ -1840,7 +1906,7 @@ Denotes whether reference is an external reference or a model reference
 ## SubmodelElementCollection/value
  Submodel element contained in the collection.
 
- [https://admin-shell.io/aas/3/1/SubmodelElementCollection/value](https://admin-shell.io/aas/3/1/SubmodelElementCollection/value)The attribute value of the SubmodelElementCollection class as defined in IDTA-01001-3-1.
+ [https://admin-shell.io/aas/3/1/SubmodelElementCollection/value](https://admin-shell.io/aas/3/1/SubmodelElementCollection/value) The attribute value of the SubmodelElementCollection class as defined in IDTA-01001-3-1.
 
 <!--- SubmodelElementList --->
 
@@ -1870,7 +1936,7 @@ Default: True
 ## SubmodelElementList/value
  Submodel elements contained in the list.
 
- [https://admin-shell.io/aas/3/1/SubmodelElementList/value](https://admin-shell.io/aas/3/1/SubmodelElementList/value)The attribute value of the SubmodelElementList class as defined in IDTA-01001-3-1.
+ [https://admin-shell.io/aas/3/1/SubmodelElementList/value](https://admin-shell.io/aas/3/1/SubmodelElementList/value) The attribute value of the SubmodelElementList class as defined in IDTA-01001-3-1.
 
 ## SubmodelElementList/valueTypeListElement
  The submodel element type of the submodel elements contained in the list

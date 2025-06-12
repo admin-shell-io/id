@@ -1,16 +1,23 @@
 # AAS (Asset Administration Shell)
 
-This is the sub-namespace reserved for the Asset Administration Shell Metamodel version 3.1 (IDTA-01001-3-1).
+This is the sub-namespace reserved for the [Asset Administration Shell Metamodel version 3.1 (IDTA-01001-3-1)](https://industrialdigitaltwin.io/aas-specifications/IDTA-01001/v3.1/index.html).
 
 
 ## Introduction
 
-The Metamodel itself is defined in the 'IDTA-01001-3-1 Specification of the Asset Administration Shell - Part 1: Metamodel'. Only classes, attributes and named entities used in this model are allowed in this sub-namespace. The Metamodel is the core resource for the structure of the Asset Administration Shell and provides the frame for all further specifications. The following entities are defined in the Metamodel but also serve as an example how to use the 'Asset Administration Shell Identifiers' in general.
+The Metamodel itself is defined in the 'IDTA-01001-3-1 Specification of the Asset Administration Shell - Part 1: Metamodel'. 
+Only classes, attributes and named entities used in this model are allowed in this sub-namespace. 
+The Metamodel is the core resource for the structure of the Asset Administration Shell and provides the frame for all further specifications. 
+The following entities are defined in the Metamodel.
+They are ordered alphabetically.
+
+Note: In the specification singular is used for attributes even if the cardinality is "0..* or "1..*" etc. In former versions of the specification Plural was used. 
+In this set of identifiers both are included: Singular and Plural.
 
 ## Status: Accepted
 
 The sub-namespace AAS have been accepted by the Coordination Board.
-The identifiers are derived following the grammar as defined in IDTA-01001-3-1. The grammar has been accepted by the Coordination Board
+The identifiers are derived following the [grammar](https://industrialdigitaltwin.io/aas-specifications/IDTA-01001/v3.1/annex/grammar-semantic-ids-metamodel.html) as defined in IDTA-01001-3-1. The grammar has been accepted by the Coordination Board
 
 <!--- Enum AasContainerSubmodelElements --->
 

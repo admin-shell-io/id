@@ -1,6 +1,6 @@
 # AAS (Asset Administration Shell)
 
-This is the sub-namespace resevered for the Asset Administration Shell Metamodel. 
+This is the sub-namespace resevered for the Asset Administration Shell Metamodel Version 2.0. 
 
 ## Introduction
 
@@ -189,6 +189,7 @@ The asset the AAS is representing.
  [http://admin-shell.io/aas/2/0/AssetKind/ASSET_TYPE](http://admin-shell.io/aas/2/0/AssetKind/ASSET_TYPE) The NamedIndividual ASSET_TYPE of the AssetKind class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## BasicEvent
+
 A basic event.
 
  [http://admin-shell.io/aas/2/0/BasicEvent](http://admin-shell.io/aas/2/0/BasicEvent) The BasicEvent class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
@@ -280,6 +281,195 @@ instance that references the data specification template and meta information ab
 
  [http://admin-shell.io/aas/2/0/DataSpecificationContent](http://admin-shell.io/aas/2/0/DataSpecificationContent) The DataSpecificationContent class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
+## DataSpecification/content
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecification/content](http://admin-shell.io/aas/2/0/DataSpecification/content) The attribute content of the DataSpecification class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationContent
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationContent](http://admin-shell.io/aas/2/0/DataSpecificationContent) The DataSpecificationContent class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+
+## DataSpecificationContent/definition
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationContent/definition](http://admin-shell.io/aas/2/0/DataSpecificationContent/definition) The attribute definition of the DataSpecificationContent class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationContent/sourceOfDefinition
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationContent/sourceOfDefinition](http://admin-shell.io/aas/2/0/DataSpecificationContent/sourceOfDefinition) The attribute sourceOfDefinition of the DataSpecificationContent class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360
+ Data Specification Template for defining Property Descriptions conformant to IEC 61360.
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360) The DataSpecificationIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+
+## DataSpecificationIEC61360/datatype
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/datatype](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/datatype) The attribute datatype of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360/preferedName
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/preferedName](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/preferedName) The attribute preferedName of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360/shortName
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/shortName](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/shortName) The attribute shortName of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360/symbol
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/symbol](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/symbol) The attribute symbol of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360/unit
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unit](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unit) The attribute unit of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360/unitId
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unitId](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/unitId) The attribute unitId of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360/valueFormat
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/valueFormat](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/valueFormat) The attribute valueFormat of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationIEC61360/valueId
+ The Type 'ValueList' lists all the allowed values for a concept description for which the allowed values are listed in an enumeration. The value list is a set of value reference pairs.
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/valueId](http://admin-shell.io/aas/2/0/DataSpecificationIEC61360/valueId) The attribute valueId of the DataSpecificationIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit
+ Data Specification Tempate for Physical Units.
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit) The DataSpecificationPhysicalUnit class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+
+## DataSpecificationPhysicalUnit/conversionFactor
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/conversionFactor](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/conversionFactor) The attribute conversionFactor of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/dinNotation
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/dinNotation](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/dinNotation) The attribute dinNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/eceCode
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceCode](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceCode) The attribute eceCode of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/eceName
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/eceName) The attribute eceName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/nistName
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/nistName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/nistName) The attribute nistName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/registrationAuthority
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/registrationAuthority](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/registrationAuthority) The attribute registrationAuthority of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/siName
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siName) The attribute siName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/siNotation
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siNotation](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/siNotation) The attribute siNotation of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/supplier
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/supplier](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/supplier) The attribute supplier of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/unitName
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitName](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitName) The attribute unitName of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataSpecificationPhysicalUnit/unitSymbol
+
+
+ [http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitSymbol](http://admin-shell.io/aas/2/0/DataSpecificationPhysicalUnit/unitSymbol) The attribute unitSymbol of the DataSpecificationPhysicalUnit class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360
+ Enumeration of all IEC 61360 defined data types.
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360](http://admin-shell.io/aas/2/0/DataTypeIEC61360) The DataTypeIEC61360 class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
+
+## DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/BOOLEAN_IEC6360_DATATYPE) The DataTypeIEC61360 BOOLEAN_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/DATE_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/DATE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/DATE_IEC6360_DATATYPE) The DataTypeIEC61360 DATE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/RATIONAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 RATIONAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_COUNT_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_COUNT_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_CURRENCY_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_CURRENCY_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/REAL_MEASURE_IEC6360_DATATYPE) The DataTypeIEC61360 REAL_MEASURE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/STRING_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/STRING_TRANSLATABLE_IEC6360_DATATYPE) The DataTypeIEC61360 STRING_TRANSLATABLE_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIMESTAMP_IEC6360_DATATYPE) The DataTypeIEC61360 TIMESTAMP_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/TIME_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIME_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/TIME_IEC6360_DATATYPE) The DataTypeIEC61360 TIME_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
+
+## DataTypeIEC61360/URL_IEC6360_DATATYPE
+
+
+ [http://admin-shell.io/aas/2/0/DataTypeIEC61360/URL_IEC6360_DATATYPE](http://admin-shell.io/aas/2/0/DataTypeIEC61360/URL_IEC6360_DATATYPE) The DataTypeIEC61360 URL_IEC6360_DATATYPE of the DataTypeIEC61360 class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0
 
 ## Entity
  An entity is a submodel element that is used to model entities.
@@ -342,7 +532,7 @@ todo
 
 
 ## Formula
- 
+
 
  [http://admin-shell.io/aas/2/0/Formula](http://admin-shell.io/aas/2/0/Formula) The Formula class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -654,7 +844,7 @@ An operation variable is a submodel element that is used as input or output vari
  [http://admin-shell.io/aas/2/0/PolicyAdministrationPoint/localAccessControl](http://admin-shell.io/aas/2/0/PolicyAdministrationPoint/localAccessControl) The attribute localAccessControl of the PolicyAdministrationPoint class as defined in 'Details of the Asset Administration Shell - Part 1 - Version 2.0'.
 
 ## PolicyDecisionPoint
- Defines the security policy decision points (PDP). 
+ Defines the security policy decision points (PDP).
 
  [http://admin-shell.io/aas/2/0/PolicyDecisionPoint](http://admin-shell.io/aas/2/0/PolicyDecisionPoint) The PolicyDecisionPoint class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 
@@ -898,7 +1088,7 @@ Reference to any other referable element of the same of any other AAS or a refer
 
 
 ## RelationshipElement
- 
+
 
  [http://admin-shell.io/aas/2/0/RelationshipElement](http://admin-shell.io/aas/2/0/RelationshipElement) The RelationshipElement class as defined in Details of the 'Asset Administration Shell - Part 1 - Version 2.0'.
 

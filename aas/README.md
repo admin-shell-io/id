@@ -13,27 +13,20 @@ third is currently finalized:
 - [Release 1](/aas/1/0/README.md) from 2018 [1]
 - [Release 2](/aas/2/0/README.md) from 2019 [2]
 - [Revision 2.0.1](/aas/2/0/1/README.md) from May 2020 [3]
-- [Candidate Release of version 3.0](./3/0/RC01/README.md) 2020 [4]
+- [Version 3.0](./3/0/README.md) 2020 [4]
 
-Part 2 will be released in [Version 1](./API/1/0/README.md) before the end of 2022.
+Part 2 (Application Programming Interfaces) is available in the sub-namespace [API](./API/).
 
 
-[1] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, E. Barnstedt et al.
-['Details of the Asset Administration Shell Part 1, The exchange of information
-between partners in the value chain of Industrie 4.0'](), Version 1.0,
-Plattform Industrie 4.0, ZVEI, 2018
+[4] ['Specification of the Asset Administration Shell - Part 1: Metamodel'](https://industrialdigitaltwin.org/en/content-hub/aasspecifications), Version 3.0,
 
-[2] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, S. Bader, E. Barnstedt et al.
-['Details of the Asset Administration Shell Part 1, The exchange of information
+[2] ['Details of the Asset Administration Shell Part 1, The exchange of information
 between partners in the value chain of Industrie 4.0'](), Version 2.0,
 Plattform Industrie 4.0, ZVEI, 2019
 
-[3] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, S. Bader, E. Barnstedt et al.
-'Details of the Asset Administration Shell Part 1, The exchange of information
+[3] 'Details of the Asset Administration Shell Part 1, The exchange of information
 between partners in the value chain of Industrie 4.0', Version 2.0.1,
 Plattform Industrie 4.0, ZVEI, 2020
 
-[4] B. Boss, M. Hoffmeister, T. Deppe, F. Pethig, S. Bader, E. Barnstedt et al.
-['Details of the Asset Administration Shell Part 1, The exchange of information
-between partners in the value chain of Industrie 4.0'](https://www.plattform-i40.de/IP/Redaktion/EN/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html), Version 3.0.RC01,
+[4] ['Specification of the Asset Administration Shell - Part 1: Metamodel'](https://industrialdigitaltwin.org/en/content-hub/aasspecificationsl), Version 3.0,
 Plattform Industrie 4.0, ZVEI, 2020

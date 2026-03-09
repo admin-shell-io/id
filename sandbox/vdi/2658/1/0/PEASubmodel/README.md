@@ -12,11 +12,11 @@ MTP standardizes automation aspects of modular plants used in process industries
 
 ## DisplayName (Submodel Element - Multi Language Property)
 
-Operator-specific module name
+[https://admin-shell.io/sandbox/vdi/2658/1/0/PEASubmodel/DisplayName](https://admin-shell.io/sandbox/vdi/2658/1/0/PEASubmodel/DisplayName): Operator-specific module name
 
 ## Description (Submodel Element - Multi Language Property)
 
-Operator-specific module description
+[https://admin-shell.io/sandbox/vdi/2658/1/0/PEASubmodel/Description](https://admin-shell.io/sandbox/vdi/2658/1/0/PEASubmodel/Description): Operator-specific module description
 
 ## Contact
 
